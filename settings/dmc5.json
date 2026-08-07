@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "version": "1.0",
+    "app_source": "winlator-mali-bionic",
+    "game_name": "Devil May Cry 5",
+    "config_title": "Tensor G4, Playable",
+    "community_image": "https://cdn2.steamgriddb.com/grid/fd4db23ce429a55830da3305e51db396.png",
+    "notes": "The game is working but it has graphical issues like texture flicking. (RECOMMEND TO PLAY DX11 VERSION). Don't change the settings if you have r50 or above.",
+    "device": {
+      "manufacturer": "Google",
+      "model": "Pixel 9",
+      "soc": "tokay",
+      "gpu": "Mali-G715",
+      "ram": "12GB",
+      "storage": "110GB"
+    },
+    "timestamp": 1783684359
+  },
+  "container": {
+    "wineVersion": "proton-10-arm64ec",
+    "graphicsDriver": "wrapper-gamenative",
+    "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+    "dxwrapper": "dxvk+vkd3d",
+    "dxwrapperConfig": "version=v2.3.1-stripped,framerate=0,async=0,asyncCache=0,vkd3dVersion=2.14.1,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+    "audioDriver": "pulseaudio",
+    "emulator": "fexcore",
+    "box64Version": "0.4.3",
+    "box64Preset": "COMPATIBILITY",
+    "fexcoreVersion": "2605",
+    "fexcorePreset": "PERFORMANCE_TSO",
+    "cpuList": "0,1,2,3,4,5,6,7",
+    "cpuListWoW64": "4,5,6,7",
+    "screenSize": "1280x720",
+    "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+    "showFPS": false,
+    "fullscreenStretched": false,
+    "startupSelection": 2
+  },
+  "shortcut": {
+    "name": "Devil May Cry 5",
+    "path": "F:\\Download\\Flud\\Devil May Cry 5\\DevilMayCry5.exe",
+    "extraData": {
+      "emulationMode": "GAME_CONTROLLER",
+      "simTouchScreen": "0",
+      "screenSize": "960x544",
+      "graphicsDriver": "wrapper-gamenative",
+      "graphicsDriverConfig": "vulkanVersion=1.3;version=System;blacklistedExtensions=;maxDeviceMemory=0;presentMode=mailbox;syncFrame=0;disablePresentWait=0;astcTranscode=1;etc2Transcode=0;resourceType=auto;bcnEmulation=auto;bcnEmulationType=compute;bcnEmulationCache=0;gpuName=Device",
+      "dxwrapper": "dxvk+vkd3d",
+      "dxwrapperConfig": "version=v2.3.1-stripped,framerate=0,async=0,asyncCache=0,vkd3dVersion=2.8,vkd3dLevel=12_1,ddrawrapper=none,csmt=3,gpuName=NVIDIA GeForce GTX 480,videoMemorySize=2048,strict_shader_math=1,OffscreenRenderingMode=fbo,renderer=gl,dxvkConfig=1,maxDeviceMemory=0",
+      "audioDriver": "pulseaudio",
+      "emulator": "fexcore",
+      "midiSoundFont": "",
+      "lc_all": "ru_UA.UTF-8",
+      "wincomponents": "direct3d=1,directsound=0,directmusic=0,directshow=0,directplay=0,xaudio=0,vcrun2010=1,directinput=0",
+      "fexcoreVersion": "2605",
+      "fexcorePreset": "PERFORMANCE_TSO",
+      "box64Preset": "COMPATIBILITY",
+      "startupSelection": "2",
+      "sharpnessEffect": "None",
+      "sharpnessLevel": "100",
+      "sharpnessDenoise": "100",
+      "cpuList": "0,1,2,3,4,5,6,7",
+      "controlsProfile": "3"
+    }
+  }
+}
