@@ -1,0 +1,106 @@
+{
+  "name": "3rd_Person_OpenWorld",
+  "cursorSpeed": 1.0,
+  "controls": [
+    {
+      "id": 1,
+      "name": "Move Stick",
+      "type": "STICK",
+      "x": 6,
+      "y": 55,
+      "width": 24,
+      "height": 24,
+      "opacity": 35,
+      "binding": "LS"
+    },
+    {
+      "id": 2,
+      "name": "Camera Stick",
+      "type": "STICK",
+      "x": 70,
+      "y": 55,
+      "width": 24,
+      "height": 24,
+      "opacity": 35,
+      "binding": "RS"
+    },
+    {
+      "id": 3,
+      "name": "Button A (Jump)",
+      "type": "BUTTON",
+      "x": 86,
+      "y": 72,
+      "width": 10,
+      "height": 10,
+      "opacity": 35,
+      "binding": "A"
+    },
+    {
+      "id": 4,
+      "name": "Button B (Crouch)",
+      "type": "BUTTON",
+      "x": 92,
+      "y": 60,
+      "width": 10,
+      "height": 10,
+      "opacity": 35,
+      "binding": "B"
+    },
+    {
+      "id": 5,
+      "name": "Button X (Enter Vehicle)",
+      "type": "BUTTON",
+      "x": 80,
+      "y": 60,
+      "width": 10,
+      "height": 10,
+      "opacity": 35,
+      "binding": "X"
+    },
+    {
+      "id": 6,
+      "name": "Button Y (Sprint)",
+      "type": "BUTTON",
+      "x": 86,
+      "y": 48,
+      "width": 10,
+      "height": 10,
+      "opacity": 35,
+      "binding": "Y"
+    },
+    {
+      "id": 7,
+      "name": "Trigger LT (Aim)",
+      "type": "BUTTON",
+      "x": 6,
+      "y": 18,
+      "width": 14,
+      "height": 12,
+      "opacity": 40,
+      "binding": "LT"
+    },
+    {
+      "id": 8,
+      "name": "Trigger RT (Attack)",
+      "type": "BUTTON",
+      "x": 80,
+      "y": 18,
+      "width": 14,
+      "height": 12,
+      "opacity": 40,
+      "binding": "RT"
+    },
+    {
+      "id": 99,
+      "name": "Start / Menu",
+      "type": "BUTTON",
+      "x": 47,
+      "y": 4,
+      "width": 8,
+      "height": 7,
+      "opacity": 30,
+      "binding": "START"
+    }
+  ]
+}
+
