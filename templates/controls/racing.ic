@@ -1,0 +1,73 @@
+{
+  "name": "Racing_Standard",
+  "cursorSpeed": 1.0,
+  "controls": [
+    {
+      "id": 1,
+      "name": "Steering DPad",
+      "type": "DPAD",
+      "x": 6,
+      "y": 55,
+      "width": 26,
+      "height": 26,
+      "opacity": 35,
+      "binding": "DPAD"
+    },
+    {
+      "id": 2,
+      "name": "Accelerate (RT)",
+      "type": "BUTTON",
+      "x": 82,
+      "y": 55,
+      "width": 14,
+      "height": 22,
+      "opacity": 40,
+      "binding": "RT"
+    },
+    {
+      "id": 3,
+      "name": "Brake / Reverse (LT)",
+      "type": "BUTTON",
+      "x": 66,
+      "y": 62,
+      "width": 13,
+      "height": 18,
+      "opacity": 40,
+      "binding": "LT"
+    },
+    {
+      "id": 4,
+      "name": "Nitro (A)",
+      "type": "BUTTON",
+      "x": 82,
+      "y": 38,
+      "width": 11,
+      "height": 11,
+      "opacity": 35,
+      "binding": "A"
+    },
+    {
+      "id": 5,
+      "name": "Handbrake (B)",
+      "type": "BUTTON",
+      "x": 68,
+      "y": 45,
+      "width": 10,
+      "height": 10,
+      "opacity": 35,
+      "binding": "B"
+    },
+    {
+      "id": 99,
+      "name": "Start / Menu",
+      "type": "BUTTON",
+      "x": 47,
+      "y": 4,
+      "width": 8,
+      "height": 7,
+      "opacity": 30,
+      "binding": "START"
+    }
+  ]
+}
+
