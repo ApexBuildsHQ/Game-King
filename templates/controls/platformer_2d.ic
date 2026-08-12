@@ -1,0 +1,73 @@
+{
+  "name": "Platformer_2D_Standard",
+  "cursorSpeed": 1.0,
+  "controls": [
+    {
+      "id": 1,
+      "name": "Movement DPad",
+      "type": "DPAD",
+      "x": 6,
+      "y": 55,
+      "width": 26,
+      "height": 26,
+      "opacity": 35,
+      "binding": "DPAD"
+    },
+    {
+      "id": 2,
+      "name": "Jump (A)",
+      "type": "BUTTON",
+      "x": 83,
+      "y": 65,
+      "width": 12,
+      "height": 12,
+      "opacity": 35,
+      "binding": "A"
+    },
+    {
+      "id": 3,
+      "name": "Attack (X)",
+      "type": "BUTTON",
+      "x": 70,
+      "y": 65,
+      "width": 12,
+      "height": 12,
+      "opacity": 35,
+      "binding": "X"
+    },
+    {
+      "id": 4,
+      "name": "Dash (RT)",
+      "type": "BUTTON",
+      "x": 83,
+      "y": 48,
+      "width": 11,
+      "height": 11,
+      "opacity": 35,
+      "binding": "RT"
+    },
+    {
+      "id": 5,
+      "name": "Skill / Heal (B)",
+      "type": "BUTTON",
+      "x": 70,
+      "y": 48,
+      "width": 11,
+      "height": 11,
+      "opacity": 35,
+      "binding": "B"
+    },
+    {
+      "id": 99,
+      "name": "Start / Menu",
+      "type": "BUTTON",
+      "x": 47,
+      "y": 4,
+      "width": 8,
+      "height": 7,
+      "opacity": 30,
+      "binding": "START"
+    }
+  ]
+}
+
