@@ -1,0 +1,212 @@
+[
+  {
+    "id": "gta-iv",
+    "name": "Grand Theft Auto IV",
+    "download_url": "https://archive.org/download/grand-theft-auto-iv-2008-microsoft-rockstar-games-2-dvd-set_20220117/Grand.Theft.Auto.IV.2008.Microsoft.Rockstar.Games.2-DVD.Set.7z",
+    "container_profile": "high_end",
+    "controls_profile": "third_person_openworld"
+  },
+  {
+    "id": "gta-v",
+    "name": "Grand Theft Auto V",
+    "download_url": "https://archive.org/download/grand-theft-auto-v-fit-girl-lolly-repack/Grand Theft Auto V [FitGirl Lolly Repack].zip",
+    "container_profile": "high_end",
+    "controls_profile": "third_person_openworld"
+  },
+  {
+    "id": "skyrim",
+    "name": "The Elder Scrolls V: Skyrim",
+    "download_url": "https://archive.org/download/the-elder-scrolls-v-skyrim-goty-2011-bethesda-zenimax-dvd/The.Elder.Scrolls.V.Skyrim.GOTY.2011.Bethesda.Zenimax.DVD.7z",
+    "container_profile": "high_end",
+    "controls_profile": "third_person_openworld"
+  },
+  {
+    "id": "nfs-most-wanted-2005",
+    "name": "Need for Speed: Most Wanted (2005)",
+    "download_url": "https://archive.org/download/need-for-speed-most-wanted-2005_202510/nfsmwpatch1.3.zip",
+    "container_profile": "mid_range",
+    "controls_profile": "racing"
+  },
+  {
+    "id": "nfs-underground-2",
+    "name": "Need for Speed: Underground 2",
+    "download_url": "https://archive.org/download/NeedForSpeedUnderground2USA/Need for Speed - Underground 2 (USA) (Disc 1).zip",
+    "container_profile": "low_end",
+    "controls_profile": "racing"
+  },
+  {
+    "id": "resident-evil-4",
+    "name": "Resident Evil 4 (HD Edition / Classic)",
+    "download_url": "",
+    "container_profile": "low_end",
+    "controls_profile": "third_person_openworld"
+  },
+  {
+    "id": "resident-evil-5",
+    "name": "Resident Evil 5",
+    "download_url": "https://archive.org/download/resident_evil_5_argentine_dic_dump/ResidentEvil5ArgentineReleaseDIC.7z",
+    "container_profile": "mid_range",
+    "controls_profile": "third_person_openworld"
+  },
+  {
+    "id": "resident-evil-7",
+    "name": "Resident Evil 7: Biohazard",
+    "download_url": "https://archive.org/download/resident-evil-7-biohazard-repack/Resident_Evil_7_Biohazard_Repack.zip",
+    "container_profile": "high_end",
+    "controls_profile": "fps_shooter"
+  },
+  {
+    "id": "the-witcher-3",
+    "name": "The Witcher 3: Wild Hunt",
+    "download_url": "https://archive.org/download/the-witcher-3-wild-hunt-game-of-the-year-edition-pc-version-1.31/The Witcher 3 Wild Hunt Game of The Year edition (PC version 1.31).zip",
+    "container_profile": "high_end",
+    "controls_profile": "third_person_openworld"
+  },
+  {
+    "id": "dark-souls-remastered",
+    "name": "Dark Souls: Remastered",
+    "download_url": "https://archive.org/download/CA-WINDOWS-Dark-Souls-Remastered/Dark Souls - Remastered.7z",
+    "container_profile": "high_end",
+    "controls_profile": "third_person_openworld"
+  },
+  {
+    "id": "far-cry-3",
+    "name": "Far Cry 3",
+    "download_url": "https://archive.org/download/score258dvd/Score_2015-08_258_DVD_dic-files.zip",
+    "container_profile": "mid_range",
+    "controls_profile": "fps_shooter"
+  },
+  {
+    "id": "assassins-creed-2",
+    "name": "Assassin's Creed II",
+    "download_url": "https://archive.org/download/assassins-creed-ii-us-2107-heritage-collection-eur/Assassin's Creed II X360 EUR.7z",
+    "container_profile": "mid_range",
+    "controls_profile": "third_person_openworld"
+  },
+  {
+    "id": "assassins-creed-4",
+    "name": "Assassin's Creed IV: Black Flag",
+    "download_url": "https://archive.org/download/assassins-creed-iv-black-flag-compatibility-pack-1-mp-map-pack-world-addon.zip/Assassin's Creed IV - Black Flag - Compatibility Pack 1 - MP Map Pack (World) (Addon).zip",
+    "container_profile": "high_end",
+    "controls_profile": "third_person_openworld"
+  },
+  {
+    "id": "call-of-duty-mw2",
+    "name": "Call of Duty: Modern Warfare 2 (2009)",
+    "download_url": "https://archive.org/download/call-of-duty-modern-warfare-2-2009-activision-infinity-ward-disc-2-dvd/Call.Of.Duty.Modern.Warfare.2.2009.Activision.Infinity.Ward.Disc.2.DVD.7z",
+    "container_profile": "mid_range",
+    "controls_profile": "fps_shooter"
+  },
+  {
+    "id": "call-of-duty-black-ops",
+    "name": "Call of Duty: Black Ops",
+    "download_url": "https://archive.org/download/call-of-duty-black-ops-2-wii-u/Call of Duty Black Ops 2 [Wii U].7z",
+    "container_profile": "mid_range",
+    "controls_profile": "fps_shooter"
+  },
+  {
+    "id": "batman-arkham-city",
+    "name": "Batman: Arkham City",
+    "download_url": "https://archive.org/download/batman-arkham-city-lockdown/Batman-Arkham-City-Lockdown.zip",
+    "container_profile": "mid_range",
+    "controls_profile": "third_person_openworld"
+  },
+  {
+    "id": "prototype-1",
+    "name": "Prototype 1",
+    "download_url": "https://archive.org/download/games_20250625/Prototype 1 PS3/Cover/Prototype Black Label Cover_jp2.zip",
+    "container_profile": "mid_range",
+    "controls_profile": "third_person_openworld"
+  },
+  {
+    "id": "prototype-2",
+    "name": "Prototype 2",
+    "download_url": "https://archive.org/download/prototype-2-pcgame/Prototype_2_PCGame.zip",
+    "container_profile": "mid_range",
+    "controls_profile": "third_person_openworld"
+  },
+  {
+    "id": "devil-may-cry-5",
+    "name": "Devil May Cry 5",
+    "download_url": "https://archive.org/download/devil.-may.-cry.-5.v-2023.04.24.-incl.-all.-dlc/Devil.May.Cry.5.v2023.04.24.Incl.ALL.DLC.zip",
+    "container_profile": "high_end",
+    "controls_profile": "third_person_openworld"
+  },
+  {
+    "id": "tomb-raider-2013",
+    "name": "Tomb Raider (2013)",
+    "download_url": "https://archive.org/download/games_20250626_1816/Tomb Raider (2013) PS3/Cover/Tomb Raider 2013 Cover_jp2.zip",
+    "container_profile": "mid_range",
+    "controls_profile": "third_person_openworld"
+  },
+  {
+    "id": "outlast",
+    "name": "Outlast",
+    "download_url": "https://archive.org/download/outlast-complete-edition-pc_/Outlast - Complete Edition (GOG) (v1.0).zip",
+    "container_profile": "mid_range",
+    "controls_profile": "fps_shooter"
+  },
+  {
+    "id": "sleeping-dogs",
+    "name": "Sleeping Dogs",
+    "download_url": "https://archive.org/download/Sleeping-Dogs-Original-Version-PC-ISO/After Installation.zip",
+    "container_profile": "mid_range",
+    "controls_profile": "third_person_openworld"
+  },
+  {
+    "id": "metal-gear-rising",
+    "name": "Metal Gear Rising: Revengeance",
+    "download_url": "https://archive.org/download/metal-gear-rising-revengeance_202601/METAL GEAR RISING REVENGEANCE.zip",
+    "container_profile": "mid_range",
+    "controls_profile": "third_person_openworld"
+  },
+  {
+    "id": "naruto-storm-4",
+    "name": "Naruto Shippuden: Ultimate Ninja Storm 4",
+    "download_url": "https://archive.org/download/naruto-shippuden-ultimate-ninja-storm-4-mugen-v2.0/Naruto Shippuden Ultimate Ninja Storm 4 Mugen V2.0.zip",
+    "container_profile": "high_end",
+    "controls_profile": "fighting_anime"
+  },
+  {
+    "id": "dragon-ball-xenoverse-2",
+    "name": "Dragon Ball Xenoverse 2",
+    "download_url": "https://archive.org/download/dragon-ball-xenoverse-2-complete-edition-3/Dragon Ball Xenoverse 2 Complete Edition 3.zip",
+    "container_profile": "high_end",
+    "controls_profile": "fighting_anime"
+  },
+  {
+    "id": "pes-2017",
+    "name": "PES 2017 / FIFA 14",
+    "download_url": "",
+    "container_profile": "low_end",
+    "controls_profile": "third_person_openworld"
+  },
+  {
+    "id": "nfs-payback-rivals",
+    "name": "Need for Speed: Payback / Rivals",
+    "download_url": "",
+    "container_profile": "high_end",
+    "controls_profile": "racing"
+  },
+  {
+    "id": "hollow-knight",
+    "name": "Hollow Knight",
+    "download_url": "https://archive.org/download/hollow-knight-1.5.80.11835-windows-drmfree/Hollow_Knight_1.5.80.11835_WindowsDRMFree.zip",
+    "container_profile": "low_end",
+    "controls_profile": "platformer_2d"
+  },
+  {
+    "id": "cuphead",
+    "name": "Cuphead",
+    "download_url": "https://archive.org/download/cuphead-alpha0-6.7z/cuphead-alpha0-8-2.zip",
+    "container_profile": "low_end",
+    "controls_profile": "platformer_2d"
+  },
+  {
+    "id": "mafia-2-classic",
+    "name": "Mafia II (Classic)",
+    "download_url": "",
+    "container_profile": "mid_range",
+    "controls_profile": "third_person_openworld"
+  }
+]
