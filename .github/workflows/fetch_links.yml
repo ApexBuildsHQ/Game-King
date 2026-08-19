@@ -1,0 +1,37 @@
+name: Fetch Game Download Links
+
+on:
+  workflow_dispatch: # تشغيل يدوياً من واجهة GitHub
+
+jobs:
+  fetch-links:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # السماح بحفظ الملف المُحدث في المستودع
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install requests
+
+      - name: Run Search Script
+        run: |
+          python fetch_game_links.py
+
+      - name: Commit and Push game_links.json
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add game_links.json
+          git commit -m "Auto-update game_links.json with direct archive links" || exit 0
+          git push
+
