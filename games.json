@@ -2,210 +2,210 @@
   {
     "id": "gta-iv",
     "name": "Grand Theft Auto IV",
-    "download_url": "https://archive.org/download/gta-iv-disc-1_202509/GTAIV.7z",
+    "download_url": "",
     "container_profile": "high_end",
     "controls_profile": "third_person_openworld"
   },
   {
     "id": "gta-v",
     "name": "Grand Theft Auto V",
-    "download_url": "https://archive.org/download/gta-v-portable/GTAV.7z",
+    "download_url": "",
     "container_profile": "high_end",
     "controls_profile": "third_person_openworld"
   },
   {
     "id": "skyrim",
     "name": "The Elder Scrolls V: Skyrim",
-    "download_url": "https://archive.org/download/skyrim-legendary-edition/Skyrim.7z",
+    "download_url": "",
     "container_profile": "high_end",
     "controls_profile": "third_person_openworld"
   },
   {
     "id": "nfs-most-wanted-2005",
     "name": "Need for Speed: Most Wanted (2005)",
-    "download_url": "https://archive.org/download/nfs-most-wanted-2005-black-edition/NFSMW.7z",
+    "download_url": "",
     "container_profile": "mid_range",
     "controls_profile": "racing"
   },
   {
     "id": "nfs-underground-2",
     "name": "Need for Speed: Underground 2",
-    "download_url": "https://archive.org/download/nfs-underground-2-pc/NFSU2.7z",
+    "download_url": "",
     "container_profile": "low_end",
     "controls_profile": "racing"
   },
   {
     "id": "resident-evil-4",
     "name": "Resident Evil 4 (HD Edition / Classic)",
-    "download_url": "https://archive.org/download/re4-hd-edition-pc/RE4.7z",
+    "download_url": "",
     "container_profile": "low_end",
     "controls_profile": "third_person_openworld"
   },
   {
     "id": "resident-evil-5",
     "name": "Resident Evil 5",
-    "download_url": "https://archive.org/download/re5-gold-edition-pc/RE5.7z",
+    "download_url": "",
     "container_profile": "mid_range",
     "controls_profile": "third_person_openworld"
   },
   {
     "id": "resident-evil-7",
     "name": "Resident Evil 7 Biohazard",
-    "download_url": "https://archive.org/download/re7-biohazard-pc/RE7.7z",
+    "download_url": "",
     "container_profile": "high_end",
     "controls_profile": "fps_shooter"
   },
   {
     "id": "the-witcher-3",
     "name": "The Witcher 3: Wild Hunt",
-    "download_url": "https://archive.org/download/witcher-3-wild-hunt-pc/Witcher3.7z",
+    "download_url": "",
     "container_profile": "high_end",
     "controls_profile": "third_person_openworld"
   },
   {
     "id": "dark-souls-remastered",
     "name": "Dark Souls: Remastered",
-    "download_url": "https://archive.org/download/dark-souls-remastered-pc/DarkSouls.7z",
+    "download_url": "",
     "container_profile": "high_end",
     "controls_profile": "third_person_openworld"
   },
   {
     "id": "far-cry-3",
     "name": "Far Cry 3",
-    "download_url": "https://archive.org/download/far-cry-3-pc-portable/FarCry3.7z",
+    "download_url": "",
     "container_profile": "mid_range",
     "controls_profile": "fps_shooter"
   },
   {
     "id": "assassins-creed-2",
     "name": "Assassin's Creed II",
-    "download_url": "https://archive.org/download/assassins-creed-2-pc/AC2.7z",
+    "download_url": "",
     "container_profile": "mid_range",
     "controls_profile": "third_person_openworld"
   },
   {
     "id": "assassins-creed-4",
     "name": "Assassin's Creed IV: Black Flag",
-    "download_url": "https://archive.org/download/ac4-black-flag-pc/AC4BF.7z",
+    "download_url": "",
     "container_profile": "high_end",
     "controls_profile": "third_person_openworld"
   },
   {
     "id": "call-of-duty-mw2",
     "name": "Call of Duty: Modern Warfare 2 (2009)",
-    "download_url": "https://archive.org/download/cod-mw2-2009-pc/COD_MW2.7z",
+    "download_url": "",
     "container_profile": "mid_range",
     "controls_profile": "fps_shooter"
   },
   {
     "id": "call-of-duty-black-ops",
     "name": "Call of Duty: Black Ops",
-    "download_url": "https://archive.org/download/cod-black-ops-pc/COD_BO.7z",
+    "download_url": "",
     "container_profile": "mid_range",
     "controls_profile": "fps_shooter"
   },
   {
     "id": "batman-arkham-city",
     "name": "Batman: Arkham City",
-    "download_url": "https://archive.org/download/batman-arkham-city-goty/BatmanAC.7z",
+    "download_url": "",
     "container_profile": "mid_range",
     "controls_profile": "third_person_openworld"
   },
   {
     "id": "prototype-1",
     "name": "Prototype 1",
-    "download_url": "https://archive.org/download/prototype-1-pc/Prototype.7z",
+    "download_url": "",
     "container_profile": "mid_range",
     "controls_profile": "third_person_openworld"
   },
   {
     "id": "prototype-2",
     "name": "Prototype 2",
-    "download_url": "https://archive.org/download/prototype-2-pc/Prototype2.7z",
+    "download_url": "",
     "container_profile": "mid_range",
     "controls_profile": "third_person_openworld"
   },
   {
     "id": "devil-may-cry-5",
     "name": "Devil May Cry 5",
-    "download_url": "https://archive.org/download/devil-may-cry-5-pc/DMC5.7z",
+    "download_url": "",
     "container_profile": "high_end",
     "controls_profile": "third_person_openworld"
   },
   {
     "id": "tomb-raider-2013",
     "name": "Tomb Raider (2013)",
-    "download_url": "https://archive.org/download/tomb-raider-2013-goty/TombRaider.7z",
+    "download_url": "",
     "container_profile": "mid_range",
     "controls_profile": "third_person_openworld"
   },
   {
     "id": "outlast",
     "name": "Outlast",
-    "download_url": "https://archive.org/download/outlast-pc-portable/Outlast.7z",
+    "download_url": "",
     "container_profile": "mid_range",
     "controls_profile": "fps_shooter"
   },
   {
     "id": "sleeping-dogs",
     "name": "Sleeping Dogs",
-    "download_url": "https://archive.org/download/sleeping-dogs-definitive-edition/SleepingDogs.7z",
+    "download_url": "",
     "container_profile": "mid_range",
     "controls_profile": "third_person_openworld"
   },
   {
     "id": "metal-gear-rising",
     "name": "Metal Gear Rising: Revengeance",
-    "download_url": "https://archive.org/download/mgr-revengeance-pc/MGRR.7z",
+    "download_url": "",
     "container_profile": "mid_range",
     "controls_profile": "third_person_openworld"
   },
   {
     "id": "naruto-storm-4",
     "name": "Naruto Shippuden: Ultimate Ninja Storm 4",
-    "download_url": "https://archive.org/download/naruto-storm-4-pc/NSUNS4.7z",
+    "download_url": "",
     "container_profile": "high_end",
     "controls_profile": "fighting_anime"
   },
   {
     "id": "dragon-ball-xenoverse-2",
     "name": "Dragon Ball Xenoverse 2",
-    "download_url": "https://archive.org/download/db-xenoverse-2-pc/DBXV2.7z",
+    "download_url": "",
     "container_profile": "high_end",
     "controls_profile": "fighting_anime"
   },
   {
     "id": "pes-2017",
     "name": "PES 2017 / FIFA 14",
-    "download_url": "https://archive.org/download/pes-2017-pc-portable/PES2017.7z",
+    "download_url": "",
     "container_profile": "low_end",
     "controls_profile": "third_person_openworld"
   },
   {
     "id": "nfs-payback-rivals",
     "name": "Need for Speed: Payback / Rivals",
-    "download_url": "https://archive.org/download/nfs-rivals-pc/NFSRivals.7z",
+    "download_url": "",
     "container_profile": "high_end",
     "controls_profile": "racing"
   },
   {
     "id": "hollow-knight",
     "name": "Hollow Knight",
-    "download_url": "https://archive.org/download/hollow-knight-pc/HollowKnight.7z",
+    "download_url": "",
     "container_profile": "low_end",
     "controls_profile": "platformer_2d"
   },
   {
     "id": "cuphead",
     "name": "Cuphead",
-    "download_url": "https://archive.org/download/cuphead-pc-portable/Cuphead.7z",
+    "download_url": "",
     "container_profile": "low_end",
     "controls_profile": "platformer_2d"
   },
   {
     "id": "mafia-2-classic",
     "name": "Mafia II (Classic)",
-    "download_url": "https://archive.org/download/mafia-2-classic-pc/MafiaII.7z",
+    "download_url": "",
     "container_profile": "mid_range",
     "controls_profile": "third_person_openworld"
   }
