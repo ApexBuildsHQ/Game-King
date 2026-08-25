@@ -1,5 +1,12 @@
 [
   {
+  "id": "gta-san-andreas",
+  "name": "Grand Theft Auto: San Andreas",
+  "download_url": "",
+  "container_profile": "low_end",
+  "controls_profile": "third_person_openworld"
+  },
+  {
     "id": "gta-iv",
     "name": "Grand Theft Auto IV",
     "download_url": "",
