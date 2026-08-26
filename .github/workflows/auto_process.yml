@@ -1,0 +1,45 @@
+name: Auto Build & Deploy Winlator Games
+
+on:
+  push:
+    paths:
+      - 'games.json'
+  workflow_dispatch:
+
+jobs:
+  build-and-upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Maximize Runner Disk Space
+        uses: easimon/maximize-build-space@v10
+        with:
+          root-reserve-mb: 10240
+          swap-size-mb: 1024
+          remove-dotnet: 'true'
+          remove-android: 'true'
+          remove-haskell: 'true'
+
+      - name: Install System Tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y p7zip-full unrar curl
+          python3 -m pip install huggingface_hub
+
+      - name: Process Pending Games
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_REPO: 'bin-data-node/sys-pkg-store'
+        run: python3 process_games.py
+
+      - name: Commit and Push Updated Progress & Links
+        run: |
+          git config --global user.name "Game Builder Bot"
+          git config --global user.email "bot@github.com"
+          git add progress.json game_links.json
+          git commit -m "Auto-update processed game links" || exit 0
+          git push
+
