@@ -1,3 +1,4 @@
 {
-  "gta-iv": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_5922d831ec05_data.7z"
+  "gta-iv": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_5922d831ec05_data.7z",
+  "skyrim-se": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_d773d23234e9_data.7z"
 }
