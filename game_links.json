@@ -107,7 +107,7 @@
   {
     "id": "call-of-duty-mw2",
     "name": "Call of Duty: Modern Warfare 2 (2009)",
-    "download_url": "",
+    "download_url": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_43f5944f3322_data.7z",
     "container_profile": "mid_range",
     "controls_profile": "fps_shooter"
   },

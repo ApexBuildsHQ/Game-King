@@ -1,5 +1,6 @@
 {
   "gta-iv": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_5922d831ec05_data.7z",
   "skyrim-se": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_d773d23234e9_data.7z",
-  "skyrim-le": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_2004e0524d4e_data.7z"
+  "skyrim-le": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_2004e0524d4e_data.7z",
+  "call-of-duty-mw2": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_43f5944f3322_data.7z"
 }
