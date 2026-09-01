@@ -30,7 +30,7 @@
   {
     "id": "skyrim-le",
     "name": "The Elder Scrolls V: Skyrim - Legendary Edition (32-bit / Low Specs)",
-    "download_url": "",
+    "download_url": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_2004e0524d4e_data.7z",
     "container_profile": "mid_range",
     "controls_profile": "third_person_openworld"
   },
