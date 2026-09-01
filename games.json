@@ -23,14 +23,14 @@
   {
     "id": "skyrim-se",
     "name": "The Elder Scrolls V: Skyrim - Special Edition (64-bit)",
-    "download_url": "https://ts.bzzhr.to/d/vqlbz2is5lo2?v=X7MbdwASXh2Ob_w52aYgIAKNDPPqn3k9tNOTPtoKqtGLVxBkxyZJcQG7MuJDZGjiJW_XbafX_6RWKRiKuWMqMRgE8dl-hwMinlThgH4zN9UbU-AiQTPRc-aG6GYffgCtUpjGkD_LOxs5iqYTiaJ_TGx5EN9xiN1FA7FOlh2-BU9S3_L7eG4YjQo1O5Xb",
+    "download_url": "",
     "container_profile": "high_end",
     "controls_profile": "third_person_openworld"
   },
   {
     "id": "skyrim-le",
     "name": "The Elder Scrolls V: Skyrim - Legendary Edition (32-bit / Low Specs)",
-    "download_url": "",
+    "download_url": "https://ts.bzzhr.to/d/q3d9qdygn1vw?v=eqAQuOO_Sd0TfSlyT8f2AGPd5AIoCLEaJCdwMEH7m1CaWGdldBlHmzLx3CsJwD8MMeUCyXdBa_wk3I-rTQF3cR0obDOIiEBHcBywgGvVl-OkfWTbaz16Rlu-8TKrNaV_47tmOwGJGo2jNn4WvwAyq_4IdElX1pJ68OM8qUvpyd3YhXqYMkti5M4e-D705nJJwuETxbSleWgPGD2AxFzzMndAVXfr7TBPrCAwRXqqHa_gqdwNY5rKaEVtnQwWFEP9JvxVlnRVwAXN3kzk0Txz",
     "container_profile": "mid_range",
     "controls_profile": "third_person_openworld"
   },
