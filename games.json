@@ -30,7 +30,7 @@
   {
     "id": "skyrim-le",
     "name": "The Elder Scrolls V: Skyrim - Legendary Edition (32-bit / Low Specs)",
-    "download_url": "https://ts.bzzhr.to/d/q3d9qdygn1vw?v=eqAQuOO_Sd0TfSlyT8f2AGPd5AIoCLEaJCdwMEH7m1CaWGdldBlHmzLx3CsJwD8MMeUCyXdBa_wk3I-rTQF3cR0obDOIiEBHcBywgGvVl-OkfWTbaz16Rlu-8TKrNaV_47tmOwGJGo2jNn4WvwAyq_4IdElX1pJ68OM8qUvpyd3YhXqYMkti5M4e-D705nJJwuETxbSleWgPGD2AxFzzMndAVXfr7TBPrCAwRXqqHa_gqdwNY5rKaEVtnQwWFEP9JvxVlnRVwAXN3kzk0Txz",
+    "download_url": "",
     "container_profile": "mid_range",
     "controls_profile": "third_person_openworld"
   },
@@ -107,7 +107,7 @@
   {
     "id": "call-of-duty-mw2",
     "name": "Call of Duty: Modern Warfare 2 (2009)",
-    "download_url": "",
+    "download_url": "https://ts.bzzhr.to/d/knucsq0eaku7?v=5V1__1gMY5mrejlqJdEteeIj9W2skgBTw6uEAqlF1PKtPEECJl3E3JnPBlPjTXaGALoDy_jkZuJldrjmyH6jQC74_yXjQbCAzRiuaCESmHeXwj7LRbpARI4fIp79fE9BfoOiKdv5j_hO4hfQl0wrsgYYoStAVm8p1gWQES8QzKXzphwCgLHHPAQ8C01yCLTMa1-I_MkISw",
     "container_profile": "mid_range",
     "controls_profile": "fps_shooter"
   },
