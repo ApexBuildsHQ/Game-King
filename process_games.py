@@ -192,7 +192,7 @@ def process():
 
             # 4. التجميع السريع جداً بدون ضغط مجهد (-mx=0) لإنشاء حزمة واحدة
             obfuscated_filename = get_obfuscated_filename(game_id)
-            subprocess.run(f"cd '{EXTRACT_DIR}' && 7z a -t7z -mx=0 '../../{obfuscated_filename}' ./*", shell=True, check=True)
+            subprocess.run(f"cd '{EXTRACT_DIR}' && 7z a -t7z -mx=1 '../../{obfuscated_filename}' ./*", shell=True, check=True)
 
             # 5. الرفع باستخدام أمر hf الحديث المخصص للحزم الضخمة
             upload_cmd = (
