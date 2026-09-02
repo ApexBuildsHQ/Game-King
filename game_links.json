@@ -191,7 +191,7 @@
   {
     "id": "fifa-14",
     "name": "PES 2017 / FIFA 14",
-    "download_url": "",
+    "download_url": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_fdb2fe4ba569_data.7z",
     "container_profile": "low_end",
     "controls_profile": "third_person_openworld"
   },

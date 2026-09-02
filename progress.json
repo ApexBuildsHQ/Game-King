@@ -3,5 +3,6 @@
   "skyrim-le": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_2004e0524d4e_data.7z",
   "skyrim-se": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_d773d23234e9_data.7z",
   "call-of-duty-mw2": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_43f5944f3322_data.7z",
-  "assassins-creed-2": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_476b97e767aa_data.7z"
+  "assassins-creed-2": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_476b97e767aa_data.7z",
+  "fifa-14": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_fdb2fe4ba569_data.7z"
 }
