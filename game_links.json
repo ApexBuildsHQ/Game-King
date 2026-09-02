@@ -9,7 +9,7 @@
   {
     "id": "gta-iv",
     "name": "Grand Theft Auto IV",
-    "download_url": "",
+    "download_url": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_5922d831ec05_data.7z",
     "container_profile": "high_end",
     "controls_profile": "third_person_openworld"
   },
@@ -23,14 +23,14 @@
   {
     "id": "skyrim-se",
     "name": "The Elder Scrolls V: Skyrim - Special Edition (64-bit)",
-    "download_url": "",
+    "download_url": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_d773d23234e9_data.7z",
     "container_profile": "high_end",
     "controls_profile": "third_person_openworld"
   },
   {
     "id": "skyrim-le",
     "name": "The Elder Scrolls V: Skyrim - Legendary Edition (32-bit / Low Specs)",
-    "download_url": "",
+    "download_url": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_2004e0524d4e_data.7z",
     "container_profile": "mid_range",
     "controls_profile": "third_person_openworld"
   },
@@ -93,7 +93,7 @@
   {
     "id": "assassins-creed-2",
     "name": "Assassin's Creed II",
-    "download_url": "",
+    "download_url": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_476b97e767aa_data.7z",
     "container_profile": "mid_range",
     "controls_profile": "third_person_openworld"
   },
