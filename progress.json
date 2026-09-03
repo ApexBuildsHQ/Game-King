@@ -8,5 +8,6 @@
   "resident-evil-5": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_2a7f674c73fa_data.7z",
   "batman-arkham-city": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_c0842c861d5a_data.7z",
   "prototype-2": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_e9c89054c476_data.7z",
-  "hollow-knight": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_60103b625bfe_data.7z"
+  "hollow-knight": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_60103b625bfe_data.7z",
+  "metal-gear-rising": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_97d262189f92_data.7z"
 }

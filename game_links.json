@@ -170,7 +170,7 @@
   {
     "id": "metal-gear-rising",
     "name": "Metal Gear Rising: Revengeance",
-    "download_url": "",
+    "download_url": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_97d262189f92_data.7z",
     "container_profile": "mid_range",
     "controls_profile": "third_person_openworld"
   },
