@@ -58,7 +58,7 @@
   {
     "id": "resident-evil-5",
     "name": "Resident Evil 5",
-    "download_url": "",
+    "download_url": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_2a7f674c73fa_data.7z",
     "container_profile": "mid_range",
     "controls_profile": "third_person_openworld"
   },
