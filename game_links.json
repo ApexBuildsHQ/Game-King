@@ -121,7 +121,7 @@
   {
     "id": "batman-arkham-city",
     "name": "Batman: Arkham City",
-    "download_url": "",
+    "download_url": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_c0842c861d5a_data.7z",
     "container_profile": "mid_range",
     "controls_profile": "third_person_openworld"
   },
