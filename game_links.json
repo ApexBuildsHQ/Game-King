@@ -135,7 +135,7 @@
   {
     "id": "prototype-2",
     "name": "Prototype 2",
-    "download_url": "",
+    "download_url": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_e9c89054c476_data.7z",
     "container_profile": "mid_range",
     "controls_profile": "third_person_openworld"
   },
@@ -205,7 +205,7 @@
   {
     "id": "hollow-knight",
     "name": "Hollow Knight",
-    "download_url": "",
+    "download_url": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_60103b625bfe_data.7z",
     "container_profile": "low_end",
     "controls_profile": "platformer_2d"
   },
