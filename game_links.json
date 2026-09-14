@@ -2,7 +2,7 @@
   {
     "id": "gta-san-andreas",
     "name": "Grand Theft Auto: San Andreas",
-    "download_url": "",
+    "download_url": "https://huggingface.co/datasets/bin-data-node/sys-pkg-store/resolve/main/bins/pkg_61de0ccd7ded_data.7z",
     "container_profile": "low_end",
     "controls_profile": "third_person_openworld"
   },
