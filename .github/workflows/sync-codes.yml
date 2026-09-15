@@ -1,17 +1,15 @@
-name: Daily Game Codes Scraper
+name: Daily Game Codes Sync
 
 on:
   schedule:
-    # يعمل تلقائياً يومياً الساعة 12 ظهراً بتوقيت UTC
-    - cron: '0 12 * * *'
-  workflow_dispatch: # يتيح لك تشغيل السكربت يدوياً بأي وقت من تبويب Actions
-
-permissions:
-  contents: write # صلاحية رفع التعديلات وإجراء Commit للمستودع
+    # يعمل تلقائياً كل يوم الساعة 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # يتيح لك تشغيل السكربت يدوياً بنقرة زر من GitHub
 
 jobs:
-  scrape:
+  build-and-sync:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -26,14 +24,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
 
-      - name: Run Scraper Script
-        run: python scripts/fetch_codes.py # غير اسم الملف هنا إذا كان اسم ملف البايثون مختلفاً لديك
+      - name: Run Code Extractor Script
+        run: python scripts/fetch_codes.py
 
-      - name: Commit and Push Game Codes
+      - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
           git add codes.json
-          git commit -m "Auto-update game codes [skip ci]" || exit 0
-          git push
-
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update game codes [skip ci]" && git push)
