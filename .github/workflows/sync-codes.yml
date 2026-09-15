@@ -30,7 +30,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action Bot"
-          git add clean_codes.json
+          git add codes.json
           git commit -m "Auto-update clean game codes [skip ci]" || exit 0
           git push
 
