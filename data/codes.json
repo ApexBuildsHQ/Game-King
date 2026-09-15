@@ -1,0 +1,423 @@
+{
+  "last_updated": "2026-09-15T12:51:05.818561+00:00",
+  "games": {
+    "genshin_impact": {
+      "name": "Genshin Impact",
+      "category": "Gacha",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "honkai_star_rail": {
+      "name": "Honkai: Star Rail",
+      "category": "Gacha",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "zenless_zone_zero": {
+      "name": "Zenless Zone Zero",
+      "category": "Gacha",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "wuthering_waves": {
+      "name": "Wuthering Waves",
+      "category": "Gacha",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "solo_leveling_arise": {
+      "name": "Solo Leveling: Arise",
+      "category": "Gacha",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "tower_of_fantasy": {
+      "name": "Tower of Fantasy",
+      "category": "Gacha",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "dislyte": {
+      "name": "Dislyte",
+      "category": "Gacha",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "cookie_run_kingdom": {
+      "name": "Cookie Run: Kingdom",
+      "category": "Gacha",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "afk_arena": {
+      "name": "AFK Arena",
+      "category": "Gacha",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "nikke": {
+      "name": "Goddess of Victory: Nikke",
+      "category": "Gacha",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "arknights": {
+      "name": "Arknights",
+      "category": "Gacha",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "epic_seven": {
+      "name": "Epic Seven",
+      "category": "Gacha",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "fate_grand_order": {
+      "name": "Fate/Grand Order",
+      "category": "Gacha",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "blue_archive": {
+      "name": "Blue Archive",
+      "category": "Gacha",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "pubg_mobile": {
+      "name": "PUBG Mobile",
+      "category": "Battle Royale",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "codm": {
+      "name": "Call of Duty: Mobile",
+      "category": "Battle Royale",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "free_fire": {
+      "name": "Garena Free Fire",
+      "category": "Battle Royale",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "dead_by_daylight": {
+      "name": "Dead by Daylight",
+      "category": "Battle Royale",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "roblox_blox_fruits": {
+      "name": "Roblox: Blox Fruits",
+      "category": "Roblox",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "roblox_anime_defenders": {
+      "name": "Roblox: Anime Defenders",
+      "category": "Roblox",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "roblox_pet_simulator_99": {
+      "name": "Roblox: Pet Simulator 99",
+      "category": "Roblox",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "roblox_blade_ball": {
+      "name": "Roblox: Blade Ball",
+      "category": "Roblox",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "roblox_all_star_tower": {
+      "name": "Roblox: All Star Tower Defense",
+      "category": "Roblox",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "roblox_bedwars": {
+      "name": "Roblox: BedWars",
+      "category": "Roblox",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "roblox_evomon": {
+      "name": "Roblox: Evomon",
+      "category": "Roblox",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "pokemon_go": {
+      "name": "Pokémon GO",
+      "category": "Mobile",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "whiteout_survival": {
+      "name": "Whiteout Survival",
+      "category": "Strategy",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "state_of_survival": {
+      "name": "State of Survival",
+      "category": "Strategy",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "rise_of_kingdoms": {
+      "name": "Rise of Kingdoms",
+      "category": "Strategy",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "raid_shadow_legends": {
+      "name": "Raid: Shadow Legends",
+      "category": "Strategy",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "lords_mobile": {
+      "name": "Lords Mobile",
+      "category": "Strategy",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "clash_of_clans": {
+      "name": "Clash of Clans",
+      "category": "Strategy",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "ea_sports_fc": {
+      "name": "EA Sports FC Mobile",
+      "category": "Sports",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "nba_2k": {
+      "name": "NBA 2K Mobile",
+      "category": "Sports",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "rocket_league": {
+      "name": "Rocket League Sideswipe",
+      "category": "Sports",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "mlbb": {
+      "name": "Mobile Legends: Bang Bang",
+      "category": "Sports",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "brawl_stars": {
+      "name": "Brawl Stars",
+      "category": "Sports",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    },
+    "clash_royale": {
+      "name": "Clash Royale",
+      "category": "Sports",
+      "codes_count": 1,
+      "free_codes": [
+        "WELCOME_PROMO_2026"
+      ],
+      "vip_codes": [
+        "VIP_LOCKED_CODE"
+      ]
+    }
+  }
+}
