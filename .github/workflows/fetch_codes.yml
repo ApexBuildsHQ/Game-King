@@ -1,0 +1,39 @@
+name: Auto Game Codes Scraper
+
+on:
+  schedule:
+    # التشغيل التلقائي كل 24 ساعة (عند الساعة 00:00 بتوقيت UTC)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # إمكانية التشغيل اليدوي بنقرة زر
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Run Fetch Script
+        run: python scripts/fetch_codes.py
+
+      - name: Commit and Push Database
+        run: |
+          git config --global user.name "GameKingBot"
+          git config --global user.email "actions@github.com"
+          git add data/codes.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update game codes database [skip ci]" && git push)
+
