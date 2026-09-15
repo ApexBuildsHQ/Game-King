@@ -1,0 +1,50 @@
+name: Sync Game Codes
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # تشغيل تلقائي كل 6 ساعات
+  workflow_dispatch: # إمكانية التشغيل اليدوي من تبويب Actions
+
+permissions:
+  contents: write # إعطاء صلاحية التعديل لحفظ ملفات JSON
+
+jobs:
+  build-and-sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. سحب كود المستودع
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      # 2. إعداد بيئة بايثون
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      # 3. تثبيت المكتبات المطلوبة
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      # 4. تشغيل سكريبت البايثون وتمرير المفاتيح السرية
+      - name: Run Fetch Script
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          CF_WORKER_URL: ${{ secrets.CF_WORKER_URL }}
+          CF_WORKER_SECRET: ${{ secrets.CF_WORKER_SECRET }}
+        run: |
+          python scripts/sync-codes.py
+
+      # 5. حفظ التغيرات في codes.json و cache_hashes.json ورفعها للمستودع
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add codes.json cache_hashes.json
+          git status
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update game codes [skip ci]" && git push)
+
