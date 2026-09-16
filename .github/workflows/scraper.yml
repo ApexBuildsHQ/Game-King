@@ -1,0 +1,39 @@
+name: Game Codes Auto Scraper
+
+on:
+  schedule:
+    # التشغيل التلقائي كل 6 ساعات
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # إمكانية التشغيل اليدوي بنقرة زر
+
+jobs:
+  build-and-scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Execute Python Scraper
+        env:
+          WORKER_URL: ${{ secrets.WORKER_URL }}
+        run: python scripts/main.py
+
+      - name: Commit and Push Updated Codes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add codes.json
+          git commit -m "Auto-update game codes [skip ci]" || exit 0
+          git push
+
