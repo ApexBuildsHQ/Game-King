@@ -80,7 +80,7 @@ def fetch_raw_data(url):
 
     return ""
 
- def extract_candidate_codes(text):
+def extract_candidate_codes(text):
     if not text:
         return []
     
