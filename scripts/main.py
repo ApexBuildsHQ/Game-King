@@ -14,24 +14,15 @@ except ImportError:
 GEMINI_KEY = os.getenv("GEMINI_API_KEY")
 
 def get_active_model():
-    """اكتشاف أحدث وأسرع نموذج متاح لمفتاح الـ API تلقائياً"""
+    """تحديد نموذج Gemini المستقر مباشرة"""
     if not HAS_GEMINI or not GEMINI_KEY:
         return None
     try:
         genai.configure(api_key=GEMINI_KEY)
-        models = list(genai.list_models())
-        
-        # تفضيل نماذج Flash المتاحة للتوليد
-        for m in models:
-            if 'generateContent' in m.supported_generation_methods and 'flash' in m.name.lower():
-                return m.name
-        # خطة بديلة: أول نموذج يدعم التوليد
-        for m in models:
-            if 'generateContent' in m.supported_generation_methods:
-                return m.name
+        return "models/gemini-1.5-flash"
     except Exception as e:
-        print(f"⚠️ تعذر استعلام قائمة النماذج: {e}")
-    return "models/gemini-1.5-flash"
+        print(f"⚠️ تعذر ضبط مفتاح Gemini: {e}")
+    return None
 
 ACTIVE_MODEL_NAME = get_active_model()
 
