@@ -78,18 +78,25 @@ def fetch_raw_data(url):
     return ""
 
 def extract_candidate_codes(text):
-    """استخراج الأكواد المقبولة لـ NBA 2K (تدعم الأكواد المقسمة بشرطات مثل XXX-XXX-XXX)"""
     if not text:
         return []
     
-    # regex يستخرج الأكواد التي تحتوي على شرطات (-) أو نصوص ورموز متصلة بطول 6 إلى 30 حرف
-    raw_matches = re.findall(r'\b[a-zA-Z0-9]+(?:-[a-zA-Z0-9]+)+\b|\b[a-zA-Z0-9_]{6,25}\b', text)
+    # البحث عن الأكواد المقسمة بشرطات أو الأكواد المكونة من أحرف وأرقام
+    raw_matches = re.findall(r'\b[a-zA-Z0-9]+(?:-[a-zA-Z0-9]+)+\b|\b[a-zA-Z0-9_]{8,25}\b', text)
     valid_candidates = []
     today_str = datetime.now().strftime("%Y-%m-%d")
 
     for match in raw_matches:
         upper_match = match.upper().replace("-", "")
-        if upper_match not in EXCLUDED_WORDS and not match.isdigit() and len(match) >= 6:
+        # الكود الحقيقي إما يحتوي على شرطة (-) أو أحرف كبيرة وأرقام
+        has_hyphen = "-" in match
+        is_all_lowercase = match.islower() and not any(char.isdigit() for char in match)
+        
+        if (upper_match not in EXCLUDED_WORDS 
+            and not match.isdigit() 
+            and not is_all_lowercase 
+            and (has_hyphen or any(char.isdigit() for char in match) or match.isupper())):
+            
             valid_candidates.append({
                 "code": match,
                 "date": today_str
