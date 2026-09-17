@@ -78,17 +78,22 @@ def fetch_raw_data(url):
     return ""
 
 def extract_candidate_codes(text):
-    """استخراج الأكواد مع الحفاظ على حالة الأحرف والرموز مثل _"""
     if not text:
         return []
     
-    raw_matches = re.findall(r'\b[a-zA-Z0-9_]{4,25}\b', text)
+    raw_matches = re.findall(r'\b[a-zA-Z0-9_]{5,25}\b', text)
     valid_candidates = []
     today_str = datetime.now().strftime("%Y-%m-%d")
 
     for match in raw_matches:
         upper_match = match.upper()
-        if upper_match not in EXCLUDED_WORDS and not match.isdigit() and len(match) >= 4:
+        # ألعاب روبلوكس تسمح بـ Sub2... لذا نستبعد الكلمات الصغيرة تماماً بدون أرقام
+        is_pure_lowercase_word = match.islower() and not any(char.isdigit() for char in match)
+
+        if (upper_match not in EXCLUDED_WORDS 
+            and not match.isdigit() 
+            and not is_pure_lowercase_word):
+            
             valid_candidates.append({
                 "code": match,
                 "date": today_str
