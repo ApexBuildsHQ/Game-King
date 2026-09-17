@@ -81,17 +81,23 @@ def fetch_raw_data(url):
     return ""
 
 def extract_candidate_codes(text):
-    """استخراج الأكواد لـ Pokémon GO (عادةً تتكون من 8 إلى 20 حرف ورقم)"""
     if not text:
         return []
     
-    raw_matches = re.findall(r'\b[a-zA-Z0-9]{8,20}\b', text)
+    raw_matches = re.findall(r'\b[a-zA-Z0-9]{10,20}\b', text)
     valid_candidates = []
     today_str = datetime.now().strftime("%Y-%m-%d")
 
     for match in raw_matches:
         upper_match = match.upper()
-        if upper_match not in EXCLUDED_WORDS and not match.isdigit():
+        is_all_lowercase = match.islower() and not any(char.isdigit() for char in match)
+        is_titlecase = match.istitle() and not any(char.isdigit() for char in match)
+
+        if (upper_match not in EXCLUDED_WORDS 
+            and not match.isdigit() 
+            and not is_all_lowercase 
+            and not is_titlecase):
+            
             valid_candidates.append({
                 "code": match,
                 "date": today_str
