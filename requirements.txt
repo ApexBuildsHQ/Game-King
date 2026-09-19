@@ -1,0 +1,6 @@
+aiohttp
+telethon
+discord.py
+selectolax
+genshin
+
