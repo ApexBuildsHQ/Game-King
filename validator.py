@@ -1,5 +1,4 @@
-# validator.py - التحقق من صحة الكود عبر APIs الرسمية
-
+# validator.py - المعدل
 import genshin
 
 genshin_client = genshin.Client()
@@ -11,12 +10,11 @@ async def validate_code(game_slug: str, code: str) -> str:
             if genshin_client.cookies:
                 await genshin_client.redeem_code(code, game=game_enum)
             return "active"
-        except genshin.AlreadyRedeemed:
+        except genshin.errors.AlreadyRedeemed:
             return "active"
-        except genshin.RedemptionInvalid:
+        except genshin.errors.RedemptionInvalid:
             return "expired"
         except Exception:
             return "active"
 
     return "active"
-
