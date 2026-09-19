@@ -4,7 +4,7 @@ GAMES_CONFIG = {
     "bloxfruits": {
         "name": "Blox Fruits (Roblox)",
         "category": "Roblox",
-        "regex": r"^[A-Za-z0-9_]{4,20}$",
+        "regex": r"^[A-Z-0-9_]{4,20}$",
         "fandom_wiki": "https://bloxfruits.fandom.com/api.php?action=parse&page=Codes&format=json",
         "reddit_url": "https://www.reddit.com/r/bloxfruits/new.json?limit=10"
     },
@@ -32,7 +32,7 @@ GAMES_CONFIG = {
     "pokemongo": {
         "name": "Pokémon GO",
         "category": "Mobile AR",
-        "regex": r"^[A-Za-z0-9]{12,16}$",
+        "regex": r"^[A-Z-0-9]{12,16}$",
         "fandom_wiki": "https://pokemongo.fandom.com/api.php?action=parse&page=Promo_Codes&format=json",
         "reddit_url": "https://www.reddit.com/r/TheSilphRoad/new.json?limit=10"
     }
@@ -58,7 +58,9 @@ GLOBAL_BLACKLIST = {
     "HERE", "GIFT", "REWARDS", "GEMS", "COINS", "SUBSCRIBE", "LIKE", "SHARE",
     "HTTP", "HTTPS", "WWW", "COM", "HTML", "SCRIPT", "VAR", "CONST", "LET",
     "FUNCTION", "CLASS", "IMPORT", "SELECT", "DIV", "SPAN", "HREF", "SRC",
-    "NULL", "UNDEFINED", "TRUE", "FALSE", "SERVER", "ADMIN", "STATUS", "INFO"
+    "NULL", "UNDEFINED", "TRUE", "FALSE", "SERVER", "ADMIN", "STATUS", "INFO",
+    "COMMON", "UNCOMMON", "RARE", "LEGENDARY", "MYTHICAL", "PREMIUM", 
+    "CONTROL", "THIRDSEA", "UPDATE10", "UPDATE11", "UPD14", "UPD15", "UPD16"
 }
 
 NOISE_CHARACTERS = r"[\"'\<\>\{\}\[\]\(\)\*\#\!\@\$\%\^\&\=\+\|\;\:\,\?\`~\\]"
