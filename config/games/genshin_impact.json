@@ -1,0 +1,26 @@
+{
+  "game_id": "genshin_impact",
+  "game_name": "Genshin Impact",
+  "sources": [
+    "https://crimsonwitch.com/codes/Genshin_Impact",
+    "https://progameguides.com/genshin-impact/genshin-impact-codes/",
+    "https://www.beebom.com/genshin-impact-codes/",
+    "https://www.pocketgamer.com/genshin-impact/codes/",
+    "https://genshin-impact.fandom.com/wiki/Promotional_Code"
+  ],
+  "regex_pattern": "\\b[A-Za-z0-9]{7,20}\\b",
+  "custom_junk_words": [
+    "GENSHIN", "IMPACT", "GENSHINIMPACT", "HOYOVERSE", "MIHOYO", "CODE",
+    "CODES", "REDEEM", "REDEEMED", "WORKING", "ACTIVE", "EXPIRED", "OUTDATED",
+    "INACTIVE", "STATUS", "REWARD", "REWARDS", "PRIMOGEM", "PRIMOGEMS",
+    "MORA", "HEROWIT", "HEROESWIT", "ADVENTURER", "EXPERIENCE", "ENHANCEMENT",
+    "ORE", "TEACHINGS", "CHARITY", "FORTITUDE", "GLORY", "JUEYUN", "CHILI",
+    "CHICKEN", "STIRFRIED", "FISH", "NOODLES", "TALENT", "BOOKS", "LIVESTREAM",
+    "VERSION", "UPDATE", "UPDATES", "PATCH", "DISCOVER", "MORE", "HONKAI",
+    "STAR", "RAIL", "CRIMSON", "WITCH", "CRIMSONWITCH", "SUPPORT", "SHARE",
+    "STRATEGY", "GUIDES", "READ", "PUZZLES", "PLATFORM", "GAMES", "JANUARY",
+    "FEBRUARY", "MARCH", "APRIL", "MAY", "JUNE", "JULY", "AUGUST",
+    "SEPTEMBER", "OCTOBER", "NOVEMBER", "DECEMBER", "2024", "2025", "2026",
+    "CHECKED", "VERIFIED", "NEW", "LATEST", "COPY", "COPIED", "CLICK", "HERE"
+  ]
+}
