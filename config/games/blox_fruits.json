@@ -1,0 +1,26 @@
+{
+  "game_id": "blox_fruits",
+  "game_name": "Blox Fruits",
+  "sources": [
+    "https://progameguides.com/roblox/roblox-blox-fruits-codes/",
+    "https://www.beebom.com/blox-fruits-codes/",
+    "https://www.dexerto.com/roblox/blox-fruits-codes-1681289/",
+    "https://www.pocketgamer.com/blox-fruits/codes/",
+    "https://blox-fruits.fandom.com/wiki/Codes"
+  ],
+  "regex_pattern": "\\b[A-Za-z0-9_]{4,28}\\b",
+  "custom_junk_words": [
+    "BLOX", "FRUITS", "ROBLOX", "BLOXFRUITS", "CODE", "CODES", "REDEEM",
+    "REDEEMED", "WORKING", "ACTIVE", "EXPIRED", "OUTDATED", "INACTIVE",
+    "STATUS", "REWARD", "REWARDS", "DURATION", "SERVER", "UPDATE", "UPDATES",
+    "EXP", "BOOST", "STAT", "RESET", "REFUND", "BELI", "MASTERY", "TITLE",
+    "FRUIT", "DOUBLE", "MINUTES", "HOURS", "GAMER", "ROBOT", "SUB2",
+    "PROGAMEGUIDES", "BEEBOM", "DEXERTO", "POCKETGAMER", "FANDOM", "WIKI",
+    "DISCORD", "TWITTER", "YOUTUBE", "COMMUNITY", "JANUARY", "FEBRUARY",
+    "MARCH", "APRIL", "MAY", "JUNE", "JULY", "AUGUST", "SEPTEMBER",
+    "OCTOBER", "NOVEMBER", "DECEMBER", "2024", "2025", "2026", "CHECKED",
+    "VERIFIED", "NEW", "LATEST", "COPIED", "COPY", "CLICK", "HERE",
+    "SHARE", "COMMENT", "ROBUX", "DEVEX", "ADMIN", "GAME", "PLAY", "LINK",
+    "PAGE", "GUIDE", "LIST", "FREE", "ITEMS", "METHOD", "HOW", "TO"
+  ]
+}
