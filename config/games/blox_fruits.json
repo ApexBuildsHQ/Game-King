@@ -2,11 +2,13 @@
   "game_id": "blox_fruits",
   "game_name": "Blox Fruits",
   "sources": [
-    "https://progameguides.com/roblox/roblox-blox-fruits-codes/",
-    "https://www.beebom.com/blox-fruits-codes/",
-    "https://www.dexerto.com/roblox/blox-fruits-codes-1681289/",
-    "https://www.pocketgamer.com/blox-fruits/codes/",
-    "https://blox-fruits.fandom.com/wiki/Codes"
+    "https://blox-fruits.fandom.com/wiki/Codes",
+    "https://beebom.com/roblox-blox-fruits-codes/",
+    "https://www.g2a.com/news/features/games-codes/roblox-blox-fruits-codes/",
+    "https://www.lolvvv.com/codes/blox-fruits",
+    "https://www.ign.com/wikis/blox-fruits/Blox_Fruits_Codes",
+    "https://www.pcgamer.com/games/roblox/blox-fruits-codes/",
+    "https://hone.gg/blog/blox-fruits-codes/"
   ],
   "regex_pattern": "\\b[A-Za-z0-9_]{4,28}\\b",
   "custom_junk_words": [
