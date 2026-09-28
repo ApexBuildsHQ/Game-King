@@ -2,11 +2,11 @@
   "game_id": "genshin_impact",
   "game_name": "Genshin Impact",
   "sources": [
-    "https://crimsonwitch.com/codes/Genshin_Impact",
-    "https://progameguides.com/genshin-impact/genshin-impact-codes/",
-    "https://www.beebom.com/genshin-impact-codes/",
-    "https://www.pocketgamer.com/genshin-impact/codes/",
-    "https://genshin-impact.fandom.com/wiki/Promotional_Code"
+    "https://www.pcgamer.com/games/rpg/genshin-impact-codes-7-1-livestream/",
+    "https://www.eldorado.gg/blog/genshin-impact-en/genshin-impact-codes/",
+    "https://www.crimsonwitch.com/codes/Genshin_Impact",
+    "https://game8.co/games/Genshin-Impact/archives/304759",
+    "https://www.pockettactics.com/genshin-impact/codes"
   ],
   "regex_pattern": "\\b[A-Za-z0-9]{7,20}\\b",
   "custom_junk_words": [
