@@ -1,0 +1,27 @@
+{
+  "game_id": "honkai_star_rail",
+  "game_name": "Honkai: Star Rail",
+  "sources": [
+    "https://www.crimsonwitch.com/codes/Honkai_Star_Rail",
+    "https://honkai-star-rail.fandom.com/wiki/Redemption_Code",
+    "https://mmoculture.com/redeem-codes/honkai-star-rail-redeem-codes/",
+    "https://m.hoyolab.com/#/article/46290933",
+    "https://www.radiotimes.com/technology/gaming/honkai-star-rail-codes/",
+    "https://www.pockettactics.com/honkai-star-rail/codes"
+  ],
+  "regex_pattern": "\\b[A-Za-z0-9]{8,16}\\b",
+  "custom_junk_words": [
+    "HONKAI", "STAR", "RAIL", "STARRAIL", "HOYOVERSE", "MIHOYO", "CODE",
+    "CODES", "REDEEM", "REDEEMED", "WORKING", "ACTIVE", "EXPIRED", "OUTDATED",
+    "INACTIVE", "STATUS", "REWARD", "REWARDS", "STELLAR", "JADE", "JADES",
+    "CREDIT", "CREDITS", "TRAILBLAZER", "EXP", "EXPERIENCE", "AETHER",
+    "REFINED", "SOUVENIR", "TICKET", "PASS", "PASSES", "WARP", "WARPS",
+    "LIVESTREAM", "VERSION", "UPDATE", "UPDATES", "PATCH", "DISCOVER",
+    "MORE", "GENSHIN", "IMPACT", "CRIMSON", "WITCH", "CRIMSONWITCH",
+    "SUPPORT", "SHARE", "STRATEGY", "GUIDES", "READ", "PUZZLES",
+    "PLATFORM", "GAMES", "JANUARY", "FEBRUARY", "MARCH", "APRIL", "MAY",
+    "JUNE", "JULY", "AUGUST", "SEPTEMBER", "OCTOBER", "NOVEMBER",
+    "DECEMBER", "2024", "2025", "2026", "CHECKED", "VERIFIED", "NEW",
+    "LATEST", "COPY", "COPIED", "CLICK", "HERE"
+  ]
+}
