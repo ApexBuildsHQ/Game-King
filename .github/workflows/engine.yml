@@ -2,12 +2,15 @@ name: Sync & Update Game Codes Engine
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # يعمل تلقائياً كل 6 ساعات
+    - cron: '0 */3 * * *' # يعمل تلقائياً كل 3 ساعات
   workflow_dispatch: # إمكانية التشغيل اليدوي بزر واحد من GitHub
 
 jobs:
   run-engine:
     runs-on: ubuntu-latest
+
+    env:
+      PYTHONUNBUFFERED: '1' # يضمن إرسال الطباعة والـ Logs مباشرة إلى الشاشة في الوقت الفعلي
 
     steps:
       - name: Checkout Repository
@@ -21,11 +24,11 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 llama-cpp-python
+          pip install requests beautifulsoup4 llama-cpp-python huggingface-hub
 
       - name: Run Master Engine
         run: |
-          python scripts/engine.py
+          python -u scripts/engine.py
 
       - name: Commit and Push Changes (If New Data Found)
         run: |
