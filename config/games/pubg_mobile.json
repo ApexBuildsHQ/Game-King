@@ -1,0 +1,21 @@
+{
+  "game_id": "pubg_mobile",
+  "game_name": "PUBG Mobile",
+  "sources": [
+    "https://www.pockettactics.com/pubg-mobile/codes",
+    "https://beebom.com/pubg-mobile-redeem-codes/",
+    "https://gamingonphone.com/guides/pubg-mobile-redeem-codes/",
+    "https://afkgaming.com/mobileesports/guide/pubg-mobile-redeem-codes",
+    "https://toucharcade.com/pubg-mobile-codes/"
+  ],
+  "regex_pattern": "\\b[A-Za-z0-9]{8,18}\\b",
+  "custom_junk_words": [
+    "PUBGMOBILE", "PUBG", "MOBILE", "TENCENT", "KRAFTON", "REDEEM", "REDEEMED", "CODE",
+    "CODES", "EXPIRED", "OUTDATED", "INACTIVE", "WORKING", "ACTIVE", "STATUS", "SKIN",
+    "OUTFIT", "UC", "UNKNOWN", "CASH", "CRATE", "COUPON", "SILVER", "FRAGMENTS", "BP",
+    "AG", "CHARACTER", "GUN", "PARACHUTE", "REWARD", "REWARDS", "UPDATE", "LATEST",
+    "JANUARY", "FEBRUARY", "MARCH", "APRIL", "MAY", "JUNE", "JULY", "AUGUST", "SEPTEMBER",
+    "OCTOBER", "NOVEMBER", "DECEMBER", "2024", "2025", "2026", "CHECKED", "VERIFIED",
+    "CLICK", "HERE", "COPY", "COPIED", "FREE", "GLOBAL", "AMERICA", "ASIA"
+  ]
+}
