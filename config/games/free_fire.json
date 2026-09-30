@@ -1,0 +1,21 @@
+{
+  "game_id": "free_fire",
+  "game_name": "Garena Free Fire",
+  "sources": [
+    "https://beebom.com/garena-free-fire-redeem-codes/",
+    "https://www.pockettactics.com/free-fire/codes",
+    "https://www.sportskeeda.com/free-fire-redeem-code",
+    "https://afkgaming.com/mobileesports/guide/garena-free-fire-redeem-codes",
+    "https://www.indiatoday.in/technology/news/free-fire-max-redeem-codes"
+  ],
+  "regex_pattern": "\\b[A-Z0-9]{12}(?:[A-Z0-9]{4})?\\b",
+  "custom_junk_words": [
+    "FREEFIRE", "GARENA", "FREEFIREMAX", "FFMAX", "REDEEM", "REDEEMED", "EXPIRED",
+    "OUTDATED", "INACTIVE", "WORKING", "ACTIVE", "STATUS", "DIAMONDS", "DIAMOND",
+    "SKIN", "EMOTE", "BUNDLE", "WEAPON", "VOUCHER", "PET", "ROOMCARD", "CHARACTER",
+    "LOOT", "BOX", "REWARD", "REWARDS", "CODES", "CODE", "SERVER", "INDIAN", "GLOBAL",
+    "SINGAPORE", "EUROPE", "INDONESIA", "ME", "JANUARY", "FEBRUARY", "MARCH", "APRIL",
+    "MAY", "JUNE", "JULY", "AUGUST", "SEPTEMBER", "OCTOBER", "NOVEMBER", "DECEMBER",
+    "2024", "2025", "2026", "CHECKED", "VERIFIED", "CLICK", "HERE", "COPY", "COPIED"
+  ]
+}
