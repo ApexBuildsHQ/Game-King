@@ -2,11 +2,12 @@
   "game_id": "pokemon_go",
   "game_name": "Pokémon GO",
   "sources": [
-    "https://www.pockettactics.com/pokemon-go/codes",
-    "https://www.eurogamer.net/pokemon-go-promo-codes-list",
-    "https://beebom.com/pokemon-go-promo-codes/",
-    "https://www.gamesradar.com/pokemon-go-promo-codes/",
-    "https://progameguides.com/pokemon/pokemon-go-codes/"
+    "https://leekduck.com/promo-codes/",
+    "https://mmoculture.com/redeem-codes/pokemon-go-redeem-codes/",
+    "https://www.ign.com/wikis/pokemon-go/Pokemon_GO_Codes",
+    "https://www.gamsgo.com/blog/pokemon-go-redeem-code",
+    "https://www.snacknap.com/codes",
+    "https://pokemongo.fandom.com/wiki/Promotional_code"
   ],
   "regex_pattern": "\\b[A-Za-z0-9]{10,16}\\b",
   "custom_junk_words": [
