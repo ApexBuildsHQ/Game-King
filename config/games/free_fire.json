@@ -2,11 +2,12 @@
   "game_id": "free_fire",
   "game_name": "Garena Free Fire",
   "sources": [
-    "https://beebom.com/garena-free-fire-redeem-codes/",
-    "https://www.pockettactics.com/free-fire/codes",
-    "https://www.sportskeeda.com/free-fire-redeem-code",
-    "https://afkgaming.com/mobileesports/guide/garena-free-fire-redeem-codes",
-    "https://www.indiatoday.in/technology/news/free-fire-max-redeem-codes"
+    "https://buffbuff.com/blog/latest-free-fire-redeem-codes",
+    "https://mmoculture.com/redeem-codes/free-fire-redeem-codes/",
+    "https://www.cashify.in/garena-free-fire-max-redeem-code-rewards-today",
+    "https://www.eldorado.gg/blog/garena-free-fire-en/free-fire-garena-redeem-codes/",
+    "https://www.gamsgo.com/blog/free-fire-redeem-code",
+    "https://mmoculture.com/redeem-codes/free-fire-max-redeem-codes/"
   ],
   "regex_pattern": "\\b[A-Z0-9]{12}(?:[A-Z0-9]{4})?\\b",
   "custom_junk_words": [
