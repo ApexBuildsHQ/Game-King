@@ -1,0 +1,22 @@
+{
+  "game_id": "nba_2k",
+  "game_name": "NBA 2K",
+  "sources": [
+    "https://lockercodes.io/",
+    "https://www.pockettactics.com/nba-2k-mobile/locker-codes",
+    "https://www.ggrecon.com/guides/nba-2k-locker-codes/",
+    "https://www.operationsports.com/nba-2k-locker-codes/"
+  ],
+  "regex_pattern": "\\b[A-Za-z0-9]{2,10}(?:-[A-Za-z0-9]{2,10}){1,5}\\b",
+  "custom_junk_words": [
+    "LOCKER", "LOCKERCODE", "LOCKERCODES", "NBA2K", "NBA2K24", "NBA2K25", "NBA2K26",
+    "MYTEAM", "MYCAREER", "TOKENS", "TOKEN", "PACK", "PACKS", "CARD", "CARDS", "DIAMOND",
+    "PINKDIAMOND", "GALAXYOPAL", "DARKMATTER", "AMETHYST", "RUBY", "SAPPHIRE", "EMERALD",
+    "GOLD", "VC", "POINTS", "REDEEM", "REDEEMED", "EXPIRED", "OUTDATED", "INACTIVE",
+    "WORKING", "ACTIVE", "STATUS", "REWARD", "REWARDS", "CODES", "CODE", "ENTER", "GUIDE",
+    "GUIDES", "POCKET", "TACTICS", "BLEACHER", "REPORT", "SEASON", "BUILD", "PLAYER",
+    "JANUARY", "FEBRUARY", "MARCH", "APRIL", "MAY", "JUNE", "JULY", "AUGUST", "SEPTEMBER",
+    "OCTOBER", "NOVEMBER", "DECEMBER", "2024", "2025", "2026", "CHECKED", "VERIFIED",
+    "CLICK", "HERE", "COPY", "COPIED"
+  ]
+}
