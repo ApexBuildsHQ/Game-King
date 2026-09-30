@@ -2,11 +2,10 @@
   "game_id": "pubg_mobile",
   "game_name": "PUBG Mobile",
   "sources": [
-    "https://www.pockettactics.com/pubg-mobile/codes",
-    "https://beebom.com/pubg-mobile-redeem-codes/",
-    "https://gamingonphone.com/guides/pubg-mobile-redeem-codes/",
-    "https://afkgaming.com/mobileesports/guide/pubg-mobile-redeem-codes",
-    "https://toucharcade.com/pubg-mobile-codes/"
+    "https://www.gamsgo.com/blog/pubg-redeem-code",
+    "https://buffbuff.com/blog/pubg-mobile-redeem-code",
+    "https://mmoculture.com/redeem-codes/pubg-mobile-redeem-codes/",
+    "https://www.u7buy.com/blog/pubg-mobile-redeem-codes/"
   ],
   "regex_pattern": "\\b[A-Za-z0-9]{8,18}\\b",
   "custom_junk_words": [
