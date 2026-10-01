@@ -1,7 +1,7 @@
 {
     "game_id": "free_fire",
     "game_name": "Garena Free Fire",
-    "total_codes": 95,
+    "total_codes": 123,
     "codes": [
         {
             "code": "FFPLZJUDKPTJ",
@@ -13,98 +13,42 @@
         },
         {
             "code": "G5K9J2L3W4R8TH7D",
-            "reward": null,
+            "reward": "Diamonds x100",
             "server": "Free Fire codes",
             "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "FFMC2SJLKXSB",
-            "reward": null,
+            "reward": "Diamonds x50",
             "server": "Free Fire codes",
             "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "GHTY89VCX2LK",
-            "reward": null,
+            "reward": "Diamonds x100",
             "server": "Free Fire codes",
             "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "ZRJAPH294KV5",
-            "reward": null,
-            "server": "Free Fire codes",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "MCPW2D1U3XA3",
-            "reward": null,
-            "server": "Free Fire codes",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "TREW90QAZXCV",
-            "reward": null,
-            "server": "Free Fire codes",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "YUIO34LKJMNB",
-            "reward": null,
-            "server": "Free Fire codes",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "ASDF67GHJKL9",
-            "reward": null,
-            "server": "Free Fire codes",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "ZXCV23BNMLKP",
-            "reward": null,
-            "server": "Free Fire codes",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "GBTY89VCX2LK",
-            "reward": null,
-            "server": "Free Fire codes",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "BVCX45LKJHG6",
-            "reward": null,
+            "reward": "Diamonds x100",
             "server": "Free Fire codes",
             "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "LKJH78GFDSA3",
-            "reward": null,
+            "reward": "Diamonds x100",
             "server": "Free Fire codes",
             "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
@@ -190,8 +134,8 @@
         {
             "code": "FFMTYQPXFGX6",
             "reward": null,
-            "server": "Free Fire codes",
-            "created_at": "2023-02-20T00:00:00.000Z",
+            "server": "Garena Free Fire Max Redeem Codes September 2026",
+            "created_at": "2026-09-01T00:00:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
@@ -245,6 +189,14 @@
         },
         {
             "code": "FQ9W2E1R7T5Y",
+            "reward": null,
+            "server": "Garena Free Fire Max Redeem Codes September 2026",
+            "created_at": "2026-09-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "S9QK2L6VP3MR",
             "reward": null,
             "server": "Garena Free Fire Max Redeem Codes September 2026",
             "created_at": "2026-09-01T00:00:00.000Z",
@@ -377,6 +329,102 @@
             "server": "Garena Free Fire Max Redeem Codes September 2026",
             "created_at": "2023-09-01T00:00:00.000Z",
             "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FFZ7M4KPL2RV",
+            "reward": null,
+            "server": "Garena Free Fire Max Redeem Codes September 2026",
+            "created_at": "2023-09-01T00:00:00.000Z",
+            "expiry": "2023-09-01T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "FFM3N8KPL5VR",
+            "reward": null,
+            "server": "Garena Free Fire Max Redeem Codes September 2026",
+            "created_at": "2023-09-01T00:00:00.000Z",
+            "expiry": "2023-09-01T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "FFL8K3MPV2RN",
+            "reward": null,
+            "server": "Garena Free Fire Max Redeem Codes September 2026",
+            "created_at": "2023-09-01T00:00:00.000Z",
+            "expiry": "2023-09-01T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "FFV2K8PLM4RN",
+            "reward": null,
+            "server": "Garena Free Fire Max Redeem Codes September 2026",
+            "created_at": "2023-09-01T00:00:00.000Z",
+            "expiry": "2023-09-01T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "FPF3K9LMR5VN",
+            "reward": null,
+            "server": "Garena Free Fire Max Redeem Codes September 2026",
+            "created_at": "2023-09-01T00:00:00.000Z",
+            "expiry": "2023-09-01T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "FFQ7K5PLM2NR",
+            "reward": null,
+            "server": "Garena Free Fire Max Redeem Codes September 2026",
+            "created_at": "2023-09-01T00:00:00.000Z",
+            "expiry": "2023-09-01T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "FPN3K8PLR5VM",
+            "reward": null,
+            "server": "Garena Free Fire Max Redeem Codes September 2026",
+            "created_at": "2023-09-01T00:00:00.000Z",
+            "expiry": "2023-09-01T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "FLR9P4KLM2VN",
+            "reward": null,
+            "server": "Garena Free Fire Max Redeem Codes September 2026",
+            "created_at": "2023-09-01T00:00:00.000Z",
+            "expiry": "2023-09-01T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "FLP9P3KLR2VN",
+            "reward": null,
+            "server": "Garena Free Fire Max Redeem Codes September 2026",
+            "created_at": "2023-09-01T00:00:00.000Z",
+            "expiry": "2023-09-01T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "FLM8M8PKR9VN",
+            "reward": null,
+            "server": "Garena Free Fire Max Redeem Codes September 2026",
+            "created_at": "2023-09-01T00:00:00.000Z",
+            "expiry": "2023-09-01T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "FLP9K4LMR2VN",
+            "reward": null,
+            "server": "Garena Free Fire Max Redeem Codes September 2026",
+            "created_at": "2023-09-01T00:00:00.000Z",
+            "expiry": "2023-09-01T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "FFM2P7KLR5VN",
+            "reward": null,
+            "server": "Garena Free Fire Max Redeem Codes September 2026",
+            "created_at": "2023-09-01T00:00:00.000Z",
+            "expiry": "2023-09-01T00:00:00.000Z",
             "status": "شغال"
         },
         {
@@ -572,6 +620,222 @@
             "status": "شغال"
         },
         {
+            "code": "P9VR2GI9M8NK",
+            "reward": null,
+            "server": "Free Fire Redeem Codes for Brazil",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "SPFFR6DXUVB8",
+            "reward": null,
+            "server": "Free Fire Redeem Codes for Brazil",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "N2CXBIW4ZT45",
+            "reward": null,
+            "server": "Free Fire Redeem Codes for Brazil",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "1BK3NX4G40U8",
+            "reward": null,
+            "server": "Free Fire Redeem Codes for Brazil",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "WC3275EQ0033",
+            "reward": null,
+            "server": "Free Fire Redeem Codes for Brazil",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "2JFM782BLLRC",
+            "reward": null,
+            "server": "Free Fire Redeem Codes for Brazil",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "MAPAYG9BJY04",
+            "reward": null,
+            "server": "Free Fire Redeem Codes for Brazil",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "54A2MaKU025D",
+            "reward": null,
+            "server": "Free Fire Redeem Codes for Brazil",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "W7JIAHOVXXNI",
+            "reward": null,
+            "server": "Free Fire Redeem Codes for Indonesia",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "BURUBERKAHFF",
+            "reward": null,
+            "server": "Free Fire Redeem Codes for Indonesia",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "INCURMDN2026",
+            "reward": null,
+            "server": "Free Fire Redeem Codes for Indonesia",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "FJYKUL8U9OKJRHTY",
+            "reward": null,
+            "server": "Free Fire Redeem Codes for Europe",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "Diamonds x300",
+            "reward": null,
+            "server": "Free Fire Redeem Codes for Europe",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "FF2VC3DENRF5",
+            "reward": null,
+            "server": "Europe",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FF7TRD2SQA9F",
+            "reward": null,
+            "server": "Europe",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FF8HG3JK5L0P",
+            "reward": null,
+            "server": "Europe",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FF5B6YUHBVF3",
+            "reward": null,
+            "server": "Europe",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FFR3GT5YJH76",
+            "reward": null,
+            "server": "Europe",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FKK7XC8PON3M",
+            "reward": null,
+            "server": "Europe",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FKF7XC8PON3M",
+            "reward": null,
+            "server": "Europe",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "DRAGONSTRIDE:LEGACYREBORN(Dragonheir: SILENT GODS)",
+            "reward": null,
+            "server": "Global",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "WHY CAN'T THE REDEME CODE BE USED? ",
+            "reward": null,
+            "server": "Global",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "THE SITE IS UNDER MAINTENANCE OR DELAYED: GARENA'S REDEMPTION SITE MAY OCCASIONALLY EXPERIENCE MAINTENANCE, TRAFFIC ISSUES, OR TEMPORARY DELAYS. TRY AGAIN LATER, REFRESH THE PAGE, OR USE ANOTHER BROKERAGE.",
+            "reward": null,
+            "server": "Global",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FAST DELIVERY & PROFESSIONAL CUSTOMER SUPPORT",
+            "reward": null,
+            "server": "Middle-East",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "HOW TO REDEM GARENA FREE FIRE CODES ",
+            "reward": null,
+            "server": "Middle-East",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FREE FIRE EVENTS TO WATCH IN OCTOBER 2026 ",
+            "reward": null,
+            "server": "Europe",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "THE FREE FIRE X NARUTO SHIPPUDEN COLLABORATION CONTINUES INTO OCTOBER, BRINGING PLAYERS BACK TO THE HIDDEN LEAF VILLAGE WITH REFRESHED BATTLE ROYALE GAMEPLAY, NINJA ACADEMY ACTIVITIES, AND LIMITED-TIME REWARDS. EVENT AVAILABILITY AND REWARD DETAILS MAY VARY BY SERVER, SO CHECK THE IN-GAME EVENT PAGE FOR YOUR REGION.",
+            "reward": null,
+            "server": "Europe",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
             "code": "FFM1VSWCPXN9",
             "reward": null,
             "server": "Garena Free Fire Max Redeem Codes September 2026",
@@ -628,7 +892,7 @@
             "status": "شغال"
         },
         {
-            "code": "FFJI4GFE45TG5",
+            "code": "FJI4GFE45TG5",
             "reward": null,
             "server": "Garena Free Fire Max Redeem Codes September 2026",
             "created_at": "2026-09-01T00:00:00.000Z",
@@ -648,7 +912,7 @@
             "reward": null,
             "server": "Which are some of the older Free Fire codes still working?",
             "created_at": "2023-09-01T00:00:00.000Z",
-            "expiry": "2023-09-01T00:00:00.000Z",
+            "expiry": null,
             "status": "شغال"
         },
         {
@@ -656,7 +920,7 @@
             "reward": null,
             "server": "Which are some of the older Free Fire codes still working?",
             "created_at": "2023-09-01T00:00:00.000Z",
-            "expiry": "2023-09-01T00:00:00.000Z",
+            "expiry": null,
             "status": "شغال"
         },
         {
@@ -664,7 +928,7 @@
             "reward": null,
             "server": "Which are some of the older Free Fire codes still working?",
             "created_at": "2023-09-01T00:00:00.000Z",
-            "expiry": "2023-09-01T00:00:00.000Z",
+            "expiry": null,
             "status": "شغال"
         },
         {
@@ -672,7 +936,7 @@
             "reward": null,
             "server": "Which are some of the older Free Fire codes still working?",
             "created_at": "2023-09-01T00:00:00.000Z",
-            "expiry": "2023-09-01T00:00:00.000Z",
+            "expiry": null,
             "status": "شغال"
         },
         {
@@ -680,7 +944,7 @@
             "reward": null,
             "server": "Which are some of the older Free Fire codes still working?",
             "created_at": "2023-09-01T00:00:00.000Z",
-            "expiry": "2023-09-01T00:00:00.000Z",
+            "expiry": null,
             "status": "شغال"
         },
         {
@@ -688,7 +952,7 @@
             "reward": null,
             "server": "Which are some of the older Free Fire codes still working?",
             "created_at": "2023-09-01T00:00:00.000Z",
-            "expiry": "2023-09-01T00:00:00.000Z",
+            "expiry": null,
             "status": "شغال"
         },
         {
@@ -696,7 +960,7 @@
             "reward": null,
             "server": "Which are some of the older Free Fire codes still working?",
             "created_at": "2023-09-01T00:00:00.000Z",
-            "expiry": "2023-09-01T00:00:00.000Z",
+            "expiry": null,
             "status": "شغال"
         },
         {
@@ -704,15 +968,7 @@
             "reward": null,
             "server": "Which are some of the older Free Fire codes still working?",
             "created_at": "2023-09-01T00:00:00.000Z",
-            "expiry": "2023-09-01T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "FJI4GFE45TG5",
-            "reward": null,
-            "server": "Which are some of the older Free Fire codes still working?",
-            "created_at": "2023-09-01T00:00:00.000Z",
-            "expiry": "2023-09-01T00:00:00.000Z",
+            "expiry": null,
             "status": "شغال"
         },
         {
@@ -720,46 +976,14 @@
             "reward": null,
             "server": "Which are some of the older Free Fire codes still working?",
             "created_at": "2023-09-01T00:00:00.000Z",
-            "expiry": "2023-09-01T00:00:00.000Z",
+            "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "FWCTKX2P5NQ",
+            "code": "FFWCTKX2P5NQ",
             "reward": null,
             "server": "Which are some of the older Free Fire codes still working?",
             "created_at": "2023-09-01T00:00:00.000Z",
-            "expiry": "2023-09-01T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "MCPW3D28VZD6",
-            "reward": null,
-            "server": "LIST OF ALL ACTIVE REDEEM CODES",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "ZZZ76NT3PDSH",
-            "reward": null,
-            "server": "LIST OF ALL ACTIVE REDEEM CODES",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "V427K98RUCHZ",
-            "reward": null,
-            "server": "LIST OF ALL ACTIVE REDEEM CODES",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "J3ZKQ57Z2P2P",
-            "reward": null,
-            "server": "LIST OF ALL ACTIVE REDEEM CODES",
-            "created_at": "2023-02-20T14:30:00.000Z",
             "expiry": null,
             "status": "شغال"
         }
