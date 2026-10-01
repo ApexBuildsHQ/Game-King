@@ -7,7 +7,7 @@
     {
         "game_id": "free_fire",
         "game_name": "Garena Free Fire",
-        "total_codes": 105
+        "total_codes": 104
     },
     {
         "game_id": "genshin_impact",
@@ -22,7 +22,7 @@
     {
         "game_id": "nba_2k",
         "game_name": "NBA 2K",
-        "total_codes": 15
+        "total_codes": 14
     },
     {
         "game_id": "pokemon_go",
@@ -32,6 +32,6 @@
     {
         "game_id": "pubg_mobile",
         "game_name": "PUBG Mobile",
-        "total_codes": 57
+        "total_codes": 65
     }
 ]

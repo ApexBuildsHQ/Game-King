@@ -1,7 +1,7 @@
 {
     "game_id": "nba_2k",
     "game_name": "NBA 2K",
-    "total_codes": 15,
+    "total_codes": 14,
     "codes": [
         {
             "code": "in-game",
@@ -68,7 +68,7 @@
             "status": "شغال"
         },
         {
-            "code": "gamesradar-rpg-club-september-2026-the",
+            "code": "gamesradar-deal-of-the-day-digest",
             "reward": null,
             "server": null,
             "created_at": null,
@@ -76,7 +76,7 @@
             "status": "شغال"
         },
         {
-            "code": "blood-of-dawnwalker",
+            "code": "cissy-jones-on-her-career",
             "reward": null,
             "server": null,
             "created_at": null,
@@ -87,14 +87,6 @@
             "code": "gamesradar-site",
             "reward": null,
             "server": null,
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "ex-cops",
-            "reward": "2 GTA 6 devs spent years \"going to strip clubs,\" \"spending time on the beach,\" and riding with ex-cops to research Florida life",
-            "server": "© GamesRadar+. Not to be reproduced without permission.",
             "created_at": null,
             "expiry": null,
             "status": "شغال"

@@ -1,7 +1,7 @@
 {
     "game_id": "free_fire",
     "game_name": "Garena Free Fire",
-    "total_codes": 105,
+    "total_codes": 104,
     "codes": [
         {
             "code": "XCVB4NMQ2RT7",
@@ -828,19 +828,11 @@
             "status": "شغال"
         },
         {
-            "code": "GFR60",
-            "reward": "Garena Free Fire",
-            "server": "[Server: GamsGo Team] | Subscription Sharing Experts",
-            "created_at": "2022-01-01T00:00:00.000Z",
-            "expiry": "2022-01-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "GFR50",
-            "reward": "Garena Free Fire",
-            "server": "[Server: GamsGo Team] | Subscription Sharing Experts",
-            "created_at": "2022-01-01T00:00:00.000Z",
-            "expiry": "2022-01-31T23:59:59.999Z",
+            "code": "Garena Free Fire",
+            "reward": null,
+            "server": "How to Get Free PUBG Mobile UC in 2026",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": "2023-03-01T00:00:00.000Z",
             "status": "شغال"
         }
     ]
