@@ -1,7 +1,7 @@
 {
     "game_id": "free_fire",
     "game_name": "Garena Free Fire",
-    "total_codes": 123,
+    "total_codes": 125,
     "codes": [
         {
             "code": "FFPLZJUDKPTJ",
@@ -985,6 +985,22 @@
             "server": "Which are some of the older Free Fire codes still working?",
             "created_at": "2023-09-01T00:00:00.000Z",
             "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "GFR50",
+            "reward": "Garena Free Fire",
+            "server": "[Server: GamsGo Team] | Subscription Sharing Experts",
+            "created_at": "2022-01-01T00:00:00.000Z",
+            "expiry": "2022-01-31T23:59:59.999Z",
+            "status": "شغال"
+        },
+        {
+            "code": "GFR20",
+            "reward": "Garena Free Fire",
+            "server": "[Server: GamsGo Team] | Subscription Sharing Experts",
+            "created_at": "2022-01-01T00:00:00.000Z",
+            "expiry": "2022-01-31T23:59:59.999Z",
             "status": "شغال"
         }
     ]

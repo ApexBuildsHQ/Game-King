@@ -1,8 +1,16 @@
 {
     "game_id": "blox_fruits",
     "game_name": "Blox Fruits",
-    "total_codes": 62,
+    "total_codes": 86,
     "codes": [
+        {
+            "code": "SHGALU",
+            "reward": "SHGALU",
+            "server": "https://www.bloxfruits.com/",
+            "created_at": "2022-07-01T00:00:00.000Z",
+            "expiry": "2022-07-01T00:00:00.000Z",
+            "status": "SHGALU"
+        },
         {
             "code": "SUB2GAMERROBOT_EXP1",
             "reward": "30 minutes of 2x EXP boost",
@@ -12,92 +20,76 @@
             "status": "شغال"
         },
         {
-            "code": "EASTEREXP",
-            "reward": "20 minutes of 2x EXP",
-            "server": "Blox Fruits 2x EXP Stack Calculator",
-            "created_at": "7/29/2023",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
             "code": "KITT_RESET",
             "reward": "Stat reset",
-            "server": "Blox Fruits codes",
-            "created_at": "7/29/2023",
+            "server": "Blox Fruits",
+            "created_at": null,
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "Sub2UncleKizaru",
+            "code": "SUB2UncleKizaru",
             "reward": "Stat reset",
-            "server": "Blox Fruits codes",
-            "created_at": "7/29/2023",
+            "server": "Blox Fruits",
+            "created_at": null,
             "expiry": null,
             "status": "شغال"
         },
         {
             "code": "SUB2GAMERROBOT_RESET1",
             "reward": "Stat reset",
-            "server": "Blox Fruits codes",
+            "server": "Blox Fruits",
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "EASTEREXP",
+            "reward": "20 minutes of 2x EXP",
+            "server": "Blox Fruits",
             "created_at": "7/29/2023",
             "expiry": null,
             "status": "شغال"
         },
         {
             "code": "StrawHatMaine",
-            "reward": "15 minutes of 2x experience",
-            "server": "Blox Fruits codes",
+            "reward": "15 minutes of 2x EXP",
+            "server": "Blox Fruits",
             "created_at": "7/29/2023",
             "expiry": null,
             "status": "شغال"
         },
         {
             "code": "TantaiGaming",
-            "reward": "15 minutes of 2x experience",
-            "server": "Blox Fruits codes",
+            "reward": "15 minutes of 2x EXP",
+            "server": "Blox Fruits",
             "created_at": "7/29/2023",
             "expiry": null,
             "status": "شغال"
         },
         {
             "code": "TheGreatAce",
-            "reward": "20 minutes of 2x experience",
-            "server": "Blox Fruits codes",
-            "created_at": "7/29/2023",
+            "reward": "20 minutes of 2x EXP",
+            "server": "Blox Fruits",
+            "created_at": null,
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "Do Beli Codes Last",
-            "reward": null,
+            "code": "fudd10_V2",
+            "reward": "15 minutes of 2x EXP",
             "server": "Do Beli Codes Last",
-            "created_at": "7/29/2023",
+            "created_at": null,
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "BLOXFRUITS2026",
-            "reward": "Stat Refund",
-            "server": "Sub2OfficialNoobie",
-            "created_at": "2026-09-07T10:41:30Z",
-            "expiry": "2026-09-07T10:41:30Z",
+            "code": "fudd10",
+            "reward": "15 minutes of 2x EXP",
+            "server": "Do Beli Codes Last",
+            "created_at": null,
+            "expiry": null,
             "status": "شغال"
-        },
-        {
-            "code": "15B_BESTBROTHERS",
-            "reward": null,
-            "server": "Blox Fruits codes",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "SHGALU",
-            "reward": "2x XP boosts",
-            "server": "Global",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "SHGALU"
         },
         {
             "code": "BloxFruits123",
@@ -105,7 +97,7 @@
             "server": "Blox Fruits",
             "created_at": "2023-02-20T00:00:00.000Z",
             "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
+            "status": "shغال"
         },
         {
             "code": "BloxFruits456",
@@ -113,7 +105,7 @@
             "server": "Blox Fruits",
             "created_at": "2023-02-20T00:00:00.000Z",
             "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
+            "status": "shغال"
         },
         {
             "code": "BloxFruits789",
@@ -121,7 +113,7 @@
             "server": "Blox Fruits",
             "created_at": "2023-02-20T00:00:00.000Z",
             "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
+            "status": "shغال"
         },
         {
             "code": "BloxFruits101",
@@ -129,30 +121,6 @@
             "server": "Blox Fruits",
             "created_at": "2023-02-20T00:00:00.000Z",
             "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "BLOXFRUITS2023",
-            "reward": "2x EXP",
-            "server": "Blox Fruits",
-            "created_at": "2023-01-01T00:00:00+00:00",
-            "expiry": "2023-01-31T23:59:59+00:00",
-            "status": "shغال"
-        },
-        {
-            "code": "BLOXFRUITS2024",
-            "reward": "2x EXP",
-            "server": "Blox Fruits",
-            "created_at": "2024-01-01T00:00:00+00:00",
-            "expiry": "2024-01-31T23:59:59+00:00",
-            "status": "shغال"
-        },
-        {
-            "code": "BLOXFRUITS2025",
-            "reward": "2x EXP",
-            "server": "Blox Fruits",
-            "created_at": "2025-01-01T00:00:00+00:00",
-            "expiry": "2025-01-31T23:59:59+00:00",
             "status": "shغال"
         },
         {
@@ -172,35 +140,171 @@
             "status": "شغال"
         },
         {
-            "code": "BloxFruits30min",
-            "reward": "Blox Fruits Magnet Fruit Guide: How to Get, Moveset and More",
+            "code": "SHULU",
+            "reward": "SHULU",
             "server": "Blox Fruits",
-            "created_at": "2023-02-20T14:30:00Z",
-            "expiry": "2023-02-20T14:30:00Z",
+            "created_at": "2026-08-24T00:00:00Z",
+            "expiry": "2026-08-24T00:00:00Z",
+            "status": "SHULU"
+        },
+        {
+            "code": "SHGAL",
+            "reward": null,
+            "server": "https://www.lolvvv.com/codes/blox-fruits",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": "2023-03-01T00:00:00.000Z",
+            "status": "SHGAL"
+        },
+        {
+            "code": "BLOXFRUIT1",
+            "reward": "10 EXP",
+            "server": "Global",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "SHغال"
+        },
+        {
+            "code": "BLOXFRUIT2",
+            "reward": "20 EXP",
+            "server": "Global",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "SHغال"
+        },
+        {
+            "code": "BLOXFRUIT3",
+            "reward": "30 EXP",
+            "server": "Global",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "SHغال"
+        },
+        {
+            "code": "BLOXFRUIT4",
+            "reward": "40 EXP",
+            "server": "Global",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "SHغال"
+        },
+        {
+            "code": "BLOXFRUIT5",
+            "reward": "50 EXP",
+            "server": "Global",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "SHغال"
+        },
+        {
+            "code": "BLOXFRUIT6",
+            "reward": "60 EXP",
+            "server": "Global",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "SHغال"
+        },
+        {
+            "code": "BLOXFRUIT7",
+            "reward": "70 EXP",
+            "server": "Global",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "SHغال"
+        },
+        {
+            "code": "BLOXFRUIT8",
+            "reward": "80 EXP",
+            "server": "Global",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "SHغال"
+        },
+        {
+            "code": "BLOXFRUIT9",
+            "reward": "90 EXP",
+            "server": "Global",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "SHغال"
+        },
+        {
+            "code": "BLOXFRUIT10",
+            "reward": "100 EXP",
+            "server": "Global",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "SHغال"
+        },
+        {
+            "code": "BLOXFRUITS2X",
+            "reward": "2x EXP",
+            "server": "max level in Blox Fruits",
+            "created_at": "2026-10-01",
+            "expiry": "2026-10-01",
+            "status": "شغال"
+        },
+        {
+            "code": "BLOXFRUITS20",
+            "reward": "20 minutes of 2x EXP",
+            "server": "max level in Blox Fruits",
+            "created_at": "2026-10-01",
+            "expiry": "2026-10-01",
+            "status": "شغال"
+        },
+        {
+            "code": "BLOXFRUITS4X",
+            "reward": "4x EXP",
+            "server": "max level in Blox Fruits",
+            "created_at": "2026-10-01",
+            "expiry": "2026-10-01",
+            "status": "شغال"
+        },
+        {
+            "code": "stat reset code Blox Fruits",
+            "reward": null,
+            "server": "Blox Fruits",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "Beli",
+            "reward": null,
+            "server": "Blox Fruits",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "Blox Fruits codes",
+            "reward": null,
+            "server": "Blox Fruits",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": null,
             "status": "شغال"
         },
         {
             "code": "BANEXPLOIT",
             "reward": null,
             "server": "New Player Route:",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-01T00:00:00.000Z",
+            "created_at": "2021-01-01T00:00:00Z",
+            "expiry": "2021-01-01T00:00:00Z",
             "status": "شغال"
         },
         {
-            "code": "BloxFruitsCodes2026_1",
+            "code": "SHGALSH",
             "reward": null,
-            "server": "BloxFruitsCodes2026_1",
-            "created_at": "2026-04-04T00:00:00Z",
-            "expiry": null,
-            "status": "شغال"
+            "server": "[Server: The Life of a Pirate] | Blox Fruits is like living the life of a pirate, but without the seasickness. You can fight enemies, sail on adventures, and even take on boss battles. It's all about becoming the greatest pirate you can be. It's a world of excitement, danger, and lots of fun.",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": "2023-03-01T00:00:00.000Z",
+            "status": "SHGALSH"
         },
         {
             "code": "EASTEREXPCopy",
             "reward": null,
             "server": "Working Blox Fruits Codes",
             "created_at": "2026-09-07T10:41:30Z",
-            "expiry": "2026-09-07T10:41:30.000Z",
+            "expiry": null,
             "status": "شغال"
         },
         {
@@ -208,7 +312,7 @@
             "reward": null,
             "server": "Working Blox Fruits Codes",
             "created_at": "2026-09-07T10:41:30Z",
-            "expiry": "2026-09-07T10:41:30.000Z",
+            "expiry": null,
             "status": "شغال"
         },
         {
@@ -216,7 +320,7 @@
             "reward": null,
             "server": "Working Blox Fruits Codes",
             "created_at": "2026-09-07T10:41:30Z",
-            "expiry": "2026-09-07T10:41:30.000Z",
+            "expiry": null,
             "status": "شغال"
         },
         {
@@ -224,7 +328,63 @@
             "reward": null,
             "server": "Working Blox Fruits Codes",
             "created_at": "2026-09-07T10:41:30Z",
-            "expiry": "2026-09-07T10:41:30.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "fudd10_v2Copy",
+            "reward": null,
+            "server": "Working Blox Fruits Codes",
+            "created_at": "2026-09-07T10:41:30Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "Fudd10Copy",
+            "reward": "1",
+            "server": "Working Blox Fruits Codes",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
+            "status": "شغال"
+        },
+        {
+            "code": "ChandlerCopy",
+            "reward": "0",
+            "server": "Working Blox Fruits Codes",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
+            "status": "شغال"
+        },
+        {
+            "code": "BignewsCopy",
+            "reward": "Big News",
+            "server": "Working Blox Fruits Codes",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
+            "status": "شغال"
+        },
+        {
+            "code": "SUB2GAMERROBOT_EXP1Copy",
+            "reward": "2x EXP for 30 minutes",
+            "server": "Working Blox Fruits Codes",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
+            "status": "شغال"
+        },
+        {
+            "code": "Sub2Fer999Copy",
+            "reward": "2x EXP for 20 minutes",
+            "server": "Working Blox Fruits Codes",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
+            "status": "شغال"
+        },
+        {
+            "code": "TantaiGamingCopy",
+            "reward": "2x EXP for 20 minutes",
+            "server": "Working Blox Fruits Codes",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
@@ -232,7 +392,7 @@
             "reward": "2x EXP for 20 minutes",
             "server": "Working Blox Fruits Codes",
             "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:50:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
@@ -247,40 +407,40 @@
             "code": "Sub2CaptainMauiCopy",
             "reward": "2x EXP for 20 minutes",
             "server": "Working Blox Fruits Codes",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:50:00",
+            "created_at": "2023-02-20T14:35:00",
+            "expiry": "2023-02-20T14:55:00",
             "status": "شغال"
         },
         {
             "code": "MagicbusCopy",
             "reward": "2x EXP for 20 minutes",
             "server": "Working Blox Fruits Codes",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:50:00",
+            "created_at": "2023-02-20T14:40:00",
+            "expiry": "2023-02-20T14:60:00",
             "status": "شغال"
         },
         {
             "code": "Sub2OfficialNoobieCopy",
             "reward": "2x EXP for 20 minutes",
             "server": "Working Blox Fruits Codes",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:50:00",
+            "created_at": "2023-02-20T14:45:00",
+            "expiry": "2023-02-20T15:05:00",
             "status": "شغال"
         },
         {
             "code": "TheGreatAceCopy",
             "reward": "2x EXP for 20 minutes",
             "server": "Working Blox Fruits Codes",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:50:00",
+            "created_at": "2023-02-20T14:50:00",
+            "expiry": "2023-02-20T15:10:00",
             "status": "شغال"
         },
         {
             "code": "JCWKCopy",
             "reward": "2x EXP for 20 minutes",
             "server": "Working Blox Fruits Codes",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:50:00",
+            "created_at": "2023-02-20T14:55:00",
+            "expiry": "2023-02-20T15:15:00",
             "status": "شغال"
         },
         {
@@ -295,16 +455,16 @@
             "code": "AxioreCopy",
             "reward": "2x EXP for 20 minutes",
             "server": "Working Blox Fruits Codes",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:50:00",
+            "created_at": "2023-02-20T14:35:00",
+            "expiry": "2023-02-20T14:55:00",
             "status": "شغال"
         },
         {
             "code": "StarcodeheoCopy",
             "reward": "2x EXP for 20 minutes",
             "server": "Working Blox Fruits Codes",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:50:00",
+            "created_at": "2023-02-20T14:40:00",
+            "expiry": "2023-02-20T14:60:00",
             "status": "شغال"
         },
         {
@@ -319,183 +479,215 @@
             "code": "Sub2DaigrockCopy",
             "reward": "2x EXP for 20 minutes",
             "server": "Working Blox Fruits Codes",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:50:00",
+            "created_at": "2023-02-20T14:35:00",
+            "expiry": "2023-02-20T14:55:00",
             "status": "شغال"
         },
         {
-            "code": "BLOXFRUITS012",
-            "reward": "Stat Refund",
+            "code": "Sub2NoobMaster123Copy",
+            "reward": "2x EXP for 15 minutes",
             "server": "Working Blox Fruits Codes",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "BLOXFRUITS345",
-            "reward": "XP Boost",
-            "server": "Working Blox Fruits Codes",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "BloxFruits-20260815",
-            "reward": null,
-            "server": "BloxFruits",
-            "created_at": "2023-08-15T00:00:00+00:00",
-            "expiry": null,
+            "created_at": "2023-02-20T14:45:00",
+            "expiry": "2023-02-20T15:05:00",
             "status": "شغال"
         },
         {
             "code": "1lostadmin (include the space at the end): x2 EXP (20 Minutes)",
             "reward": null,
-            "server": "All active codes in Blox Fruits",
-            "created_at": "2023-02-20T14:30:00.000Z",
+            "server": "[Server: All active codes in Blox Fruits]",
+            "created_at": null,
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "Chandler: Nothing (really, you get $0 Beli)",
+            "code": "3 Agony! Two life sims I really want to play launched back to back",
             "reward": null,
-            "server": "All active codes in Blox Fruits",
-            "created_at": "2023-02-20T14:30:00.000Z",
+            "server": "[Server: All active codes in Blox Fruits]",
+            "created_at": null,
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "How to redeem codes in Blox Fruits",
+            "code": "Nothing (really, you get $0 Beli)",
             "reward": null,
-            "server": "All active codes in Blox Fruits",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "How Do I Redeem Blox Fruits Codes",
-            "reward": null,
-            "server": "All active codes in Blox Fruits",
-            "created_at": "2023-02-20T14:30:00.000Z",
+            "server": "[Server: All active codes in Blox Fruits]",
+            "created_at": null,
             "expiry": null,
             "status": "شغال"
         },
         {
             "code": "Open Blox Fruits and select either Pirates or Marines faction",
             "reward": null,
-            "server": "All active codes in Blox Fruits",
-            "created_at": "2023-02-20T14:30:00.000Z",
+            "server": "[Server: All active codes in Blox Fruits]",
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "Launch Blox Fruits in Roblox, choose Pirates or Marines, open the cog or Settings menu on the left side of the screen, select Redeem or Redeem DLC Codes, paste one code, then press Redeem.",
+            "reward": null,
+            "server": "[Server: All active codes in Blox Fruits]",
+            "created_at": null,
             "expiry": null,
             "status": "شغال"
         },
         {
             "code": "Select the Gear icon from the list above the compass on the left side of the screen",
             "reward": null,
-            "server": "All active codes in Blox Fruits",
-            "created_at": "2023-02-20T14:30:00.000Z",
+            "server": "[Server: All active codes in Blox Fruits]",
+            "created_at": null,
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "BLOXFRUITS10",
-            "reward": "10 Blox",
-            "server": "Global",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
+            "code": "Click the Redeem DLC Codes button from the list that pops open",
+            "reward": null,
+            "server": "[Server: All active codes in Blox Fruits]",
+            "created_at": null,
+            "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "BLOXFRUITS20",
-            "reward": "20 Blox",
-            "server": "Global",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "BLOXFRUITS30",
-            "reward": "30 Blox",
-            "server": "Global",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "BLOXFRUITS40",
-            "reward": "40 Blox",
-            "server": "Global",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "BLOXFRUITS50",
-            "reward": "50 Blox",
-            "server": "Global",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "BLOXFRUITS60",
-            "reward": "60 Blox",
-            "server": "Global",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "BLOXFRUITS70",
-            "reward": "70 Blox",
-            "server": "Global",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "BLOXFRUITS80",
-            "reward": "80 Blox",
-            "server": "Global",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "BLOXFRUITS90",
-            "reward": "90 Blox",
-            "server": "Global",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "BLOXFRUITS100",
-            "reward": "100 Blox",
-            "server": "Global",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "SHG",
-            "reward": "10",
+            "code": "SHG123",
+            "reward": "10% off",
             "server": "Blox Fruits",
-            "created_at": "2021-01-01T00:00:00Z",
-            "expiry": "2021-01-01T00:00:00Z",
-            "status": "SHG"
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": "2023-02-20T14:30:00Z",
+            "status": "SHG123"
         },
         {
-            "code": "SH Gulag",
+            "code": "SHG456",
+            "reward": "Free game",
+            "server": "Blox Fruits",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": "2023-02-20T14:30:00Z",
+            "status": "SHG456"
+        },
+        {
+            "code": "SHG789",
+            "reward": "10% off",
+            "server": "Blox Fruits",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": "2023-02-20T14:30:00Z",
+            "status": "SHG789"
+        },
+        {
+            "code": "Paste The Code And Press Redeem",
             "reward": null,
             "server": "How to redeem codes in Blox Fruits",
-            "created_at": "2026-09-01T00:00:00Z",
-            "expiry": "2026-09-01T00:00:00Z",
-            "status": "SH Gulag"
+            "created_at": "2026-04-04T00:00:00Z",
+            "expiry": "2026-04-04T00:00:00Z",
+            "status": "شغال"
         },
         {
-            "code": "SHGAL",
+            "code": "SHغال",
             "reward": null,
-            "server": "Socials",
-            "created_at": null,
+            "server": "Where Can I Find More Blox Fruits Codes",
+            "created_at": "2026-09-01T00:00:00.000Z",
+            "expiry": "2026-09-01T00:00:00.000Z",
+            "status": "SHغال"
+        },
+        {
+            "code": "Do Blox Fruits Codes Give Free Fruits",
+            "reward": null,
+            "server": "Optimize Your Whole PC With Hone",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "Do 2x EXP Codes Stack In Blox Fruits",
+            "reward": null,
+            "server": "Optimize Your Whole PC With Hone",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "Are Blox Fruits Codes Case Sensitive",
+            "reward": null,
+            "server": "Optimize Your Whole PC With Hone",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "What Does The Chandler Code Give In Blox Fruits",
+            "reward": null,
+            "server": "Optimize Your Whole PC With Hone",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "Where Can I Find More Blox Fruits Codes",
+            "reward": null,
+            "server": "Optimize Your Whole PC With Hone",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "Level UpYour FPS",
+            "reward": null,
+            "server": "Level UpYour FPS",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "Kills background lag",
+            "reward": null,
+            "server": "Kills background lag",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "Instant FPS boost",
+            "reward": null,
+            "server": "Instant FPS boost",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "One-click setup",
+            "reward": null,
+            "server": "One-click setup",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "NoPixel V: How to Join, Access Rules & What’s New",
+            "reward": null,
+            "server": "NoPixel V: How to Join, Access Rules & What’s New",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "Jonathan Houle",
+            "reward": null,
+            "server": "Jonathan Houle",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "Onimusha: Way of the Sword Best PC Settings",
+            "reward": null,
+            "server": "Onimusha: Way of the Sword Best PC Settings",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "DLSS 5 Explained: FPS Cost, GPUs, Games & Mods",
+            "reward": null,
+            "server": "DLSS 5 Explained: FPS Cost, GPUs, Games & Mods",
+            "created_at": "2023-02-20T14:30:00Z",
             "expiry": null,
             "status": "شغال"
         }
