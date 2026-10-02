@@ -2,36 +2,36 @@
     {
         "game_id": "blox_fruits",
         "game_name": "Blox Fruits",
-        "total_codes": 120
+        "total_codes": 53
     },
     {
         "game_id": "free_fire",
         "game_name": "Garena Free Fire",
-        "total_codes": 104
+        "total_codes": 103
     },
     {
         "game_id": "genshin_impact",
         "game_name": "Genshin Impact",
-        "total_codes": 208
+        "total_codes": 241
     },
     {
         "game_id": "honkai_star_rail",
         "game_name": "Honkai: Star Rail",
-        "total_codes": 190
+        "total_codes": 151
     },
     {
         "game_id": "nba_2k",
         "game_name": "NBA 2K",
-        "total_codes": 14
+        "total_codes": 3
     },
     {
         "game_id": "pokemon_go",
         "game_name": "Pokémon GO",
-        "total_codes": 10
+        "total_codes": 117
     },
     {
         "game_id": "pubg_mobile",
         "game_name": "PUBG Mobile",
-        "total_codes": 65
+        "total_codes": 56
     }
 ]
