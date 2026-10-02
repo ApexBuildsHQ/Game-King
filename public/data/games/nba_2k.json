@@ -1,31 +1,103 @@
 {
     "game_id": "nba_2k",
     "game_name": "NBA 2K",
-    "total_codes": 3,
+    "total_codes": 12,
     "codes": [
         {
-            "code": "NBA2K27-REDEEM-123",
-            "reward": "NBA 2K 2026",
-            "server": "Global",
-            "created_at": "2026-01-14T15:24:48+00:00",
-            "expiry": "2026-01-14T15:24:49+00:00",
-            "status": "shغال"
+            "code": "in-game",
+            "reward": null,
+            "server": null,
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
         },
         {
-            "code": "NBA2K27-REDEEM-456",
-            "reward": "NBA 2K 2026",
-            "server": "Global",
-            "created_at": "2026-01-14T15:24:48+00:00",
-            "expiry": "2026-01-14T15:24:49+00:00",
-            "status": "shغال"
+            "code": "2026-01-14T15",
+            "reward": null,
+            "server": null,
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
         },
         {
-            "code": "NBA2K27-REDEEM-789",
-            "reward": "NBA 2K 2026",
+            "code": "nba-2k",
+            "reward": null,
+            "server": null,
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "nba-2k-mobile-codes",
+            "reward": null,
+            "server": null,
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "NBA-2K27",
+            "reward": "NBA-2K27 Working",
             "server": "Global",
-            "created_at": "2026-01-14T15:24:48+00:00",
-            "expiry": "2026-01-14T15:24:49+00:00",
-            "status": "shغال"
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "case-sensitive",
+            "reward": "To redeem NBA 2K Mobile codes, you first need to complete all of the initial tutorials and opening match – or at least start it and then quit out. This will give you access to the main menu screen, where you need to tap the Clipboard icon on the left hand side of the screen. From the menu that opens up, hit the Newspaper icon (fourth one down on the left) to access the ENTER CODE text box and then type in the promo before tapping the CLAIM button. Remember that codes for NBA 2K Mobile are case-sensitive, so make sure you enter them exactly as displayed.",
+            "server": "How to redeem NBA 2K Mobile codes",
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "gamesradar-deal-of-the-day-digest",
+            "reward": null,
+            "server": null,
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "cissy-jones-on-her-career",
+            "reward": null,
+            "server": null,
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "gamesradar-site",
+            "reward": null,
+            "server": null,
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "Member-only",
+            "reward": "Member-only articles",
+            "server": "Global",
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "Members-only",
+            "reward": "Members-only prize draws",
+            "server": "Global",
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "sign-up",
+            "reward": "Your newsletter sign-up was successful",
+            "server": "Global",
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
         }
     ]
 }
