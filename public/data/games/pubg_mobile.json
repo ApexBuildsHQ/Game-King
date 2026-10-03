@@ -1,7 +1,7 @@
 {
     "game_id": "pubg_mobile",
     "game_name": "PUBG Mobile",
-    "total_codes": 76,
+    "total_codes": 70,
     "codes": [
         {
             "code": "HappyGoldenMoon",
@@ -388,100 +388,36 @@
             "status": "شغال"
         },
         {
-            "code": "PUBG Mobile: Huntopia",
-            "reward": "SHULUHUN",
-            "server": "Global",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-01T00:00:00.000Z",
-            "status": "SHULUHUN"
-        },
-        {
-            "code": "PUBG Mobile: Shadowverse: Worlds Beyond",
-            "reward": "SHULUHUN",
-            "server": "Global",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-01T00:00:00.000Z",
-            "status": "SHULUHUN"
-        },
-        {
-            "code": "PUBG Mobile: Revelation Mobile : Infinite Journey",
-            "reward": "SHULUHUN",
-            "server": "Global",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-01T00:00:00.000Z",
-            "status": "SHULUHUN"
-        },
-        {
-            "code": "PUBG Mobile: BLEACH:Soul Resonance(Global)",
-            "reward": "SHULUHUN",
-            "server": "Global",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-01T00:00:00.000Z",
-            "status": "SHULUHUN"
-        },
-        {
-            "code": "PUBG Mobile: King of Fighters AFK",
-            "reward": "SHULUHUN",
-            "server": "Character ID",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-01T00:00:00.000Z",
-            "status": "SHULUHUN"
-        },
-        {
-            "code": "PUBG Mobile: These codes are long strings of similar-looking letters and numbers, so copy-paste rather than typing. One wrong character wastes the attempt, and the page shows the same error for a bad code and a mistyped ID, which makes troubleshooting annoying.",
-            "reward": "SHULUHUN",
-            "server": "Global",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-01T00:00:00.000Z",
-            "status": "SHULUHUN"
-        },
-        {
-            "code": "PUBG Mobile: Log in with Telegram",
-            "reward": "SHULUHUN",
-            "server": "Global",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-01T00:00:00.000Z",
-            "status": "SHULUHUN"
-        },
-        {
-            "code": "PUBG Mobile: WhatsApp",
-            "reward": "SHULUHUN",
+            "code": "Mail",
+            "reward": "Free new skins can make you appear more prestigious in the game, while a large amount of 1000 UC allows you to quickly purchase some rare skins, save cash, and experience the joy of spending.",
             "server": "Mail",
             "created_at": "2021-01-01T00:00:00.000Z",
             "expiry": "2021-01-01T00:00:00.000Z",
-            "status": "SHULUHUN"
+            "status": "شغال"
         },
         {
-            "code": "PUBG Mobile: NEXUSUCFREE",
-            "reward": "SHULUHUN",
-            "server": "Mail",
+            "code": "For New Players:",
+            "reward": "They accelerate progress past the early grind, letting new players enjoy higher-level content sooner.",
+            "server": "For New Players:",
             "created_at": "2021-01-01T00:00:00.000Z",
             "expiry": "2021-01-01T00:00:00.000Z",
-            "status": "SHULUHUN"
+            "status": "شغال"
         },
         {
-            "code": "PUBG Mobile: IEZCZH53F36AURX6",
-            "reward": "SHULUHUN",
-            "server": "Mail",
+            "code": "For Veterans:",
+            "reward": "The exclusive cosmetic rewards, like the Brazil Championship Outfit, supplement their collection and offer rare prestige items.",
+            "server": "For Veterans:",
             "created_at": "2021-01-01T00:00:00.000Z",
             "expiry": "2021-01-01T00:00:00.000Z",
-            "status": "SHULUHUN"
+            "status": "شغال"
         },
         {
-            "code": "PUBG Mobile: PUBGMBennyMoza1",
-            "reward": "SHULUHUN",
-            "server": "Mail",
+            "code": "Troubleshooting: PUBG Mobile Codes Issues",
+            "reward": "Case Sensitivity: Codes are strictly case-sensitive. Re-enter the code exactly as shown.",
+            "server": "Troubleshooting: PUBG Mobile Codes Issues",
             "created_at": "2021-01-01T00:00:00.000Z",
             "expiry": "2021-01-01T00:00:00.000Z",
-            "status": "SHULUHUN"
-        },
-        {
-            "code": "PUBG Mobile: PUBGMBennyMoza2",
-            "reward": "SHULUHUN",
-            "server": "Mail",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-01T00:00:00.000Z",
-            "status": "SHULUHUN"
+            "status": "شغال"
         },
         {
             "code": "DDDZCBVZ98H",
@@ -525,91 +461,107 @@
         },
         {
             "code": "DDDZCCBZJJ5",
-            "reward": null,
-            "server": "Exclusive PUBG Mobile Redeem Codes Today🌟(Updated Daily)",
+            "reward": "Copy",
+            "server": "Free Redeem Code – Auto-Updated on 2026-10-03",
             "created_at": "2026-10-03",
-            "expiry": null,
+            "expiry": "2026-10-03",
             "status": "شغال"
+        },
+        {
+            "code": "DDDZCCCZEXFC",
+            "reward": "Copy",
+            "server": "Free Redeem Code – Auto-Updated on 2026-10-03",
+            "created_at": "2026-10-03",
+            "expiry": "2026-10-03",
+            "status": "شغال"
+        },
+        {
+            "code": "DDDZCCCZEXF",
+            "reward": "Copy",
+            "server": "Free Redeem Code – Auto-Updated on 2026-10-03",
+            "created_at": "2026-10-03",
+            "expiry": "2026-10-03",
+            "status": "شغال"
+        },
+        {
+            "code": "DDDZCCDZKUK",
+            "reward": "Copy",
+            "server": "Free Redeem Code – Auto-Updated on 2026-10-03",
+            "created_at": "2026-10-03",
+            "expiry": "2026-10-03",
+            "status": "شغال"
+        },
+        {
+            "code": "DDDZCCEZ5TSC",
+            "reward": "Copy",
+            "server": "Free Redeem Code – Auto-Updated on 2026-10-03",
+            "created_at": "2026-10-03",
+            "expiry": "2026-10-03",
+            "status": "شغال"
+        },
+        {
+            "code": "DDDZCCEZ5TS",
+            "reward": "Copy",
+            "server": "Free Redeem Code – Auto-Updated on 2026-10-03",
+            "created_at": "2026-10-03",
+            "expiry": "2026-10-03",
+            "status": "شغال"
+        },
+        {
+            "code": "DDDZCCFZDXH",
+            "reward": "Copy",
+            "server": "Free Redeem Code – Auto-Updated on 2026-10-03",
+            "created_at": "2026-10-03",
+            "expiry": "2026-10-03",
+            "status": "شغال"
+        },
+        {
+            "code": "DDDZCCGZAXFC",
+            "reward": "Copy",
+            "server": "Free Redeem Code – Auto-Updated on 2026-10-03",
+            "created_at": "2026-10-03",
+            "expiry": "2026-10-03",
+            "status": "شغال"
+        },
+        {
+            "code": "DDDZCCGZAXF",
+            "reward": "Copy",
+            "server": "Free Redeem Code – Auto-Updated on 2026-10-03",
+            "created_at": "2026-10-03",
+            "expiry": "2026-10-03",
+            "status": "شغال"
+        },
+        {
+            "code": "A3",
+            "reward": "free UC",
+            "server": "A3",
+            "created_at": "2021-01-01T00:00:00.000Z",
+            "expiry": "2021-01-01T00:00:00.000Z",
+            "status": "shغال"
         },
         {
             "code": "A5",
-            "reward": null,
+            "reward": "free UC",
             "server": "A5",
             "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
-            "status": "شغال"
+            "expiry": "2021-01-01T00:00:00.000Z",
+            "status": "shغال"
+        },
+        {
+            "code": "Q3",
+            "reward": "free UC",
+            "server": "Q3",
+            "created_at": "2021-01-01T00:00:00.000Z",
+            "expiry": "2021-01-01T00:00:00.000Z",
+            "status": "shغال"
         },
         {
             "code": "Q5",
-            "reward": null,
+            "reward": "free UC",
             "server": "Q5",
             "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Surprise Coupon!",
-            "reward": null,
-            "server": "Q5",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "By completing your payment, you acknowledge and agree to our Privacy Policy and Terms of Use.",
-            "reward": null,
-            "server": "Q5",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Combine at least 2 of: uppercase, lowercase, numbers, or ! @ # $ % ^ & * - _",
-            "reward": null,
-            "server": "Q5",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Payment environment is being tested",
-            "reward": null,
-            "server": "Q5",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "You have orders that require recharge info supplementation; please process soon",
-            "reward": null,
-            "server": "Q5",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "For a better browsing experience, would you like to switch to English?",
-            "reward": null,
-            "server": "Q5",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Continue browsingSwitch",
-            "reward": null,
-            "server": "Q5",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "ShallowReactive",
-            "reward": "10,000 V-Bucks",
-            "server": "Character ID",
-            "created_at": "2026-09-14T01:20:17.000Z",
-            "expiry": "2026-09-14T01:20:17.000Z",
-            "status": "شغال"
+            "expiry": "2021-01-01T00:00:00.000Z",
+            "status": "shغال"
         }
     ]
 }
