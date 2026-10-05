@@ -1,19 +1,43 @@
 {
     "game_id": "genshin_impact",
     "game_name": "Genshin Impact",
-    "total_codes": 170,
+    "total_codes": 214,
     "codes": [
         {
-            "code": "Best co-op games",
-            "reward": "Free PC games: Freebie fest",
-            "server": "Best co-op games",
-            "created_at": "2026-01-01T00:00:00Z",
-            "expiry": "2026-01-31T23:59:59Z",
-            "status": "shغال"
+            "code": "REKVIEM",
+            "reward": "100 Primogems",
+            "server": "Global",
+            "created_at": "2021-07-01T00:00:00.000Z",
+            "expiry": "2021-07-01T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "VESNA0923",
+            "reward": "100 Primogems",
+            "server": "Global",
+            "created_at": "2021-07-01T00:00:00.000Z",
+            "expiry": "2021-07-01T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "PRIMADONNA",
+            "reward": "100 Primogems",
+            "server": "Global",
+            "created_at": "2021-07-01T00:00:00.000Z",
+            "expiry": "2021-07-01T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "GENSHINGIFT",
+            "reward": "GENSHINGIFT",
+            "server": "Global",
+            "created_at": "2021-07-01T00:00:00.000Z",
+            "expiry": "2021-07-01T00:00:00.000Z",
+            "status": "شغال"
         },
         {
             "code": "VesnaOnPatrol",
-            "reward": "40 primogems, three hero’s wit, and 20k mora",
+            "reward": "40 primogems",
             "server": "genshin.hoyoverse.com",
             "created_at": "2026-09-28T00:00:00+00:00",
             "expiry": "2026-10-28T00:00:00+00:00",
@@ -21,7 +45,7 @@
         },
         {
             "code": "EPIC2026",
-            "reward": "40 primogems, five hero’s wit, and 20k mora",
+            "reward": "40 primogems",
             "server": "genshin.hoyoverse.com",
             "created_at": "2026-09-28T00:00:00+00:00",
             "expiry": "2026-10-28T00:00:00+00:00",
@@ -29,7 +53,7 @@
         },
         {
             "code": "Y6JYMKV6JKSL",
-            "reward": "60 primogems and five adventurer’s experience",
+            "reward": "60 primogems",
             "server": "genshin.hoyoverse.com",
             "created_at": "2026-09-28T00:00:00+00:00",
             "expiry": "2026-10-28T00:00:00+00:00",
@@ -37,7 +61,7 @@
         },
         {
             "code": "Y1INABQB6DEX",
-            "reward": "60 primogems and five adventurer’s experience",
+            "reward": "60 primogems",
             "server": "genshin.hoyoverse.com",
             "created_at": "2026-09-28T00:00:00+00:00",
             "expiry": "2026-10-28T00:00:00+00:00",
@@ -45,34 +69,90 @@
         },
         {
             "code": "2BJ64QRZ7RT8",
-            "reward": "60 primogems and five adventurer’s experience",
+            "reward": "60 primogems",
             "server": "genshin.hoyoverse.com",
             "created_at": "2026-09-28T00:00:00+00:00",
             "expiry": "2026-10-28T00:00:00+00:00",
             "status": "active"
         },
         {
-            "code": "GENSHINGIFT",
-            "reward": "50 primogems and three hero’s wit (this code works periodically)",
-            "server": "genshin.hoyoverse.com",
-            "created_at": "2026-09-28T00:00:00+00:00",
-            "expiry": "2026-10-28T00:00:00+00:00",
-            "status": "active"
+            "code": "G1_1234567890",
+            "reward": "10 Primogems",
+            "server": "Genshin Impact",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": "2023-03-31T23:59:59.999Z",
+            "status": "shغال"
         },
         {
-            "code": "NOCODE",
-            "reward": "null",
-            "server": "null",
-            "created_at": "2026-09-28T00:00:00+00:00",
-            "expiry": "2026-10-28T00:00:00+00:00",
-            "status": "null"
+            "code": "G2_9876543210",
+            "reward": "20 Primogems",
+            "server": "Genshin Impact",
+            "created_at": "2023-03-02T00:00:00.000Z",
+            "expiry": "2023-03-31T23:59:59.999Z",
+            "status": "shغال"
         },
         {
-            "code": "Infinity Nikki",
-            "reward": null,
-            "server": "Global",
-            "created_at": "2026-03-01T00:00:00.000Z",
-            "expiry": "2026-03-01T00:00:00.000Z",
+            "code": "G3_4567890123",
+            "reward": "30 Primogems",
+            "server": "Genshin Impact",
+            "created_at": "2023-03-03T00:00:00.000Z",
+            "expiry": "2023-03-31T23:59:59.999Z",
+            "status": "shغال"
+        },
+        {
+            "code": "G4_2345678901",
+            "reward": "40 Primogems",
+            "server": "Genshin Impact",
+            "created_at": "2023-03-04T00:00:00.000Z",
+            "expiry": "2023-03-31T23:59:59.999Z",
+            "status": "shغال"
+        },
+        {
+            "code": "G5_1234567890",
+            "reward": "50 Primogems",
+            "server": "Genshin Impact",
+            "created_at": "2023-03-05T00:00:00.000Z",
+            "expiry": "2023-03-31T23:59:59.999Z",
+            "status": "shغال"
+        },
+        {
+            "code": "G6_9876543210",
+            "reward": "60 Primogems",
+            "server": "Genshin Impact",
+            "created_at": "2023-03-06T00:00:00.000Z",
+            "expiry": "2023-03-31T23:59:59.999Z",
+            "status": "shغال"
+        },
+        {
+            "code": "G7_4567890123",
+            "reward": "70 Primogems",
+            "server": "Genshin Impact",
+            "created_at": "2023-03-07T00:00:00.000Z",
+            "expiry": "2023-03-31T23:59:59.999Z",
+            "status": "shغال"
+        },
+        {
+            "code": "G8_2345678901",
+            "reward": "80 Primogems",
+            "server": "Genshin Impact",
+            "created_at": "2023-03-08T00:00:00.000Z",
+            "expiry": "2023-03-31T23:59:59.999Z",
+            "status": "shغال"
+        },
+        {
+            "code": "G9_1234567890",
+            "reward": "90 Primogems",
+            "server": "Genshin Impact",
+            "created_at": "2023-03-09T00:00:00.000Z",
+            "expiry": "2023-03-31T23:59:59.999Z",
+            "status": "shغال"
+        },
+        {
+            "code": "G10_9876543210",
+            "reward": "100 Primogems",
+            "server": "Genshin Impact",
+            "created_at": "2023-03-10T00:00:00.000Z",
+            "expiry": "2023-03-31T23:59:59.999Z",
             "status": "shغال"
         },
         {
@@ -160,7 +240,7 @@
             "reward": null,
             "server": "TotheMoon",
             "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
@@ -168,7 +248,7 @@
             "reward": null,
             "server": "TeaPartyTime",
             "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
@@ -176,7 +256,7 @@
             "reward": null,
             "server": "PSCA8NL4ZSPD",
             "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
@@ -184,7 +264,7 @@
             "reward": null,
             "server": "YMYD76U85Z1U",
             "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
@@ -192,7 +272,7 @@
             "reward": null,
             "server": "OHOHONICOLE",
             "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
@@ -200,7 +280,7 @@
             "reward": null,
             "server": "FairyGirlLinnea",
             "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
@@ -208,7 +288,7 @@
             "reward": null,
             "server": "FEOMBCVX6UO7",
             "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
@@ -216,7 +296,7 @@
             "reward": null,
             "server": "A0NBWRZZI3XJ",
             "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
@@ -224,7 +304,7 @@
             "reward": null,
             "server": "BACKTOSUMERU",
             "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
@@ -232,7 +312,7 @@
             "reward": null,
             "server": "NicolaCoco",
             "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
@@ -240,79 +320,167 @@
             "reward": null,
             "server": "WilltoWin",
             "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "snezhnaya20260812",
+            "reward": "200 primogems",
+            "server": "Expired codes:",
+            "created_at": "2023-08-12T00:00:00Z",
+            "expiry": "2023-08-12T00:00:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "FairyGirlLinnea",
+            "reward": "30 primogems, 20k mora, and three tattered warrans",
+            "server": "Expired codes:",
+            "created_at": "2023-08-12T00:00:00Z",
+            "expiry": "2023-08-12T00:00:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "INUH43366326",
+            "reward": "10k mora, ten adventurer's experience, five fine enhancement ore, five jueyun chili chicken, and five stir-fried fish noodles",
+            "server": "Expired codes:",
+            "created_at": "2023-08-12T00:00:00Z",
+            "expiry": "2023-08-12T00:00:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "8BHA0KFRG94K",
+            "reward": "60 primogems and five adventurer's experience",
+            "server": "Expired codes:",
+            "created_at": "2023-08-12T00:00:00Z",
+            "expiry": "2023-08-12T00:00:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "RFVE7Z244V81",
+            "reward": "10k mora, ten adventurer's experience, five fine enhancement ore, five jueyun chili chicken, and five stir-fried fish noodles",
+            "server": "Expired codes:",
+            "created_at": "2023-08-12T00:00:00Z",
+            "expiry": "2023-08-12T00:00:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "MIXF44DAP7HW",
+            "reward": "20 primogems and 160 geodes of replication",
+            "server": "Expired codes:",
+            "created_at": "2023-08-12T00:00:00Z",
+            "expiry": "2023-08-12T00:00:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "LinneaClassTime",
+            "reward": "100 primogems and ten mystic enhancement ore",
+            "server": "Expired codes:",
+            "created_at": "2023-08-12T00:00:00Z",
+            "expiry": "2023-08-12T00:00:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "TempleofSpace",
+            "reward": "100 primogems and five hero's wit",
+            "server": "Expired codes:",
+            "created_at": "2023-08-12T00:00:00Z",
+            "expiry": "2023-08-12T00:00:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "Scaleblade",
+            "reward": "100 primogems and 50k mora",
+            "server": "Expired codes:",
+            "created_at": "2023-08-12T00:00:00Z",
+            "expiry": "2023-08-12T00:00:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "ZECVVP1DT7Z2",
+            "reward": "10k mora, ten adventurer's experience, five fine enhancement ore, five jueyun chili chicken, and five stir-fried fish noodles",
+            "server": "Expired codes:",
+            "created_at": "2023-08-12T00:00:00Z",
+            "expiry": "2023-08-12T00:00:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "8X73KH58KDHN",
+            "reward": "60 primogems and five adventurer's experience",
+            "server": "Expired codes:",
+            "created_at": "2023-08-12T00:00:00Z",
+            "expiry": "2023-08-12T00:00:00Z",
             "status": "شغال"
         },
         {
             "code": "TSUKINOARIKAE",
-            "reward": null,
+            "reward": "five moonfall silver",
             "server": "Expired codes:",
-            "created_at": null,
-            "expiry": null,
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "Homeward",
-            "reward": null,
+            "reward": "100 primogems and ten mystic enhancement ore",
             "server": "Expired codes:",
-            "created_at": null,
-            "expiry": null,
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "VarkaArrives",
-            "reward": null,
+            "reward": "100 primogems and five hero's wit",
             "server": "Expired codes:",
-            "created_at": null,
-            "expiry": null,
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "VisitWonderland",
-            "reward": null,
+            "reward": "100 primogems and 50k mora",
             "server": "Expired codes:",
-            "created_at": null,
-            "expiry": null,
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "P3GXX56W3VG9",
-            "reward": null,
+            "reward": "60 primogems and five adventurer's experience",
             "server": "Expired codes:",
-            "created_at": null,
-            "expiry": null,
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "UOEP8CP3D62C",
-            "reward": null,
+            "reward": "10k mora, ten adventurer's experience, five fine enhancement ore, five jueyun chili chicken, and five stir-fried fish noodles",
             "server": "Expired codes:",
-            "created_at": null,
-            "expiry": null,
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "MoonInvitationLunaIV",
-            "reward": null,
+            "reward": "40 primogems, 20k mora, and three hero's wit",
             "server": "Expired codes:",
-            "created_at": null,
-            "expiry": null,
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "GS63YTOO2X",
-            "reward": null,
+            "reward": "30k mora, three hero's wit, five mystic enhancement ore, three varunada lazurite slivers, and three teachings of moonlight",
             "server": "Expired codes:",
-            "created_at": null,
-            "expiry": null,
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "DABHTY763DAZ",
-            "reward": null,
+            "reward": "20k mora, three hero's wit, and five mystic enhancement ore",
             "server": "Expired codes:",
-            "created_at": null,
-            "expiry": null,
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
@@ -461,7 +629,7 @@
         },
         {
             "code": "GS61RD26W966",
-            "reward": "80 geodes of replication",
+            "reward": "80 geodes of replication, 20k mora, two adventurer's experience, and two mystic enhancement ore",
             "server": "Expired codes:",
             "created_at": "2023-02-20T14:30:00",
             "expiry": "2023-02-20T14:30:00",
@@ -477,7 +645,7 @@
         },
         {
             "code": "EPIC2025",
-            "reward": "40 primogems",
+            "reward": "40 primogems, 20k mora, and five adventurer's experience",
             "server": "Expired codes:",
             "created_at": "2023-02-20T14:30:00",
             "expiry": "2023-02-20T14:30:00",
@@ -492,139 +660,203 @@
             "status": "شغال"
         },
         {
-            "code": "WUSXOI92X54U",
-            "reward": null,
-            "server": "WUSXOI92X54U",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "GenshinHigh5Fight-",
-            "reward": null,
-            "server": "GenshinHigh5Fight-",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "GENSHIN5THSPRADIO",
-            "reward": null,
-            "server": "GENSHIN5THSPRADIO",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "Nefer1022Ashru",
-            "reward": null,
-            "server": "Nefer1022Ashru",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "LunaII1022",
-            "reward": null,
-            "server": "LunaII1022",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "MiliastraWonderland",
-            "reward": null,
-            "server": "MiliastraWonderland",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
             "code": "CLD6ZWU35GTH-",
             "reward": "60 primogems",
             "server": "Expired codes:",
-            "created_at": "2023-03-01T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
+            "created_at": "2021-12-01T00:00:00.000Z",
+            "expiry": "2021-12-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "SAWFSXA7NCSM",
             "reward": "20k mora",
             "server": "Expired codes:",
-            "created_at": "2023-02-28T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
+            "created_at": "2021-12-01T00:00:00.000Z",
+            "expiry": "2021-12-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "SWIP9F497X18",
             "reward": "10k mora",
             "server": "Expired codes:",
-            "created_at": "2023-02-27T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
+            "created_at": "2021-12-01T00:00:00.000Z",
+            "expiry": "2021-12-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "ITSTARTSIN60NODKRAI",
             "reward": "40 primogems",
             "server": "Expired codes:",
-            "created_at": "2023-02-26T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
+            "created_at": "2021-12-01T00:00:00.000Z",
+            "expiry": "2021-12-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "GS60YTQ4NT",
             "reward": "30k mora",
             "server": "Expired codes:",
-            "created_at": "2023-02-25T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
+            "created_at": "2021-12-01T00:00:00.000Z",
+            "expiry": "2021-12-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "NODKRAISP0909",
             "reward": "20k mora",
             "server": "Expired codes:",
-            "created_at": "2023-02-24T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
+            "created_at": "2021-12-01T00:00:00.000Z",
+            "expiry": "2021-12-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "TOUGNK89J77G",
             "reward": "10k mora",
             "server": "Expired codes:",
-            "created_at": "2023-02-23T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
+            "created_at": "2021-12-01T00:00:00.000Z",
+            "expiry": "2021-12-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "LunaI0910",
             "reward": "100 primogems",
             "server": "Expired codes:",
-            "created_at": "2023-02-22T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
+            "created_at": "2021-12-01T00:00:00.000Z",
+            "expiry": "2021-12-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "LaumaNodKraiFlins",
             "reward": "100 primogems",
             "server": "Expired codes:",
-            "created_at": "2023-02-21T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
+            "created_at": "2021-12-01T00:00:00.000Z",
+            "expiry": "2021-12-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "HiFiveTraveler",
             "reward": "100 primogems",
             "server": "Expired codes:",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
+            "created_at": "2021-12-01T00:00:00.000Z",
+            "expiry": "2021-12-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "NODKRAIGAMESCOM",
             "reward": "30 primogem",
             "server": "Expired codes:",
-            "created_at": "2023-02-19T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
+            "created_at": "2021-12-01T00:00:00.000Z",
+            "expiry": "2021-12-31T23:59:59.999Z",
+            "status": "شغال"
+        },
+        {
+            "code": "4BWU6FCNYUSH",
+            "reward": "30 primogems",
+            "server": "4BWU6FCNYUSH",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "GWLN97614C8L",
+            "reward": "10k mora",
+            "server": "GWLN97614C8L",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "NSXD6FDNHCS5",
+            "reward": "20k mora",
+            "server": "NSXD6FDNHCS5",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "G9VY57AWQACW",
+            "reward": "60 primogems",
+            "server": "G9VY57AWQACW",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "8QD412QXCEU1",
+            "reward": "60 primogems",
+            "server": "8QD412QXCEU1",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "GS58YTPGFY",
+            "reward": "30k mora",
+            "server": "GS58YTPGFY",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "VSWSRL22S4PD",
+            "reward": "20k mora",
+            "server": "VSWSRL22S4PD",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": "2023-02-20T14:30:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "EZIZ8W3J47NA",
+            "reward": "10k mora",
+            "server": "EZIZ8W3J47NA",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": "2023-02-20T14:30:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "Ineffa0730Birgitta",
+            "reward": "100 primogems and 10 mystic enhancement ore",
+            "server": "Ineffa0730Birgitta",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": "2023-02-20T14:30:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "Summer0730Asha",
+            "reward": "100 primogems and 5 hero's wit",
+            "server": "Summer0730Asha",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": "2023-02-20T14:30:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "TranquilBanquet",
+            "reward": "100 primogems and 50k mora",
+            "server": "TranquilBanquet",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": "2023-02-20T14:30:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "Vamosacorrer25",
+            "reward": "20k mora",
+            "server": "Vamosacorrer25",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": "2023-02-20T14:30:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "GIFTFROMSKIRK57",
+            "reward": "three shivada jade fragments, three meshing gears, three fine enhancement ore, and 30k mora",
+            "server": "GIFTFROMSKIRK57",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": "2023-02-20T14:30:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "GS57YTSNLJ",
+            "reward": "three hero's wit, five mystic enhancement ore, three teachings of contention, three shivada jade slivers, and 30k mora",
+            "server": "GS57YTSNLJ",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": "2023-02-20T14:30:00Z",
             "status": "شغال"
         },
         {
@@ -637,7 +869,7 @@
         },
         {
             "code": "WAM5UWWU28NV",
-            "reward": "60 primogems",
+            "reward": "60 primogems and 5 adventurer's experience",
             "server": "Expired codes:",
             "created_at": "2023-02-20T14:30:00.000Z",
             "expiry": "2023-02-20T14:30:00.000Z",
@@ -645,7 +877,7 @@
         },
         {
             "code": "GISpecialProgram54",
-            "reward": "100 primogems",
+            "reward": "100 primogems and 10 mystic enhancement ore",
             "server": "Expired codes:",
             "created_at": "2023-02-20T14:30:00.000Z",
             "expiry": "2023-02-20T14:30:00.000Z",
@@ -653,7 +885,7 @@
         },
         {
             "code": "Mizuki0212Mizuki",
-            "reward": "100 primogems",
+            "reward": "100 primogems and 5 hero's wit",
             "server": "Expired codes:",
             "created_at": "2023-02-20T14:30:00.000Z",
             "expiry": "2023-02-20T14:30:00.000Z",
@@ -661,7 +893,7 @@
         },
         {
             "code": "AisaBathhouse",
-            "reward": "100 primogems",
+            "reward": "100 primogems and 50k mora",
             "server": "Expired codes:",
             "created_at": "2023-02-20T14:30:00.000Z",
             "expiry": "2023-02-20T14:30:00.000Z",
@@ -669,7 +901,7 @@
         },
         {
             "code": "FORNATLAN",
-            "reward": "40 primogems",
+            "reward": "40 primogems, 5 withering purpurbloom, and 3 warrior's metal whistles",
             "server": "Expired codes:",
             "created_at": "2023-02-20T14:30:00.000Z",
             "expiry": "2023-02-20T14:30:00.000Z",
@@ -677,7 +909,7 @@
         },
         {
             "code": "KAM7UKZGVRXZ",
-            "reward": "20k mora",
+            "reward": "20k mora, one stuffed n' mashed potatoes, one fruity trio, two chocolate, one goulash, one sweet madame, one chenyu brew",
             "server": "Expired codes:",
             "created_at": "2023-02-20T14:30:00.000Z",
             "expiry": "2023-02-20T14:30:00.000Z",
@@ -688,7 +920,7 @@
             "reward": null,
             "server": "KAM7UKZGVRXZ",
             "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "expiry": null,
             "status": "شغال"
         },
         {
@@ -696,7 +928,7 @@
             "reward": null,
             "server": "MAVUIKAWISHES",
             "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "expiry": null,
             "status": "شغال"
         },
         {
@@ -704,7 +936,7 @@
             "reward": null,
             "server": "GSMTCT96",
             "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "expiry": null,
             "status": "شغال"
         },
         {
@@ -712,7 +944,7 @@
             "reward": null,
             "server": "STANDWITHMAVUIKA",
             "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "expiry": null,
             "status": "شغال"
         },
         {
@@ -720,7 +952,7 @@
             "reward": null,
             "server": "EAOL18BJ8S64",
             "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "expiry": null,
             "status": "شغال"
         },
         {
@@ -728,7 +960,7 @@
             "reward": null,
             "server": "SDKLSK67TZ1X",
             "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "expiry": null,
             "status": "شغال"
         },
         {
@@ -736,247 +968,399 @@
             "reward": null,
             "server": "ACUI96V85FCK",
             "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FIBE54PL5995",
+            "reward": "10k mora",
+            "server": "Expired codes:",
+            "created_at": "2023-02-20T00:00:00.000Z",
             "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
-            "code": "TARJ78VYG77C",
-            "reward": "10k mora, ten sdventurer's experience, five fine enhancement ore, five jueyun chili chicken, and five stir-fried fish noodles",
-            "server": "Expired codes: [Server: Expired codes:] | TARJ78VYG77C - 10k mora, ten sdventurer's experience, five fine enhancement ore, five jueyun chili chicken, and five stir-fried fish noodles",
-            "created_at": "2023-03-01T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "EFCIZM3399M1",
-            "reward": "10k mora, ten adventurer's experience, five fine enhancement ore, five stir-fried fish noodles, and five jueyun chili chicken",
-            "server": "Expired codes: [Server: Expired codes:] | EFCIZM3399M1 - 10k mora, ten adventurer's experience, five fine enhancement ore, five stir-fried fish noodles, and five jueyun chili chicken",
-            "created_at": "2023-02-28T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "NAJEWZTD7XD5",
-            "reward": "60 primogems and five adventurer's experience",
-            "server": "Expired codes: [Server: Expired codes:] | NAJEWZTD7XD5 - 60 primogems and five adventurer's experience",
-            "created_at": "2023-03-02T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "XSME6NV4GX2Z",
+            "code": "UAMPGJASECZH",
             "reward": "100 primogems and ten mystic enhancement ore",
-            "server": "Expired codes: [Server: Expired codes:] | XSME6NV4GX2Z - 100 primogems and ten mystic enhancement ore",
-            "created_at": "2023-02-29T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "KALF66CLGXKM",
-            "reward": "100 primogems and five hero's wit",
-            "server": "Expired codes: [Server: Expired codes:] | KALF66CLGXKM - 100 primogems and five hero's wit",
-            "created_at": "2023-03-03T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "PT5WP6D5GXJ9",
-            "reward": "100 primogems and 50k mora",
-            "server": "Expired codes: [Server: Expired codes:] | PT5WP6D5GXJ9 - 100 primogems and 50k mora",
-            "created_at": "2023-03-04T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "5A2WEGTVPXFV",
-            "reward": "ten mystic enhancement ore",
-            "server": "Expired codes: [Server: Expired codes:] | 5A2WEGTVPXFV - ten mystic enhancement ore",
-            "created_at": "2023-03-05T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "5SKXWYSCPEVR",
-            "reward": "five hero's wit",
-            "server": "Expired codes: [Server: Expired codes:] | 5SKXWYSCPEVR - five hero's wit",
-            "created_at": "2023-03-06T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "TTKEXYBCNWFH",
-            "reward": "30k mora and three pile 'em up",
-            "server": "Expired codes: [Server: Expired codes:] | TTKEXYBCNWFH - 30k mora and three pile 'em up",
-            "created_at": "2023-03-07T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "CXCG929M9MB9",
-            "reward": "10k mora, ten adventuer's experience, five fine enhancement ore, five stir-fried fish noodles, and five jueyun chili chicken",
-            "server": "Expired codes: [Server: Expired codes:] | CXCG929M9MB9 - 10k mora, ten adventuer's experience, five fine enhancement ore, five stir-fried fish noodles, and five jueyun chili chicken",
-            "created_at": "2023-02-28T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "MGKH82L54F6S",
-            "reward": "three lakelight lily, 10k mora, ten adventuer's experience, and five fine enhancement ore",
-            "server": "Expired codes: [Server: Expired codes:] | MGKH82L54F6S - three lakelight lily, 10k mora, ten adventuer's experience, and five fine enhancement ore",
-            "created_at": "2023-02-29T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "YILB5OHN89CN",
-            "reward": "10k mora",
             "server": "Expired codes:",
             "created_at": "2023-02-19T00:00:00.000Z",
             "expiry": "2023-02-19T00:00:00.000Z",
             "status": "شغال"
         },
         {
-            "code": "2T9AUV3YPV49",
-            "reward": "ten adventurer's experience",
+            "code": "LT5NH2TTXUHM",
+            "reward": "100 primogems and five hero's wit",
             "server": "Expired codes:",
             "created_at": "2023-02-18T00:00:00.000Z",
             "expiry": "2023-02-18T00:00:00.000Z",
             "status": "شغال"
         },
         {
-            "code": "USDA9H94ZHSE",
-            "reward": "10k mora",
+            "code": "4SLPH3BSFVH9",
+            "reward": "100 primogems and 50k mora",
             "server": "Expired codes:",
             "created_at": "2023-02-17T00:00:00.000Z",
             "expiry": "2023-02-17T00:00:00.000Z",
             "status": "شغال"
         },
         {
-            "code": "ZOYWFIGI3NJ2",
-            "reward": "10k mora",
+            "code": "LA5E77CLZX5V",
+            "reward": "60 primogems and five five adventurer's experience",
             "server": "Expired codes:",
             "created_at": "2023-02-16T00:00:00.000Z",
             "expiry": "2023-02-16T00:00:00.000Z",
             "status": "شغال"
         },
         {
-            "code": "ARQS5391FY79",
-            "reward": "10k mora",
+            "code": "GENSHIN52X8399",
+            "reward": "30k mora, three vayuda turquoise slivers, three hero's wit, three guides to kindling, and five mystic enhancement ore",
             "server": "Expired codes:",
             "created_at": "2023-02-15T00:00:00.000Z",
             "expiry": "2023-02-15T00:00:00.000Z",
             "status": "شغال"
         },
         {
-            "code": "KKFD1J97LTJ2",
-            "reward": "20k mora",
+            "code": "PAGG9M78TJBQ",
+            "reward": "10k mora, ten adventurer's experience, five fine enhancement ore, five stir-fried fish noodles, and five jueyun chili chicken",
             "server": "Expired codes:",
             "created_at": "2023-02-14T00:00:00.000Z",
             "expiry": "2023-02-14T00:00:00.000Z",
             "status": "شغال"
         },
         {
-            "code": "GENSHINSUMMERNIGHT",
-            "reward": "20k mora",
+            "code": "HVQAUTYB8NKE",
+            "reward": "20k mora, 15 adventurer's experience, and ten fine enhancement ore",
             "server": "Expired codes:",
             "created_at": "2023-02-13T00:00:00.000Z",
             "expiry": "2023-02-13T00:00:00.000Z",
             "status": "شغال"
         },
         {
-            "code": "2SMTYV59TLFD",
-            "reward": "100 primogems",
+            "code": "UTLO4OA55PA7",
+            "reward": "10k mora, five adventurer's experience, five fine enhancement ore, five stir-fried fish noodles, and five jueyun chili chicken",
+            "server": "Expired codes:",
+            "created_at": "2023-02-12T00:00:00.000Z",
+            "expiry": "2023-02-12T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "EMVDL6W28D8A",
+            "reward": "10k mora, five adventurer's experience, five fine enhancement ore, five stir-fried fish noodles, and five jueyun chili chicken",
             "server": "Expired codes:",
             "created_at": "2023-02-11T00:00:00.000Z",
             "expiry": "2023-02-11T00:00:00.000Z",
             "status": "شغال"
         },
         {
-            "code": "7SMTGV59BLXH",
-            "reward": "100 primogems",
+            "code": "SVMCJ1398A18",
+            "reward": "10k mora, five adventurer's experience, five fine enhancement ore, five stir-fried fish noodles, and five jueyun chili chicken",
             "server": "Expired codes:",
             "created_at": "2023-02-10T00:00:00.000Z",
             "expiry": "2023-02-10T00:00:00.000Z",
             "status": "شغال"
         },
         {
+            "code": "HVDLLZ29Y26W - 10k mora, three brilliant chrysanthemums, ten adventurer's experience, and five fine enhancement ore",
+            "reward": null,
+            "server": "HVDLLZ29Y26W",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "PPBL281426WC - 10k mora, three kalpalata lotus, ten adventurer's experience, and five fine enhancement ore",
+            "reward": null,
+            "server": "PPBL281426WC",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "AEXK6S4U93CF - 10k mora, three brilliant chrysanthemums, ten adventurer's experience, and five fine enchantment ore",
+            "reward": null,
+            "server": "AEXK6S4U93CF",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "WTXV36M1J6CO - three brilliant chrysanthemums, 10k mora, ten adventurer's experience, and five fine enchantment ore",
+            "reward": null,
+            "server": "WTXV36M1J6CO",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "GENSHINSUMMERNIGHT - 20k mora, two hero's wit, one biryani, five mystic enchantment ore, and one fruits of the festival",
+            "reward": null,
+            "server": "GENSHINSUMMERNIGHT",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "SBUEMJB449D9 - three brilliant chrysanthemums, 10k mora, ten adventurer's experience, and five fine enchantment ore",
+            "reward": null,
+            "server": "SBUEMJB449D9",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "MTLF6DKA7PQZ - 39k mora, three tatacos, three grainfruit chips, and three cup o' grainfruit",
+            "reward": null,
+            "server": "MTLF6DKA7PQZ",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "UB4XPUJS77QD - 20k mora, five brilliant chrysanthemums, five hero's wit, and three prithiva topaz sliver",
+            "reward": null,
+            "server": "UB4XPUJS77QD",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "TARJ78VYG77C",
+            "reward": "10k mora",
+            "server": "Expired codes:",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "EFCIZM3399M1",
+            "reward": "10k mora",
+            "server": "Expired codes:",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "NAJEWZTD7XD5",
+            "reward": "60 primogems and five adventurer's experience",
+            "server": "Expired codes:",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "XSME6NV4GX2Z",
+            "reward": "100 primogems and ten mystic enhancement ore",
+            "server": "Expired codes:",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "KALF66CLGXKM",
+            "reward": "100 primogems and five hero's wit",
+            "server": "Expired codes:",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "PT5WP6D5GXJ9",
+            "reward": "100 primogems and 50k mora",
+            "server": "Expired codes:",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "5A2WEGTVPXFV",
+            "reward": "ten mystic enhancement ore",
+            "server": "Expired codes:",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "5SKXWYSCPEVR",
+            "reward": "five hero's wit",
+            "server": "Expired codes:",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "TTKEXYBCNWFH",
+            "reward": "30k mora and three pile 'em up",
+            "server": "Expired codes:",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "CXCG929M9MB9",
+            "reward": "10k mora, ten adventuer's experience, five fine enhancement ore, five stir-fried fish noodles, and five jueyun chili chicken",
+            "server": "Expired codes:",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "MGKH82L54F6S",
+            "reward": "three lakelight lily, 10k mora, ten adventuer's experience, and five fine enhancement ore",
+            "server": "Expired codes:",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "YILB5OHN89CN",
+            "reward": "10k mora",
+            "server": "Expired codes:",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": "2023-02-20T14:30:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "2T9AUV3YPV49",
+            "reward": "ten adventurer's experience",
+            "server": "Expired codes:",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": "2023-02-20T14:30:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "USDA9H94ZHSE",
+            "reward": "10k mora",
+            "server": "Expired codes:",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": "2023-02-20T14:30:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "ZOYWFIGI3NJ2",
+            "reward": "10k mora",
+            "server": "Expired codes:",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": "2023-02-20T14:30:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "ARQS5391FY79",
+            "reward": "10k mora",
+            "server": "Expired codes:",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": "2023-02-20T14:30:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "KKFD1J97LTJ2",
+            "reward": "20k mora",
+            "server": "Expired codes:",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": "2023-02-20T14:30:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "GENSHINSUMMERNIGHT",
+            "reward": "20k mora",
+            "server": "Expired codes:",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": "2023-02-20T14:30:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "2SMTYV59TLFD",
+            "reward": "100 primogems",
+            "server": "Expired codes:",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": "2023-02-20T14:30:00Z",
+            "status": "شغال"
+        },
+        {
+            "code": "7SMTGV59BLXH",
+            "reward": "100 primogems",
+            "server": "Expired codes:",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": "2023-02-20T14:30:00Z",
+            "status": "شغال"
+        },
+        {
             "code": "8T4TGDLRA5E5",
             "reward": "100 primogems",
             "server": "Expired codes:",
-            "created_at": "2023-02-9T00:00:00.000Z",
-            "expiry": "2023-02-9T00:00:00.000Z",
+            "created_at": "2023-02-20T14:30:00Z",
+            "expiry": "2023-02-20T14:30:00Z",
             "status": "شغال"
         },
         {
             "code": "QIDD46418U6Q",
             "reward": "10k mora",
             "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
             "code": "FBJCMYSXCBT5",
             "reward": "60 primogems",
             "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
             "code": "DUOIMPACT",
             "reward": "30 primogems",
             "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
             "code": "NGQR1H5QCK82",
             "reward": "10k mora",
             "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
             "code": "SPAC2S34Y5P9",
             "reward": "10k mora",
             "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
             "code": "BCPCGY9HGB3H",
             "reward": "10k mora",
             "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
             "code": "BZPU67488O5V",
             "reward": "10k mora",
             "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
             "code": "LUURRWZ23243",
             "reward": "10k mora",
             "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
             "code": "QRUWF1BV2P33",
             "reward": "three lumitoile",
             "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
@@ -1148,6 +1532,102 @@
             "status": "شغال"
         },
         {
+            "code": "BBQ8AZHUH2CZ",
+            "reward": "100 primogems and ten mystic enhancement ore",
+            "server": "BBQ8AZHUH2CZ",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
+            "status": "شغال"
+        },
+        {
+            "code": "MT88AYHCZ2UR",
+            "reward": "100 primogems and five hero's wit",
+            "server": "MT88AYHCZ2UR",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
+            "status": "شغال"
+        },
+        {
+            "code": "FA9QAGYDZJEV",
+            "reward": "100 primogems and 50k mora",
+            "server": "FA9QAGYDZJEV",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
+            "status": "شغال"
+        },
+        {
+            "code": "6T8NWE3HD7PD",
+            "reward": "60 primogems and five adventurer's experience",
+            "server": "6T8NWE3HD7PD",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
+            "status": "شغال"
+        },
+        {
+            "code": "RS99D5LVTM6V",
+            "reward": "100 primogems and ten mystic enhancement ore",
+            "server": "RS99D5LVTM6V",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
+            "status": "شغال"
+        },
+        {
+            "code": "UBRQC4MCT4PZ",
+            "reward": "100 primogems and five hero's wit",
+            "server": "UBRQC4MCT4PZ",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
+            "status": "شغال"
+        },
+        {
+            "code": "8BQ9CMMVS5PM",
+            "reward": "100 primogems and 50k mora",
+            "server": "8BQ9CMMVS5PM",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
+            "status": "شغال"
+        },
+        {
+            "code": "WA8MJCETGXLR",
+            "reward": "10k mora, ten adventurer's experience, five fine enhancement ore, five stir-fried fish noodles, five jueyun chili chicken",
+            "server": "WA8MJCETGXLR",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
+            "status": "شغال"
+        },
+        {
+            "code": "YT9L3UFSZXF9",
+            "reward": "10k mora, ten adventurer's experience, five fine enhancement ore, five stir-fried fish noodles, five jueyun chili chicken",
+            "server": "YT9L3UFSZXF9",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
+            "status": "شغال"
+        },
+        {
+            "code": "3SRM3VEBHXY5",
+            "reward": "10k mora, ten adventurer's experience, five fine enhancement ore, five stir-fried fish noodles, five jueyun chili chicken",
+            "server": "3SRM3VEBHXY5",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
+            "status": "شغال"
+        },
+        {
+            "code": "ETR5KVFSYFMZ",
+            "reward": "10k mora, ten adventurer's experience, five fine enhancement ore, five stir-fried fish noodles, five jueyun chili chicken",
+            "server": "ETR5KVFSYFMZ",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
+            "status": "شغال"
+        },
+        {
+            "code": "VA97KJNF24UV",
+            "reward": "100 primogems and ten mystic enhancement ore",
+            "server": "VA97KJNF24UV",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
+            "status": "شغال"
+        },
+        {
             "code": "NA9NDHHCZKTD",
             "reward": "10k mora",
             "server": "NA9NDHHCZKTD",
@@ -1233,134 +1713,6 @@
             "server": "GA9FPD42SJ4V",
             "created_at": "2023-02-20T14:30:00.000Z",
             "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "Global",
-            "reward": "primogems",
-            "server": "Global",
-            "created_at": "2021-12-01T00:00:00.000Z",
-            "expiry": "2021-12-01T00:00:00.000Z",
-            "status": "shغال"
-        },
-        {
-            "code": "Pocket Tactics",
-            "reward": "primogems",
-            "server": "Pocket Tactics",
-            "created_at": "2021-12-01T00:00:00.000Z",
-            "expiry": "2021-12-01T00:00:00.000Z",
-            "status": "shغال"
-        },
-        {
-            "code": "Starglitter",
-            "reward": "primogems",
-            "server": "Starglitter",
-            "created_at": "2021-12-01T00:00:00.000Z",
-            "expiry": "2021-12-01T00:00:00.000Z",
-            "status": "shغال"
-        },
-        {
-            "code": "Stardust",
-            "reward": "primogems",
-            "server": "Stardust",
-            "created_at": "2021-12-01T00:00:00.000Z",
-            "expiry": "2021-12-01T00:00:00.000Z",
-            "status": "shغال"
-        },
-        {
-            "code": "Intertwined Fate",
-            "reward": "primogems",
-            "server": "Intertwined Fate",
-            "created_at": "2021-12-01T00:00:00.000Z",
-            "expiry": "2021-12-01T00:00:00.000Z",
-            "status": "shغال"
-        },
-        {
-            "code": "Acquaint Fate",
-            "reward": "primogems",
-            "server": "Acquaint Fate",
-            "created_at": "2021-12-01T00:00:00.000Z",
-            "expiry": "2021-12-01T00:00:00.000Z",
-            "status": "shغال"
-        },
-        {
-            "code": "Hoyoverse",
-            "reward": "primogems",
-            "server": "Hoyoverse",
-            "created_at": "2021-12-01T00:00:00.000Z",
-            "expiry": "2021-12-01T00:00:00.000Z",
-            "status": "shغال"
-        },
-        {
-            "code": "Mora",
-            "reward": "primogems",
-            "server": "Mora",
-            "created_at": "2021-12-01T00:00:00.000Z",
-            "expiry": "2021-12-01T00:00:00.000Z",
-            "status": "shغال"
-        },
-        {
-            "code": "Adventure's Experience",
-            "reward": "primogems",
-            "server": "Adventure's Experience",
-            "created_at": "2021-12-01T00:00:00.000Z",
-            "expiry": "2021-12-01T00:00:00.000Z",
-            "status": "shغال"
-        },
-        {
-            "code": "Teyvat",
-            "reward": "primogems",
-            "server": "Teyvat",
-            "created_at": "2021-12-01T00:00:00.000Z",
-            "expiry": "2021-12-01T00:00:00.000Z",
-            "status": "shغال"
-        },
-        {
-            "code": "Genshin Impact codes are rewards that Hoyoverse occasionally gives to players for free; these can include primogems, mora, or many other handy in-game items. Hoyoverse often releases codes during livestreams and when a new update arrives, so keep an eye on this page around then.",
-            "reward": null,
-            "server": "What are Genshin Impact codes?",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Blox Fruits codes",
-            "reward": null,
-            "server": "Blox Fruits codes",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Dress to Impress codes",
-            "reward": null,
-            "server": "Dress to Impress codes",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Roblox codes",
-            "reward": null,
-            "server": "Roblox codes",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Ruby Spiers-Unwin Ruby is a fan of all things Final Fantasy, JRPG, Digimon, and Pokémon, though she's partial to a good platformer like Crash Bandicoot or Spyro the Dragon, and maybe even some Coin Master and Roblox (especially Blox Fruits), too. You can find her gushing over FFXIV, FFVII Remake, and other such games at our sister site PCGamesN. She’s currently enjoying the Nintendo Switch 2 and loves to play Honkai Star Rail on her sassy Samsung Galaxy Z Flip7.",
-            "reward": null,
-            "server": "Ruby Spiers-Unwin",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Honkai Star Rail codes",
-            "reward": null,
-            "server": "Honkai Star Rail",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
             "status": "شغال"
         }
     ]
