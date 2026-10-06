@@ -1,7 +1,7 @@
 {
     "game_id": "nba_2k",
     "game_name": "NBA 2K",
-    "total_codes": 12,
+    "total_codes": 13,
     "codes": [
         {
             "code": "in-game",
@@ -39,6 +39,14 @@
             "code": "NBA-2K27",
             "reward": "NBA-2K27 Working",
             "server": "Global",
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "bi-annual",
+            "reward": "List News Windows 10 Fall Creators Update Features: What’s New In The Big Release ByAditya Tiwari October 17, 2017October 18, 2017 he Fall Creators Update is being pushed out as a part of Microsoft’s bi-annual update routine…",
+            "server": "Similar Posts",
             "created_at": null,
             "expiry": null,
             "status": "شغال"
