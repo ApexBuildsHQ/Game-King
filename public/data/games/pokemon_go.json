@@ -1,22 +1,94 @@
 {
     "game_id": "pokemon_go",
     "game_name": "Pokémon GO",
-    "total_codes": 2,
+    "total_codes": 11,
     "codes": [
         {
-            "code": "REN73F559HY3T",
-            "reward": null,
-            "server": "Max Particles Giveaway - Day 1",
-            "created_at": "2021-10-01T00:00:00Z",
-            "expiry": "2021-10-01T00:00:00Z",
+            "code": "0004POKEMONGO",
+            "reward": "Timed Challenge / event encounter reward",
+            "server": "Active Pokémon GO Codes",
+            "created_at": "Not Announced",
+            "expiry": "Not Announced",
             "status": "شغال"
         },
         {
-            "code": "Advertisement",
-            "reward": null,
-            "server": "Do promo codes expire?] | Yes, all promo codes have expiration dates. Make sure to redeem them before they expire. Check the expiration date on each code above.",
-            "created_at": "2021-10-01T00:00:00Z",
-            "expiry": "2021-10-01T00:00:00Z",
+            "code": "LEGOxPOKEMONGOxCAP",
+            "reward": "Timed Research, LEGO Pokémon Cap or alternative rewards",
+            "server": "Active Pokémon GO Codes",
+            "created_at": "Not Announced",
+            "expiry": "Not Announced",
+            "status": "شغال"
+        },
+        {
+            "code": "FENDIxFRGMTxPOKEMON",
+            "reward": "FENDI x FRGMT x POKÉMON Avatar Hoodie",
+            "server": "Active Pokémon GO Codes",
+            "created_at": "Unverified",
+            "expiry": "Legacy fashion collaboration code",
+            "status": "شغال"
+        },
+        {
+            "code": "DYNAMAX Max Battle Day",
+            "reward": "Dynamax Max Battle Day",
+            "server": "Pokémon GO Events and Updates in October 2026",
+            "created_at": "October 24, 2026",
+            "expiry": "A Max Battle-focused day with Dynamax content and related rewards.",
+            "status": "شغال"
+        },
+        {
+            "code": "Event",
+            "reward": "Event",
+            "server": "Pokémon GO Events and Updates in October 2026",
+            "created_at": "Date",
+            "expiry": "Highlights",
+            "status": "شغال"
+        },
+        {
+            "code": "Harvest Festival",
+            "reward": "Harvest Festival",
+            "server": "Pokémon GO Events and Updates in October 2026",
+            "created_at": "September 29 – October 5, 2026",
+            "expiry": "Early-October seasonal event continuing from late September, with themed encounters, event bonuses, and collection-focused gameplay.",
+            "status": "شغال"
+        },
+        {
+            "code": "Gigantamax Cinderace Max Battle Day",
+            "reward": "Gigantamax Cinderace Max Battle Day",
+            "server": "Pokémon GO Events and Updates in October 2026",
+            "created_at": "October 3, 2026",
+            "expiry": "A one-day Max Battle event featuring Gigantamax Cinderace.",
+            "status": "شغال"
+        },
+        {
+            "code": "October is especially valuable for collectors and event players. Prioritize World Space Week for Astronaut Pikachu, Zorua Community Day for Candy and Shiny hunting, and Halloween 2026 Part One for spooky encounters, event research, and possible limited-time reward drops. Keep checking the in-game event calendar and the Pokémon GO Web Store for new Timed Research, promo codes, and partner rewards.",
+            "reward": "World Space Week for Astronaut Pikachu, Zorua Community Day for Candy and Shiny hunting, and Halloween 2026 Part One for spooky encounters, event research, and possible limited-time reward drops.",
+            "server": "Pokémon GO Events and Updates in October 2026",
+            "created_at": "Not Announced",
+            "expiry": "Not Announced",
+            "status": "شغال"
+        },
+        {
+            "code": "Zorua Community Day",
+            "reward": "Zorua Community Day",
+            "server": "Pokémon GO Events and Updates in October 2026",
+            "created_at": "October 10, 2026",
+            "expiry": "Zorua is the featured Community Day Pokémon, with increased wild encounters and event bonuses during the Community Day window.",
+            "status": "شغال"
+        },
+        {
+            "code": "Fall Marathon: Buddy Trek",
+            "reward": "Buddy Trek",
+            "server": "Pokémon GO Events and Updates in October 2026",
+            "created_at": "October 13 – October 19, 2026",
+            "expiry": "Buddy-focused event with walking, exploration, and progression-related rewards.",
+            "status": "شغال"
+        },
+        {
+            "code": "GOFEST2026",
+            "reward": "Copy",
+            "server": "Share",
+            "created_at": "2022-09-11T22:00",
+            "expiry": "2022-09-11T22:00",
             "status": "شغال"
         }
     ]
