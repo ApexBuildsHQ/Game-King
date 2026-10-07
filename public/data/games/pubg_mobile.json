@@ -1,253 +1,181 @@
 {
     "game_id": "pubg_mobile",
     "game_name": "PUBG Mobile",
-    "total_codes": 77,
+    "total_codes": 72,
     "codes": [
         {
             "code": "HappyGoldenMoon",
-            "reward": null,
+            "reward": "Festival reward",
             "server": "PUBG Mobile UC top-ups",
             "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
+            "expiry": "2021-01-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "RollingInMoney",
-            "reward": null,
+            "reward": "Festival reward",
             "server": "PUBG Mobile UC top-ups",
             "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
+            "expiry": "2021-01-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "HealthAndHappines",
-            "reward": null,
+            "reward": "Festival reward",
             "server": "PUBG Mobile UC top-ups",
             "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
+            "expiry": "2021-01-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "UKUZBZGWF",
-            "reward": null,
+            "reward": "Fireworks and event items",
             "server": "PUBG Mobile UC top-ups",
             "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
+            "expiry": "2021-01-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "BTOQZHZ8CQ",
-            "reward": null,
+            "reward": "Legacy promotional reward",
             "server": "PUBG Mobile UC top-ups",
             "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
+            "expiry": "2021-01-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "PUBGMOBILENP",
-            "reward": null,
+            "reward": "Nepal regional promotion",
             "server": "PUBG Mobile UC top-ups",
             "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
+            "expiry": "2021-01-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "PUBGMSANSLI",
-            "reward": null,
+            "reward": "Türkiye regional promotion",
             "server": "PUBG Mobile UC top-ups",
             "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
+            "expiry": "2021-01-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "PUBGMPANDA3",
-            "reward": null,
+            "reward": "Panda-themed promotion",
             "server": "PUBG Mobile UC top-ups",
             "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
+            "expiry": "2021-01-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "150NEWUPDATE",
-            "reward": null,
+            "reward": "Corn Suit",
             "server": "PUBG Mobile UC top-ups",
             "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
+            "expiry": "2021-01-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "UCBYSD800",
-            "reward": null,
+            "reward": " Reported UC reward",
             "server": "PUBG Mobile UC top-ups",
             "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
+            "expiry": "2021-01-31T23:59:59.999Z",
             "status": "شغال"
+        },
+        {
+            "code": "PUBGMOBILE10",
+            "reward": "10 UC",
+            "server": "KR",
+            "created_at": "2021-01-01T00:00:00.000Z",
+            "expiry": "2021-01-01T00:00:00.000Z",
+            "status": "shغال"
+        },
+        {
+            "code": "PUBGMOBILE20",
+            "reward": "20 UC",
+            "server": "KR",
+            "created_at": "2021-01-01T00:00:00.000Z",
+            "expiry": "2021-01-01T00:00:00.000Z",
+            "status": "shغال"
+        },
+        {
+            "code": "PUBGMOBILE30",
+            "reward": "30 UC",
+            "server": "KR",
+            "created_at": "2021-01-01T00:00:00.000Z",
+            "expiry": "2021-01-01T00:00:00.000Z",
+            "status": "shغال"
+        },
+        {
+            "code": "PUBGMOBILE40",
+            "reward": "40 UC",
+            "server": "KR",
+            "created_at": "2021-01-01T00:00:00.000Z",
+            "expiry": "2021-01-01T00:00:00.000Z",
+            "status": "shغال"
+        },
+        {
+            "code": "PUBGMOBILE50",
+            "reward": "50 UC",
+            "server": "KR",
+            "created_at": "2021-01-01T00:00:00.000Z",
+            "expiry": "2021-01-01T00:00:00.000Z",
+            "status": "shغال"
+        },
+        {
+            "code": "PUBGMOBILE60",
+            "reward": "60 UC",
+            "server": "KR",
+            "created_at": "2021-01-01T00:00:00.000Z",
+            "expiry": "2021-01-01T00:00:00.000Z",
+            "status": "shغال"
+        },
+        {
+            "code": "PUBGMOBILE70",
+            "reward": "70 UC",
+            "server": "KR",
+            "created_at": "2021-01-01T00:00:00.000Z",
+            "expiry": "2021-01-01T00:00:00.000Z",
+            "status": "shغال"
+        },
+        {
+            "code": "PUBGMOBILE80",
+            "reward": "80 UC",
+            "server": "KR",
+            "created_at": "2021-01-01T00:00:00.000Z",
+            "expiry": "2021-01-01T00:00:00.000Z",
+            "status": "shغال"
+        },
+        {
+            "code": "PUBGMOBILE90",
+            "reward": "90 UC",
+            "server": "KR",
+            "created_at": "2021-01-01T00:00:00.000Z",
+            "expiry": "2021-01-01T00:00:00.000Z",
+            "status": "shغال"
+        },
+        {
+            "code": "PUBGMOBILE100",
+            "reward": "100 UC",
+            "server": "KR",
+            "created_at": "2021-01-01T00:00:00.000Z",
+            "expiry": "2021-01-01T00:00:00.000Z",
+            "status": "shغال"
         },
         {
             "code": "ShallowReactive",
             "reward": "Free in-game items",
             "server": "Conclusion",
-            "created_at": "2021-04-01T00:00:00.000Z",
-            "expiry": "2021-04-01T00:00:00.000Z",
+            "created_at": "2021-03-23T00:00:00.000Z",
+            "expiry": "2021-03-23T00:00:00.000Z",
             "status": "shغال"
         },
         {
-            "code": "CLPOZDZ6PP",
-            "reward": "20 Challenge Points",
-            "server": "For Veterans",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "CLPOZCZTVW",
-            "reward": "20 Challenge Points",
-            "server": "For Veterans",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "CLPOZBZ6JE",
-            "reward": "20 Challenge Points",
-            "server": "For Veterans",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "CLHFZFZ7VE",
-            "reward": "20 Challenge Points",
+            "code": "Global",
+            "reward": null,
             "server": "Global",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "Arena Breakout: Infinite (PC Version)",
-            "reward": "20 Challenge Points",
-            "server": "Global",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "Dragonstride: Legacy Reborn(Dragonheir: Silent Gods)",
-            "reward": "20 Challenge Points",
-            "server": "Global",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "Wuthering Waves",
-            "reward": "20 Challenge Points",
-            "server": "Global",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "Gangstar Mirage City",
-            "reward": "20 Challenge Points",
-            "server": "Global",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "Whiteout Survival",
-            "reward": "20 Challenge Points",
-            "server": "Global",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "State of Survival: Zombie War",
-            "reward": "20 Challenge Points",
-            "server": "Global",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "NTE(Neverness to Everness)",
-            "reward": null,
-            "server": "[Server: Global]",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "[Server: Global] | Arknights: Endfield",
-            "reward": null,
-            "server": "[Server: Global]",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "[Server: Global] | Kingshot",
-            "reward": null,
-            "server": "[Server: Global]",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "[Server: Global] | Identity V Top Up",
-            "reward": null,
-            "server": "[Server: Global]",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "[Server: Global] | Crystal of Atlan【only Southeast Asia】",
-            "reward": null,
-            "server": "[Server: Global]",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "[Server: Global] | Oletoken Gift Cards",
-            "reward": null,
-            "server": "[Server: Global]",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "[Server: Global] | Punishing：Gray Raven Top Up",
-            "reward": null,
-            "server": "[Server: Global]",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "[Server: Global] | Ragnarok Origin Global",
-            "reward": null,
-            "server": "[Server: Global]",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "[Server: Global] | StarMaker",
-            "reward": null,
-            "server": "[Server: Global]",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "[Server: Global] | Standoff 2",
-            "reward": null,
-            "server": "[Server: Global]",
-            "created_at": "2021-01-01T00:00:00.000Z",
+            "created_at": null,
             "expiry": null,
             "status": "شغال"
         },
@@ -335,7 +263,7 @@
             "code": "Umamusume: Pretty Derby (IOS)",
             "reward": null,
             "server": "[Server: Global]",
-            "created_at": "2021-01-01 00:00:00",
+            "created_at": "2021-01-01T00:00:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
@@ -343,7 +271,7 @@
             "code": "Life Makeover",
             "reward": null,
             "server": "[Server: Global]",
-            "created_at": "2021-01-01 00:00:00",
+            "created_at": "2021-01-01T00:00:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
@@ -351,7 +279,7 @@
             "code": "Huntopia",
             "reward": null,
             "server": "[Server: Global]",
-            "created_at": "2021-01-01 00:00:00",
+            "created_at": "2021-01-01T00:00:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
@@ -359,7 +287,7 @@
             "code": "Shadowverse: Worlds Beyond",
             "reward": null,
             "server": "[Server: Global]",
-            "created_at": "2021-01-01 00:00:00",
+            "created_at": "2021-01-01T00:00:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
@@ -367,7 +295,7 @@
             "code": "MigoLive",
             "reward": null,
             "server": "[Server: Global]",
-            "created_at": "2021-01-01 00:00:00",
+            "created_at": "2021-01-01T00:00:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
@@ -375,7 +303,7 @@
             "code": "Revelation Mobile : Infinite Journey",
             "reward": null,
             "server": "[Server: Global]",
-            "created_at": "2021-01-01 00:00:00",
+            "created_at": "2021-01-01T00:00:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
@@ -383,7 +311,7 @@
             "code": "BLEACH:Soul Resonance(Global)",
             "reward": null,
             "server": "[Server: Global]",
-            "created_at": "2021-01-01 00:00:00",
+            "created_at": "2021-01-01T00:00:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
@@ -391,15 +319,23 @@
             "code": "King of Fighters AFK",
             "reward": null,
             "server": "[Server: Character ID]",
-            "created_at": "2021-01-01 00:00:00",
+            "created_at": "2021-01-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "[Server: Character ID] | These codes are long strings of similar-looking letters and numbers, so copy-paste rather than typing. One wrong character wastes the attempt, and the page shows the same error for a bad code and a mistyped ID, which makes troubleshooting annoying.",
+            "reward": null,
+            "server": "[Server: Character ID]",
+            "created_at": "2021-01-01T00:00:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
         {
             "code": "[Server: Q5: Rewards not showing up?] | Log in with Telegram",
             "reward": null,
-            "server": "[Server: Global]",
-            "created_at": "2021-01-01 00:00:00",
+            "server": "[Server: Q5: Rewards not showing up?]",
+            "created_at": "2021-01-01T00:00:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
@@ -407,25 +343,81 @@
             "code": "[Server: Global] | WhatsApp",
             "reward": null,
             "server": "[Server: Global]",
-            "created_at": "2021-01-01 00:00:00",
+            "created_at": "2021-01-01T00:00:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
         {
             "code": "[Server: Mail] | NEXUSUCFREE",
             "reward": null,
-            "server": "[Server: Global]",
-            "created_at": "2021-01-01 00:00:00",
+            "server": "[Server: Mail]",
+            "created_at": "2021-01-01T00:00:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "8th Anniversary Codes🌟",
-            "reward": "PUBG Mobile UC Redeem Codes",
-            "server": "PUBG Mobile",
-            "created_at": "2021-04-01T00:00:00.000Z",
-            "expiry": "2021-04-30T23:59:59.999Z",
-            "status": "شغال"
+            "code": "My Coupons0",
+            "reward": null,
+            "server": "Global",
+            "created_at": "2021-01-01T00:00:00.000Z",
+            "expiry": "2021-01-31T23:59:59.999Z",
+            "status": "shغال"
+        },
+        {
+            "code": "Update your settings",
+            "reward": null,
+            "server": "Global",
+            "created_at": "2021-01-01T00:00:00.000Z",
+            "expiry": "2021-01-31T23:59:59.999Z",
+            "status": "shغال"
+        },
+        {
+            "code": "Language",
+            "reward": null,
+            "server": "Global",
+            "created_at": "2021-01-01T00:00:00.000Z",
+            "expiry": "2021-01-31T23:59:59.999Z",
+            "status": "shغال"
+        },
+        {
+            "code": "List of Contents",
+            "reward": null,
+            "server": "Global",
+            "created_at": "2021-01-01T00:00:00.000Z",
+            "expiry": "2021-01-31T23:59:59.999Z",
+            "status": "shغال"
+        },
+        {
+            "code": "What is Redeem Code in PUBG Mobile?",
+            "reward": null,
+            "server": "Global",
+            "created_at": "2021-01-01T00:00:00.000Z",
+            "expiry": "2021-01-31T23:59:59.999Z",
+            "status": "shغال"
+        },
+        {
+            "code": "Exclusive PUBG Mobile Redeem Codes Today🌟(Updated Daily)",
+            "reward": null,
+            "server": "Global",
+            "created_at": "2021-01-01T00:00:00.000Z",
+            "expiry": "2021-01-31T23:59:59.999Z",
+            "status": "shغال"
+        },
+        {
+            "code": "Graffiti Spray",
+            "reward": null,
+            "server": "Global",
+            "created_at": "2021-01-01T00:00:00.000Z",
+            "expiry": "2021-01-31T23:59:59.999Z",
+            "status": "shغال"
+        },
+        {
+            "code": "Immortal Guardian Set",
+            "reward": null,
+            "server": "Global",
+            "created_at": "2021-01-01T00:00:00.000Z",
+            "expiry": "2021-01-31T23:59:59.999Z",
+            "status": "shغال"
         },
         {
             "code": "DDDKZCDGZM7QCopy",
@@ -572,38 +564,6 @@
             "status": "شغال"
         },
         {
-            "code": "A3",
-            "reward": "free UC",
-            "server": "A3",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-01T00:00:00.000Z",
-            "status": "shغال"
-        },
-        {
-            "code": "A5",
-            "reward": "Your in-game mail receives all awards that you have claimed. Restart the game if, after a few minutes, they are still absent. Check out our Troubleshooting section if the problem continues.",
-            "server": "A5",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-01T00:00:00.000Z",
-            "status": "shغال"
-        },
-        {
-            "code": "Q3",
-            "reward": "The most dependable way to obtain free UC, aside from the codes, is to finish the Royale Pass's free track and occasionally take part in particular in-game events that award it as a prize.",
-            "server": "Q3",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-01T00:00:00.000Z",
-            "status": "shغال"
-        },
-        {
-            "code": "Q5",
-            "reward": "I specialize in strategic analysis for shooters, with a passion for shooting mechanics and tactical logic. From drop zone selection in 'PUBG Mobile' and gunsmithing loadouts in 'Call of Duty Mobile', to loot management and raid routes in 'Arena Breakout', and cover usage in 'Free Fire'. I distill recoil control techniques and team roles through rigorous frame-rate testing. Whether you aim to improve your headshot rate or stabilize performance in competitive modes, I turn complex battlefield variables into actionable guides.",
-            "server": "Q5",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-01T00:00:00.000Z",
-            "status": "shغال"
-        },
-        {
             "code": "InstantSecure",
             "reward": null,
             "server": "Q5",
@@ -612,7 +572,7 @@
             "status": "شغال"
         },
         {
-            "code": "Login to BuffBuffFaster top up, better deals",
+            "code": "Login to BuffBuffFaster top up, better deals.",
             "reward": null,
             "server": "Q5",
             "created_at": "2021-01-01T00:00:00.000Z",

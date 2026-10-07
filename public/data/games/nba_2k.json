@@ -1,7 +1,7 @@
 {
     "game_id": "nba_2k",
     "game_name": "NBA 2K",
-    "total_codes": 13,
+    "total_codes": 12,
     "codes": [
         {
             "code": "in-game",
@@ -60,25 +60,17 @@
             "status": "شغال"
         },
         {
-            "code": "gamesradar-deal-of-the-day-digest",
-            "reward": null,
-            "server": null,
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "cissy-jones-on-her-career",
-            "reward": null,
-            "server": null,
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
             "code": "gamesradar-site",
             "reward": null,
             "server": null,
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "Morrowind-style",
+            "reward": "3 The Elder Scrolls Online is prioritizing combat less and content that has you \"looking in every nook and cranny\" Morrowind-style more, say the MMO's leads",
+            "server": "© GamesRadar+. Not to be reproduced without permission.",
             "created_at": null,
             "expiry": null,
             "status": "شغال"
