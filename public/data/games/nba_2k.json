@@ -1,7 +1,7 @@
 {
     "game_id": "nba_2k",
     "game_name": "NBA 2K",
-    "total_codes": 12,
+    "total_codes": 13,
     "codes": [
         {
             "code": "in-game",
@@ -44,8 +44,16 @@
             "status": "شغال"
         },
         {
-            "code": "bi-annual",
-            "reward": "List News Windows 10 Fall Creators Update Features: What’s New In The Big Release ByAditya Tiwari October 17, 2017October 18, 2017 he Fall Creators Update is being pushed out as a part of Microsoft’s bi-annual update routine…",
+            "code": "crafting-heavy",
+            "reward": "Gaming List The Forge Codes (October 2026) ByHisan Kidwai March 17, 2026October 1, 2026 The Forge is one of Roblox’s newer crafting-heavy RPGs, where players mine resources, forge weapons, and…",
+            "server": "Similar Posts",
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "fuel-efficiency",
+            "reward": "DriveX List Top 10 Cheap Sports Cars With Great Fuel Economy You Can Buy ByShaheer Anwar October 4, 2024October 8, 2024 Where performance comes with fuel-efficiency.",
             "server": "Similar Posts",
             "created_at": null,
             "expiry": null,
