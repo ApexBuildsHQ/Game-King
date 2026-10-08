@@ -1,109 +1,93 @@
 {
     "game_id": "nba_2k",
     "game_name": "NBA 2K",
-    "total_codes": 13,
+    "total_codes": 11,
     "codes": [
         {
-            "code": "in-game",
+            "code": "NBA-2K27-1234567890",
             "reward": null,
-            "server": null,
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "2026-01-14T15",
-            "reward": null,
-            "server": null,
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "nba-2k",
-            "reward": null,
-            "server": null,
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "nba-2k-mobile-codes",
-            "reward": null,
-            "server": null,
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "NBA-2K27",
-            "reward": "NBA-2K27 Working",
             "server": "Global",
-            "created_at": null,
+            "created_at": "2026-01-14T15:24:48+00:00",
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "crafting-heavy",
-            "reward": "Gaming List The Forge Codes (October 2026) ByHisan Kidwai March 17, 2026October 1, 2026 The Forge is one of Roblox’s newer crafting-heavy RPGs, where players mine resources, forge weapons, and…",
-            "server": "Similar Posts",
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "fuel-efficiency",
-            "reward": "DriveX List Top 10 Cheap Sports Cars With Great Fuel Economy You Can Buy ByShaheer Anwar October 4, 2024October 8, 2024 Where performance comes with fuel-efficiency.",
-            "server": "Similar Posts",
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "case-sensitive",
-            "reward": "To redeem NBA 2K Mobile codes, you first need to complete all of the initial tutorials and opening match – or at least start it and then quit out. This will give you access to the main menu screen, where you need to tap the Clipboard icon on the left hand side of the screen. From the menu that opens up, hit the Newspaper icon (fourth one down on the left) to access the ENTER CODE text box and then type in the promo before tapping the CLAIM button. Remember that codes for NBA 2K Mobile are case-sensitive, so make sure you enter them exactly as displayed.",
-            "server": "How to redeem NBA 2K Mobile codes",
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "gamesradar-site",
+            "code": "NBA-2K27-9876543210",
             "reward": null,
-            "server": null,
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Morrowind-style",
-            "reward": "3 The Elder Scrolls Online is prioritizing combat less and content that has you \"looking in every nook and cranny\" Morrowind-style more, say the MMO's leads",
-            "server": "© GamesRadar+. Not to be reproduced without permission.",
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Member-only",
-            "reward": "Member-only articles",
             "server": "Global",
-            "created_at": null,
+            "created_at": "2026-01-14T15:24:48+00:00",
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "Members-only",
-            "reward": "Members-only prize draws",
+            "code": "NBA-2K27-1111111111",
+            "reward": null,
             "server": "Global",
-            "created_at": null,
+            "created_at": "2026-01-14T15:24:48+00:00",
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "sign-up",
-            "reward": "Your newsletter sign-up was successful",
+            "code": "NBA-2K27-2222222222",
+            "reward": null,
             "server": "Global",
-            "created_at": null,
+            "created_at": "2026-01-14T15:24:48+00:00",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "NBA-2K27-3333333333",
+            "reward": null,
+            "server": "Global",
+            "created_at": "2026-01-14T15:24:48+00:00",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "NBA-2K27-4444444444",
+            "reward": null,
+            "server": "Global",
+            "created_at": "2026-01-14T15:24:48+00:00",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "NBA-2K27-5555555555",
+            "reward": null,
+            "server": "Global",
+            "created_at": "2026-01-14T15:24:48+00:00",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "NBA-2K27-6666666666",
+            "reward": null,
+            "server": "Global",
+            "created_at": "2026-01-14T15:24:48+00:00",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "NBA-2K27-7777777777",
+            "reward": null,
+            "server": "Global",
+            "created_at": "2026-01-14T15:24:48+00:00",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "NBA-2K27-8888888888",
+            "reward": null,
+            "server": "Global",
+            "created_at": "2026-01-14T15:24:48+00:00",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "NBA-2K27-9999999999",
+            "reward": null,
+            "server": "Global",
+            "created_at": "2026-01-14T15:24:48+00:00",
             "expiry": null,
             "status": "شغال"
         }
