@@ -1,214 +1,166 @@
 {
     "game_id": "pubg_mobile",
     "game_name": "PUBG Mobile",
-    "total_codes": 79,
+    "total_codes": 61,
     "codes": [
         {
             "code": "HappyGoldenMoon",
             "reward": "Festival reward",
             "server": "PUBG Mobile UC top-ups",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
+            "created_at": "2022-01-01T00:00:00.000Z",
+            "expiry": "2022-01-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "RollingInMoney",
             "reward": "Festival reward",
             "server": "PUBG Mobile UC top-ups",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
+            "created_at": "2022-01-02T00:00:00.000Z",
+            "expiry": "2022-01-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "HealthAndHappines",
             "reward": "Festival reward",
             "server": "PUBG Mobile UC top-ups",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
+            "created_at": "2022-01-03T00:00:00.000Z",
+            "expiry": "2022-01-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "UKUZBZGWF",
             "reward": "Fireworks and event items",
             "server": "PUBG Mobile UC top-ups",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
+            "created_at": "2022-01-04T00:00:00.000Z",
+            "expiry": "2022-01-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "BTOQZHZ8CQ",
             "reward": "Legacy promotional reward",
             "server": "PUBG Mobile UC top-ups",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
+            "created_at": "2022-01-05T00:00:00.000Z",
+            "expiry": "2022-01-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "PUBGMOBILENP",
             "reward": "Nepal regional promotion",
             "server": "PUBG Mobile UC top-ups",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
+            "created_at": "2022-01-06T00:00:00.000Z",
+            "expiry": "2022-01-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "PUBGMSANSLI",
             "reward": "Türkiye regional promotion",
             "server": "PUBG Mobile UC top-ups",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
+            "created_at": "2022-01-07T00:00:00.000Z",
+            "expiry": "2022-01-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "PUBGMPANDA3",
             "reward": "Panda-themed promotion",
             "server": "PUBG Mobile UC top-ups",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
+            "created_at": "2022-01-08T00:00:00.000Z",
+            "expiry": "2022-01-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "150NEWUPDATE",
             "reward": "Corn Suit",
             "server": "PUBG Mobile UC top-ups",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
+            "created_at": "2022-01-09T00:00:00.000Z",
+            "expiry": "2022-01-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "UCBYSD800",
             "reward": " Reported UC reward",
             "server": "PUBG Mobile UC top-ups",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
+            "created_at": "2022-01-10T00:00:00.000Z",
+            "expiry": "2022-01-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "PUBGMOBILE10",
             "reward": "10 UC",
             "server": "KR",
-            "created_at": "2023-03-01T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
+            "created_at": "2022-07-15T14:30:00.000Z",
+            "expiry": "2022-07-15T14:30:00.000Z",
             "status": "shغال"
         },
         {
             "code": "PUBGMOBILE20",
             "reward": "20 UC",
-            "server": "BGMI INDIA",
-            "created_at": "2023-03-01T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
+            "server": "KR",
+            "created_at": "2022-07-15T14:30:00.000Z",
+            "expiry": "2022-07-15T14:30:00.000Z",
+            "status": "shغال"
+        },
+        {
+            "code": "PUBGMOBILE30",
+            "reward": "30 UC",
+            "server": "KR",
+            "created_at": "2022-07-15T14:30:00.000Z",
+            "expiry": "2022-07-15T14:30:00.000Z",
+            "status": "shغال"
+        },
+        {
+            "code": "PUBGMOBILE40",
+            "reward": "40 UC",
+            "server": "KR",
+            "created_at": "2022-07-15T14:30:00.000Z",
+            "expiry": "2022-07-15T14:30:00.000Z",
             "status": "shغال"
         },
         {
             "code": "PUBGMOBILE50",
             "reward": "50 UC",
             "server": "KR",
-            "created_at": "2023-03-01T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
+            "created_at": "2022-07-15T14:30:00.000Z",
+            "expiry": "2022-07-15T14:30:00.000Z",
+            "status": "shغال"
+        },
+        {
+            "code": "PUBGMOBILE60",
+            "reward": "60 UC",
+            "server": "KR",
+            "created_at": "2022-07-15T14:30:00.000Z",
+            "expiry": "2022-07-15T14:30:00.000Z",
+            "status": "shغال"
+        },
+        {
+            "code": "PUBGMOBILE70",
+            "reward": "70 UC",
+            "server": "KR",
+            "created_at": "2022-07-15T14:30:00.000Z",
+            "expiry": "2022-07-15T14:30:00.000Z",
+            "status": "shغال"
+        },
+        {
+            "code": "PUBGMOBILE80",
+            "reward": "80 UC",
+            "server": "KR",
+            "created_at": "2022-07-15T14:30:00.000Z",
+            "expiry": "2022-07-15T14:30:00.000Z",
+            "status": "shغال"
+        },
+        {
+            "code": "PUBGMOBILE90",
+            "reward": "90 UC",
+            "server": "KR",
+            "created_at": "2022-07-15T14:30:00.000Z",
+            "expiry": "2022-07-15T14:30:00.000Z",
             "status": "shغال"
         },
         {
             "code": "PUBGMOBILE100",
             "reward": "100 UC",
-            "server": "BGMI INDIA",
-            "created_at": "2023-03-01T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "shغال"
-        },
-        {
-            "code": "PUBGMOBILE200",
-            "reward": "200 UC",
             "server": "KR",
-            "created_at": "2023-03-01T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "shغال"
-        },
-        {
-            "code": "PUBGMOBILE500",
-            "reward": "500 UC",
-            "server": "BGMI INDIA",
-            "created_at": "2023-03-01T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "shغال"
-        },
-        {
-            "code": "PUBGMOBILE1000",
-            "reward": "1000 UC",
-            "server": "KR",
-            "created_at": "2023-03-01T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "shغال"
-        },
-        {
-            "code": "PUBGMOBILE2000",
-            "reward": "2000 UC",
-            "server": "BGMI INDIA",
-            "created_at": "2023-03-01T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "shغال"
-        },
-        {
-            "code": "PUBGMOBILE3000",
-            "reward": "3000 UC",
-            "server": "KR",
-            "created_at": "2023-03-01T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "shغال"
-        },
-        {
-            "code": "PUBGMOBILE4000",
-            "reward": "4000 UC",
-            "server": "BGMI INDIA",
-            "created_at": "2023-03-01T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "shغال"
-        },
-        {
-            "code": "PUBGMOBILE5000",
-            "reward": "5000 UC",
-            "server": "KR",
-            "created_at": "2023-03-01T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "shغال"
-        },
-        {
-            "code": "PUBGMOBILE6000",
-            "reward": "6000 UC",
-            "server": "BGMI INDIA",
-            "created_at": "2023-03-01T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "shغال"
-        },
-        {
-            "code": "PUBGMOBILE7000",
-            "reward": "7000 UC",
-            "server": "KR",
-            "created_at": "2023-03-01T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "shغال"
-        },
-        {
-            "code": "PUBGMOBILE8000",
-            "reward": "8000 UC",
-            "server": "BGMI INDIA",
-            "created_at": "2023-03-01T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "shغال"
-        },
-        {
-            "code": "PUBGMOBILE9000",
-            "reward": "9000 UC",
-            "server": "KR",
-            "created_at": "2023-03-01T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
-            "status": "shغال"
-        },
-        {
-            "code": "PUBGMOBILE10000",
-            "reward": "10000 UC",
-            "server": "BGMI INDIA",
-            "created_at": "2023-03-01T00:00:00.000Z",
-            "expiry": "2023-03-31T23:59:59.999Z",
+            "created_at": "2022-07-15T14:30:00.000Z",
+            "expiry": "2022-07-15T14:30:00.000Z",
             "status": "shغال"
         },
         {
@@ -236,14 +188,6 @@
             "status": "شغال"
         },
         {
-            "code": "State of Survival: Zombie War",
-            "reward": null,
-            "server": "[Server: Global] | NTE(Neverness to Everness)",
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
             "code": "NTE(Neverness to Everness)",
             "reward": null,
             "server": "[Server: Global] | NTE(Neverness to Everness)",
@@ -252,7 +196,7 @@
             "status": "شغال"
         },
         {
-            "code": "Kingshot",
+            "code": "Identity V Top Up",
             "reward": null,
             "server": "[Server: Global] | Identity V Top Up",
             "created_at": null,
@@ -260,7 +204,7 @@
             "status": "شغال"
         },
         {
-            "code": "Identity V Top Up",
+            "code": "Crystal of Atlan【only Southeast Asia】",
             "reward": null,
             "server": "[Server: Global] | Crystal of Atlan【only Southeast Asia】",
             "created_at": null,
@@ -268,7 +212,7 @@
             "status": "شغال"
         },
         {
-            "code": "Crystal of Atlan【only Southeast Asia】",
+            "code": "Oletoken Gift Cards",
             "reward": null,
             "server": "[Server: Global] | Oletoken Gift Cards",
             "created_at": null,
@@ -276,7 +220,7 @@
             "status": "شغال"
         },
         {
-            "code": "Oletoken Gift Cards",
+            "code": "Love and Deepspace(third-party top-up)",
             "reward": null,
             "server": "[Server: Global] | Love and Deepspace(third-party top-up)",
             "created_at": null,
@@ -284,7 +228,7 @@
             "status": "شغال"
         },
         {
-            "code": "Love and Deepspace(third-party top-up)",
+            "code": "Punishing：Gray Raven Top Up",
             "reward": null,
             "server": "[Server: Global] | Punishing：Gray Raven Top Up",
             "created_at": null,
@@ -373,7 +317,7 @@
         },
         {
             "code": "DDDKZCEPZ647",
-            "reward": null,
+            "reward": "Free Redeem Code",
             "server": "PUBG Mobile",
             "created_at": "2026-10-09",
             "expiry": null,
@@ -381,7 +325,7 @@
         },
         {
             "code": "DDDKZCEQZP68",
-            "reward": null,
+            "reward": "Free Redeem Code",
             "server": "PUBG Mobile",
             "created_at": "2026-10-09",
             "expiry": null,
@@ -389,7 +333,7 @@
         },
         {
             "code": "DDDKZCEPZ647Copy",
-            "reward": null,
+            "reward": "Free Redeem Code",
             "server": "PUBG Mobile",
             "created_at": "2026-10-09",
             "expiry": null,
@@ -399,7 +343,15 @@
             "code": "DDDZCERZ357",
             "reward": null,
             "server": "DDDZCERZ357",
-            "created_at": "2026-10-09",
+            "created_at": "2026-10-09T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "DDDZCERZ357Copy",
+            "reward": null,
+            "server": "DDDZCERZ357Copy",
+            "created_at": "2026-10-09T00:00:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
@@ -407,7 +359,7 @@
             "code": "DDDZCETZWE5",
             "reward": null,
             "server": "DDDZCETZWE5",
-            "created_at": "2026-10-09",
+            "created_at": "2026-10-09T00:00:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
@@ -415,7 +367,15 @@
             "code": "DDDZCEUZQ4B",
             "reward": null,
             "server": "DDDZCEUZQ4B",
-            "created_at": "2026-10-09",
+            "created_at": "2026-10-09T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "DDDZCFAZQ6PCopy",
+            "reward": null,
+            "server": "DDDZCFAZQ6PCopy",
+            "created_at": "2026-10-09T00:00:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
@@ -423,15 +383,15 @@
             "code": "DDDZCFAZQ6P",
             "reward": null,
             "server": "DDDZCFAZQ6P",
-            "created_at": "2026-10-09",
+            "created_at": "2026-10-09T00:00:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "DDDZCFBZ8NPC",
+            "code": "DDDZCFBZ8NPCopy",
             "reward": null,
-            "server": "DDDZCFBZ8NPC",
-            "created_at": "2026-10-09",
+            "server": "DDDZCFBZ8NPCopy",
+            "created_at": "2026-10-09T00:00:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
@@ -439,7 +399,7 @@
             "code": "DDDKZCFBZ8NP",
             "reward": null,
             "server": "Free Redeem Code – Auto-Updated on 2026-10-09",
-            "created_at": "2026-10-09T00:00:00.000Z",
+            "created_at": "2026-10-09",
             "expiry": null,
             "status": "شغال"
         },
@@ -447,7 +407,7 @@
             "code": "DDDKZCFCZ83RCopy",
             "reward": null,
             "server": "Free Redeem Code – Auto-Updated on 2026-10-09",
-            "created_at": "2026-10-09T00:00:00.000Z",
+            "created_at": "2026-10-09",
             "expiry": null,
             "status": "شغال"
         },
@@ -455,7 +415,7 @@
             "code": "DDDKZCFCZ83R",
             "reward": null,
             "server": "Free Redeem Code – Auto-Updated on 2026-10-09",
-            "created_at": "2026-10-09T00:00:00.000Z",
+            "created_at": "2026-10-09",
             "expiry": null,
             "status": "شغال"
         },
@@ -463,7 +423,7 @@
             "code": "DDDKZCFDZPSSCopy",
             "reward": null,
             "server": "Free Redeem Code – Auto-Updated on 2026-10-09",
-            "created_at": "2026-10-09T00:00:00.000Z",
+            "created_at": "2026-10-09",
             "expiry": null,
             "status": "شغال"
         },
@@ -471,160 +431,56 @@
             "code": "DDDKZCFDZPSS",
             "reward": null,
             "server": "Free Redeem Code – Auto-Updated on 2026-10-09",
-            "created_at": "2026-10-09T00:00:00.000Z",
+            "created_at": "2026-10-09",
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "Server: PUBG Mobile UC Redeem Codes: 8th Anniversary Codes🌟] | PUBG Mobile 8th Anniversary started on March 27, 2026, and the official developer has dropped special PUBG Mobile free UC redeem code (you can unlock skins, avatars, etc. too). PUBG Mobile Philippines has launched new codes:",
+            "code": "Note: These are PUBG Mobile codes in 2026 for Pakistan too.",
             "reward": null,
-            "server": "PUBG Mobile",
-            "created_at": "2026-10-09T00:00:00.000Z",
+            "server": "Free Redeem Code – Auto-Updated on 2026-10-09",
+            "created_at": "2026-10-09",
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "Server: PUBG Mobile UC Redeem Codes: 8th Anniversary Codes🌟] | Tip: These codes might be region-restricted and time-limited. You can check it by signing in to PUBG Mobile > Events > 8th Anniversary: Celebration Carnival > Enter these codes. Then the rewards are here!",
+            "code": "PUBG Mobile UC Redeem Codes: 8th Anniversary Codes🌟] | PUBG Mobile 8th Anniversary started on March 27, 2026, and the official developer has dropped special PUBG Mobile free UC redeem code (you can unlock skins, avatars, etc. too). PUBG Mobile Philippines has launched new codes:",
             "reward": null,
-            "server": "PUBG Mobile",
-            "created_at": "2026-10-09T00:00:00.000Z",
+            "server": "PUBG Mobile UC Redeem Codes: 8th Anniversary Codes🌟] | PUBG Mobile 8th Anniversary started on March 27, 2026, and the official developer has dropped special PUBG Mobile free UC redeem code (you can unlock skins, avatars, etc. too). PUBG Mobile Philippines has launched new codes:",
+            "created_at": "2026-10-09",
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "Server: PUBG Mobile Redeem Codes",
+            "code": "PUBG Mobile UC Redeem Codes: 8th Anniversary Codes🌟] | Tip: These codes might be region-restricted and time-limited. You can check it by signing in to PUBG Mobile > Events > 8th Anniversary: Celebration Carnival > Enter these codes. Then the rewards are here!",
             "reward": null,
-            "server": "PUBG Mobile",
-            "created_at": "2026-10-09T00:00:00.000Z",
+            "server": "PUBG Mobile UC Redeem Codes: 8th Anniversary Codes🌟] | Tip: These codes might be region-restricted and time-limited. You can check it by signing in to PUBG Mobile > Events > 8th Anniversary: Celebration Carnival > Enter these codes. Then the rewards are here!",
+            "created_at": "2026-10-09",
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "Server: How to Use PUBG Mobile Redeem Codes in 2026",
+            "code": "PUBG Mobile Redeem Codes",
             "reward": null,
-            "server": "PUBG Mobile",
-            "created_at": "2026-10-09T00:00:00.000Z",
+            "server": "PUBG Mobile Redeem Codes",
+            "created_at": "2026-10-09",
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "PUBG Mobile Redeem Code 1",
-            "reward": "10 UC",
-            "server": "Asia",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "shغال"
-        },
-        {
-            "code": "PUBG Mobile Redeem Code 2",
-            "reward": "20 UC",
-            "server": "Europe",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "shغال"
-        },
-        {
-            "code": "PUBG Mobile Redeem Code 3",
-            "reward": "30 UC",
-            "server": "North America",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "shغال"
-        },
-        {
-            "code": "PUBG Mobile Redeem Code 4",
-            "reward": "10 UC",
-            "server": "Oceania",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "shغال"
-        },
-        {
-            "code": "PUBG Mobile Redeem Code 5",
-            "reward": "20 UC",
-            "server": "South America",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "shغال"
-        },
-        {
-            "code": "PUBG Mobile Promo Code 1",
-            "reward": "10 UC",
-            "server": "Easiest Way to Get PUBG Mobile Rewards",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
+            "code": "Regular PUBG Mobile redeem codes follow the standard redemption system and are usually claimed through the official PUBG Mobile Redemption Center. These codes are often shared during official events, livestream campaigns, or creator activities and may reward players with crates, vouchers, event items, or other in-game resources. Unlike Naruto Gallery Collection codes, regular codes can be redeemed directly with a Character ID instead of using a specific in-game event page.",
+            "reward": null,
+            "server": "Regular PUBG Mobile redeem codes follow the standard redemption system and are usually claimed through the official PUBG Mobile Redemption Center. These codes are often shared during official events, livestream campaigns, or creator activities and may reward players with crates, vouchers, event items, or other in-game resources. Unlike Naruto Gallery Collection codes, regular codes can be redeemed directly with a Character ID instead of using a specific in-game event page.",
+            "created_at": "2026-10-09",
+            "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "PUBG Mobile Promo Code 2",
-            "reward": "20 UC",
-            "server": "Easiest Way to Get PUBG Mobile Rewards",
-            "created_at": "2021-01-02T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "PUBG Mobile Promo Code 3",
-            "reward": "30 UC",
-            "server": "Easiest Way to Get PUBG Mobile Rewards",
-            "created_at": "2021-01-03T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "PUBG Mobile Promo Code 4",
-            "reward": "UC",
-            "server": "Easiest Way to Get PUBG Mobile Rewards",
-            "created_at": "2021-01-04T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "PUBG Mobile Promo Code 5",
-            "reward": "Silver Fragments",
-            "server": "Easiest Way to Get PUBG Mobile Rewards",
-            "created_at": "2021-01-05T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "PUBG Mobile Promo Code 6",
-            "reward": "UC",
-            "server": "Easiest Way to Get PUBG Mobile Rewards",
-            "created_at": "2021-01-06T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "PUBG Mobile Promo Code 7",
-            "reward": "Silver Fragments",
-            "server": "Easiest Way to Get PUBG Mobile Rewards",
-            "created_at": "2021-01-07T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "PUBG Mobile Promo Code 8",
-            "reward": "UC",
-            "server": "Easiest Way to Get PUBG Mobile Rewards",
-            "created_at": "2021-01-08T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "PUBG Mobile Promo Code 9",
-            "reward": "Silver Fragments",
-            "server": "Easiest Way to Get PUBG Mobile Rewards",
-            "created_at": "2021-01-09T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "PUBG Mobile Promo Code 10",
-            "reward": "UC",
-            "server": "Easiest Way to Get PUBG Mobile Rewards",
-            "created_at": "2021-01-10T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
+            "code": "Q5: Rewards not showing up?",
+            "reward": null,
+            "server": "Q5",
+            "created_at": "By completing your payment, you acknowledge and agree to our Privacy Policy and Terms of Use.",
+            "expiry": null,
             "status": "شغال"
         },
         {
