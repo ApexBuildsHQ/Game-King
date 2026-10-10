@@ -1,12 +1,28 @@
 {
     "game_id": "honkai_star_rail",
     "game_name": "Honkai: Star Rail",
-    "total_codes": 146,
+    "total_codes": 130,
     "codes": [
+        {
+            "code": "SHغال",
+            "reward": null,
+            "server": "Global",
+            "created_at": "2026-10-01T00:00:00.000Z",
+            "expiry": "2026-10-01T00:00:00.000Z",
+            "status": "SHغال"
+        },
+        {
+            "code": "SHGALU",
+            "reward": "Credits",
+            "server": "Global",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "SHغال"
+        },
         {
             "code": "KA5SV3FJM7WX",
             "reward": "100 stellar jades",
-            "server": "Expired codes:",
+            "server": "Expired codes: KA5SV3FJM7WX - 100 stellar jades and 50k credits",
             "created_at": "2023-03-01T00:00:00.000Z",
             "expiry": "2023-03-01T00:00:00.000Z",
             "status": "شغال"
@@ -14,7 +30,7 @@
         {
             "code": "7S4AD2X35NE3",
             "reward": "100 stellar jades and five traveller's guides",
-            "server": "Expired codes:",
+            "server": "Expired codes: 7S4AD2X35NE3 - 100 stellar jades and five traveller's guides",
             "created_at": "2023-02-28T00:00:00.000Z",
             "expiry": "2023-02-28T00:00:00.000Z",
             "status": "شغال"
@@ -22,7 +38,7 @@
         {
             "code": "MALSV2F247FP",
             "reward": "100 stellar jades and four refined aether",
-            "server": "Expired codes:",
+            "server": "Expired codes: MALSV2F247FP - 100 stellar jades and four refined aether",
             "created_at": "2023-03-01T00:00:00.000Z",
             "expiry": "2023-03-01T00:00:00.000Z",
             "status": "شغال"
@@ -30,7 +46,7 @@
         {
             "code": "8SMSVJWJM7ZT",
             "reward": "50 stellar jade and 10k credits",
-            "server": "Expired codes:",
+            "server": "Expired codes: 8SMSVJWJM7ZT - 50 stellar jade and 10k credits",
             "created_at": "2023-02-28T00:00:00.000Z",
             "expiry": "2023-02-28T00:00:00.000Z",
             "status": "شغال"
@@ -38,7 +54,7 @@
         {
             "code": "NSJR3B97ZZ5X",
             "reward": "50 stellar jade and 10k credits",
-            "server": "Expired codes:",
+            "server": "Expired codes: NSJR3B97ZZ5X - 50 stellar jade and 10k credits",
             "created_at": "2023-02-28T00:00:00.000Z",
             "expiry": "2023-02-28T00:00:00.000Z",
             "status": "شغال"
@@ -46,23 +62,23 @@
         {
             "code": "STARRAILFATE2026",
             "reward": "three traveler's guides and two the fluffy multi-functional fan glowsticks",
-            "server": "Expired codes:",
-            "created_at": "2023-03-01T00:00:00.000Z",
-            "expiry": "2023-03-01T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "BESTCOFFEEEVER",
-            "reward": "three traveler's guides and two express special blend: rustic infusion",
-            "server": "Expired codes:",
+            "server": "Expired codes: STARRAILFATE2026 - three traveler's guides and two the fluffy multi-functional fan glowsticks",
             "created_at": "2023-02-28T00:00:00.000Z",
             "expiry": "2023-02-28T00:00:00.000Z",
             "status": "شغال"
         },
         {
+            "code": "BESTCOFFEEEVER",
+            "reward": "three traveler's guides and two express special blend: rustic infusion",
+            "server": "Expired codes: BESTCOFFEEEVER - three traveler's guides and two express special blend: rustic infusion",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": "2023-03-01T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
             "code": "2TKRKAR6YG2X",
             "reward": "100 stellar jade and 50k credits",
-            "server": "Expired codes:",
+            "server": "Expired codes: 2TKRKAR6YG2X - 100 stellar jade and 50k credits",
             "created_at": "2023-02-28T00:00:00.000Z",
             "expiry": "2023-02-28T00:00:00.000Z",
             "status": "شغال"
@@ -71,400 +87,640 @@
             "code": "LSJ9JARPZH33",
             "reward": "100 stellar jade",
             "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
             "code": "YAJQ2TR6ZY2P",
-            "reward": "100 stellar jade",
+            "reward": "100 stellar jade and four refined aether",
             "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
             "code": "PSJQKBQPYGMT",
-            "reward": "50 stellar jade",
+            "reward": "50 stellar jade and 10k credits",
             "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
             "code": "BladeFitCheck",
             "reward": "three traveler's guides and two cold jokes",
             "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
             "code": "WAK84U29VLYP",
-            "reward": "100 stellar jade",
+            "reward": "100 stellar jade and 50k credits",
             "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
             "code": "HT3QMCJ9U4JB",
-            "reward": "100 stellar jade",
+            "reward": "100 stellar jade and five traveler's guides",
             "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
             "code": "XTJ9MV38DL3X",
-            "reward": "100 stellar jade",
+            "reward": "100 stellar jade and four refined aether",
             "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
             "code": "SitByEvanescia",
             "reward": "three traveler's guides and two bottled quantum ghosts",
             "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
             "code": "VS3Q5VK9CMFP",
-            "reward": "50 stellar jade",
+            "reward": "50 stellar jade and 10k credits",
             "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
             "code": "QS395DJQU4HK",
             "reward": "60 stellar jade",
             "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
             "code": "SILVERWOLFLV999",
             "reward": "three traveler's guides and two badge battle robes",
             "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
             "code": "CA395VK8ULCP",
-            "reward": "100 stellar jades",
+            "reward": "100 stellar jades and 50k credits",
             "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
+            "created_at": "2023-02-20T14:30:00",
+            "expiry": "2023-02-20T14:30:00",
             "status": "شغال"
         },
         {
             "code": "YT295D38DLEB",
             "reward": "100 stellar jade",
             "server": "YT295D38DLEB",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "EB395CJ8V5XF",
             "reward": "100 stellar jade",
             "server": "EB395CJ8V5XF",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "EB28LCJRU4W3",
             "reward": "50 stellar jade",
             "server": "EB28LCJRU4W3",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "AceDetective",
             "reward": "three traveler's guides",
             "server": "AceDetective",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "HERESTHECODE",
             "reward": "100 stellar jade",
             "server": "HERESTHECODE",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "SHAREANDSAVEIT",
             "reward": "100 stellar jade",
             "server": "SHAREANDSAVEIT",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "HAPPY3RDANNIV",
             "reward": "100 stellar jade",
             "server": "HAPPY3RDANNIV",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "4T28RJM4MS3B",
             "reward": "50 stellar jade",
             "server": "4T28RJM4MS3B",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "SUB2SPARXIE",
             "reward": "two Sparxie Unlimited Edition Collectible Plushies",
             "server": "SUB2SPARXIE",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
-            "code": "AHAHAHAHAHAHA",
+            "code": "HSRCHOCOLATE2025",
+            "reward": "six adventure logs",
+            "server": "HSRCHOCOLATE2025",
+            "created_at": "2023-03-01T00:00:00Z",
+            "expiry": "2023-03-31T23:59:59Z",
+            "status": "شغال"
+        },
+        {
+            "code": "KBJ8VZ6Y27QX",
+            "reward": "60 stellar jade",
+            "server": "KBJ8VZ6Y27QX",
+            "created_at": "2023-02-20T00:00:00Z",
+            "expiry": "2023-02-20T23:59:59Z",
+            "status": "شغال"
+        },
+        {
+            "code": "HAILYAOGUANG",
+            "reward": "three traveler's guides",
+            "server": "HAILYAOGUANG",
+            "created_at": "2023-01-15T00:00:00Z",
+            "expiry": "2023-01-15T23:59:59Z",
+            "status": "شغال"
+        },
+        {
+            "code": "DBJ9RJLMLSZB",
             "reward": "100 stellar jade",
-            "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": null,
+            "server": "DBJ9RJLMLSZB",
+            "created_at": "2023-01-01T00:00:00Z",
+            "expiry": "2023-01-01T23:59:59Z",
             "status": "شغال"
         },
         {
-            "code": "QWQXDDLOLOMO",
+            "code": "CSJ882LL4BHF",
             "reward": "100 stellar jade",
-            "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": null,
+            "server": "CSJ882LL4BHF",
+            "created_at": "2022-12-25T00:00:00Z",
+            "expiry": "2022-12-25T23:59:59Z",
             "status": "شغال"
         },
         {
-            "code": "HITLIKETOBEAHA",
+            "code": "7T3R83MMMTY3",
             "reward": "100 stellar jade",
-            "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": null,
+            "server": "7T3R83MMMTY3",
+            "created_at": "2022-11-20T00:00:00Z",
+            "expiry": "2022-11-20T23:59:59Z",
             "status": "شغال"
         },
         {
-            "code": "4TJ9UZ7Z36N7",
+            "code": "XAK9QJ454SG7",
             "reward": "50 stellar jade",
-            "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": null,
+            "server": "XAK9QJ454SG7",
+            "created_at": "2022-10-15T00:00:00Z",
+            "expiry": "2022-10-15T23:59:59Z",
             "status": "شغال"
         },
         {
-            "code": "JS2QEA3SDHFK",
+            "code": "CB2RUY7Y2P9B",
             "reward": "50 stellar jade",
-            "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": null,
+            "server": "CB2RUY7Y2P9B",
+            "created_at": "2022-09-20T00:00:00Z",
+            "expiry": "2022-09-20T23:59:59Z",
             "status": "شغال"
         },
         {
-            "code": "STORYOFLOVE",
-            "reward": "three traveler's guides and two oronyx slates",
-            "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": null,
+            "code": "THEDAHLIA",
+            "reward": "three traveler's guides",
+            "server": "THEDAHLIA",
+            "created_at": "2022-08-25T00:00:00Z",
+            "expiry": "2022-08-25T23:59:59Z",
             "status": "شغال"
         },
         {
-            "code": "PS3QWS3ACGDK",
-            "reward": "100 stellar jade",
-            "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "RSJ9EB2TDGC7",
-            "reward": "100 stellar jade",
-            "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "MTKQEAJAUZWB",
-            "reward": "100 stellar jade",
-            "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "VAK9XB2BCGFX",
-            "reward": "50 stellar jades and 10k credits",
-            "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "9BJ8YE37HM8B",
-            "reward": "50 stellar jade",
-            "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "FREEDANHENG",
-            "reward": "three traveler's guides and two earth crystal ore",
-            "server": "Expired codes:",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "STARRAILFATE",
+            "code": "AHAHAHAHAHAHA - 100 stellar jade and 50k credits",
             "reward": null,
-            "server": "Honkai: Star Rail",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "server": "Expired codes: [Server: Expired codes:] | AHAHAHAHAHAHA - 100 stellar jade and 50k credits",
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "QWQXDDLOLOMO - 100 stellar jade and five traveler's guides",
+            "reward": null,
+            "server": "Expired codes: [Server: Expired codes:] | QWQXDDLOLOMO - 100 stellar jade and five traveler's guides",
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "HITLIKETOBEAHA - 100 stellar jade and four refined aether",
+            "reward": null,
+            "server": "Expired codes: [Server: Expired codes:] | HITLIKETOBEAHA - 100 stellar jade and four refined aether",
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "4TJ9UZ7Z36N7 - 50 stellar jade and 10k credits",
+            "reward": null,
+            "server": "Expired codes: [Server: Expired codes:] | 4TJ9UZ7Z36N7 - 50 stellar jade and 10k credits",
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "JS2QEA3SDHFK - 50 stellar jade and 10k credits",
+            "reward": null,
+            "server": "Expired codes: [Server: Expired codes:] | JS2QEA3SDHFK - 50 stellar jade and 10k credits",
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "STORYOFLOVE - three traveler's guides and two oronyx slates",
+            "reward": null,
+            "server": "Expired codes: [Server: Expired codes:] | STORYOFLOVE - three traveler's guides and two oronyx slates",
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "PS3QWS3ACGDK - 100 stellar jade and 5k credits",
+            "reward": null,
+            "server": "Expired codes: [Server: Expired codes:] | PS3QWS3ACGDK - 100 stellar jade and 5k credits",
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "RSJ9EB2TDGC7 - 100 stellar jade and five traveler's guides",
+            "reward": null,
+            "server": "Expired codes: [Server: Expired codes:] | RSJ9EB2TDGC7 - 100 stellar jade and five traveler's guides",
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "MTKQEAJAUZWB - 100 stellar jade and four refined aether",
+            "reward": null,
+            "server": "Expired codes: [Server: Expired codes:] | MTKQEAJAUZWB - 100 stellar jade and four refined aether",
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "VAK9XB2BCGFX - 50 stellar jades and 10k credits",
+            "reward": null,
+            "server": "Expired codes: [Server: Expired codes:] | VAK9XB2BCGFX - 50 stellar jades and 10k credits",
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "9BJ8YE37HM8B - 50 stellar jade and 10k credits",
+            "reward": null,
+            "server": "Expired codes: [Server: Expired codes:] | 9BJ8YE37HM8B - 50 stellar jade and 10k credits",
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FREEDANHENG - three traveler's guides and two earth crystal ore",
+            "reward": null,
+            "server": "Expired codes: [Server: Expired codes:] | FREEDANHENG - three traveler's guides and two earth crystal ore",
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "MADFORMARCH - three traveler's guides and two At Least We Gather for Now",
+            "reward": null,
+            "server": "MADFORMARCH",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "YTKQGE27H57T - 100 stellar jade and 50k credits",
+            "reward": null,
+            "server": "YTKQGE27H57T",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "NBJ8HEJNZ5NF - 100 stellar jade and five traveler's guides",
+            "reward": null,
+            "server": "NBJ8HEJNZ5NF",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "UT38ZEJPY573 - 100 stellar jade and four refined aether",
+            "reward": null,
+            "server": "UT38ZEJPY573",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "3S3RGX2PGL7P - 50 stellar jade and 10k credits",
+            "reward": null,
+            "server": "3S3RGX2PGL7P",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "LIFTTHEKING - two monarch's maneuvers and three traveler's guides",
+            "reward": null,
+            "server": "LIFTTHEKING",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "TB39Z7X49NZ7 - 50 stellar jades and 10k credits",
+            "reward": null,
+            "server": "TB39Z7X49NZ7",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "STARTTHEFEAST - two boneflute of fish calling and three traveler's guides",
+            "reward": null,
+            "server": "STARTTHEFEAST",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "WTK9Z6EMQPEP - 100 stellar jade and 50k credits",
+            "reward": null,
+            "server": "WTK9Z6EMQPEP",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "AA39GPEL9NHB - 100 stellar jade and five traveler's guides",
+            "reward": null,
+            "server": "AA39GPEL9NHB",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "FTJ6CVTULSXP",
+            "reward": "100 stellar jade",
+            "server": "Expired codes:",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": "2023-03-01T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "ZS36CVBUMTZB",
+            "reward": "100 stellar jade",
+            "server": "Expired codes:",
+            "created_at": "2023-02-28T00:00:00.000Z",
+            "expiry": "2023-02-28T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "DTJ7CVACLBGF",
+            "reward": "100 stellar jade",
+            "server": "Expired codes:",
+            "created_at": "2023-02-27T00:00:00.000Z",
+            "expiry": "2023-02-27T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "WAJ7CVBC4SG3",
-            "reward": "50 stellar jade and 10k credits",
-            "server": "WAJ7CVBC4SG3",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "reward": "50 stellar jade",
+            "server": "Expired codes:",
+            "created_at": "2023-02-26T00:00:00.000Z",
+            "expiry": "2023-02-26T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "EBKLKMGLVMG7",
             "reward": "120 stellar jade",
-            "server": "EBKLKMGLVMG7",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "server": "Expired codes:",
+            "created_at": "2023-02-25T00:00:00.000Z",
+            "expiry": "2023-02-25T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "GA3M24Z5C5KT",
             "reward": "60 stellar jade",
-            "server": "GA3M24Z5C5KT",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "server": "Expired codes:",
+            "created_at": "2023-02-24T00:00:00.000Z",
+            "expiry": "2023-02-24T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "7T34K5YLU5GT",
-            "reward": "50 stellar jade and 10k credits",
-            "server": "7T34K5YLU5GT",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "reward": "50 stellar jade",
+            "server": "Expired codes:",
+            "created_at": "2023-02-23T00:00:00.000Z",
+            "expiry": "2023-02-23T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "ATELIERANAXA",
-            "reward": "three traveler's guides and two dried sagelore fruit",
-            "server": "ATELIERANAXA",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "reward": "three traveler's guides",
+            "server": "Expired codes:",
+            "created_at": "2023-02-22T00:00:00.000Z",
+            "expiry": "2023-02-22T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "5O6PU1V2W3X4",
-            "reward": "20k credits, three traveler's guides, and three dried sagelore fruit",
-            "server": "5O6PU1V2W3X4",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "reward": "three dried sagelore fruit",
+            "server": "Expired codes:",
+            "created_at": "2023-02-21T00:00:00.000Z",
+            "expiry": "2023-02-21T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "HSRCASTORICE",
-            "reward": "three traveler's guides and two redsoil feeds",
-            "server": "HSRCASTORICE",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "reward": "three traveler's guides",
+            "server": "Expired codes:",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "WS25K4Y4C5ET",
-            "reward": "100 stellar jade and 50k credits",
-            "server": "WS25K4Y4C5ET",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "reward": "100 stellar jade",
+            "server": "Expired codes:",
+            "created_at": "2023-02-19T00:00:00.000Z",
+            "expiry": "2023-02-19T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "GT34K5Z4U4EX",
-            "reward": "100 stellar jade and five traveler's guides",
-            "server": "GT34K5Z4U4EX",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "reward": "100 stellar jade",
+            "server": "Expired codes:",
+            "created_at": "2023-02-18T00:00:00.000Z",
+            "expiry": "2023-02-18T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "2A3LF64ANXSX",
+            "reward": "50 stellar jade",
+            "server": "Expired codes: [2A3LF64ANXSX - 50 stellar jade and 10k credits]",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": "2023-03-31T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "HSRINGAMESTOP",
+            "reward": "10k credits",
+            "server": "Expired codes: [HSRINGAMESTOP - 10k credits, four adventure logs, two lost gold fragments, and three sweet dreams holographic tickets]",
+            "created_at": "2023-02-28T00:00:00.000Z",
+            "expiry": "2023-03-31T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "HSNEWYEAR2025",
+            "reward": "three traveler's guides",
+            "server": "Expired codes: [HSNEWYEAR2025 - three traveler's guides and 20k credits]",
+            "created_at": "2023-02-28T00:00:00.000Z",
+            "expiry": "2023-03-31T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "LIGHTTHEWAY",
+            "reward": "5,000 credits",
+            "server": "Expired codes: [LIGHTTHEWAY - 5,000 credits and two odd gummy candy]",
+            "created_at": "2023-02-28T00:00:00.000Z",
+            "expiry": "2023-03-31T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "DEF3C9D0E1F2",
+            "reward": "20k credits",
+            "server": "Expired codes: [DEF3C9D0E1F2 - 20k credits, three traveler's guides, and three cosmic fried rice]",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": "2023-03-31T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "AMPHOREUS0115",
+            "reward": "5,000 credits",
+            "server": "Expired codes: [AMPHOREUS0115 - 5,000 credits and two Clockie pizzas (whole)]",
+            "created_at": "2023-02-28T00:00:00.000Z",
+            "expiry": "2023-03-31T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "THEETERNALLAND",
+            "reward": "5,000 credits",
+            "server": "Expired codes: [THEETERNALLAND - 5,000 credits and two alfalfa salads]",
+            "created_at": "2023-02-28T00:00:00.000Z",
+            "expiry": "2023-03-31T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "AWAITSYOURLIGHT",
+            "reward": "5,000 credits",
+            "server": "Expired codes: [AWAITSYOURLIGHT - 5,000 credits and two golden slumbernanas]",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": "2023-03-31T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "REMEMBRANCE",
+            "reward": "5,000 credits",
+            "server": "Expired codes: [REMEMBRANCE - 5,000 credits and two potato fries sundaes]",
+            "created_at": "2023-02-28T00:00:00.000Z",
+            "expiry": "2023-03-31T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "THEHERTAGIFT",
-            "reward": "six adventure logs",
+            "reward": "six adventure logs and two disposable shields",
             "server": "THEHERTAGIFT",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": "2023-03-01T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "M1K2I1J2K3L4",
             "reward": "20k credits, three lost crystals, and three disposable kinetic cannons",
             "server": "M1K2I1J2K3L4",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "created_at": "2023-02-28T00:00:00.000Z",
+            "expiry": "2023-02-28T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "NEWWORLD0115",
             "reward": "20k credits and three steelclaw daggers",
             "server": "NEWWORLD0115",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "created_at": "2023-02-27T00:00:00.000Z",
+            "expiry": "2023-02-27T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "HERTAGIFT",
             "reward": "six adventure logs and two automatic wooden dummies",
             "server": "HERTAGIFT",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "created_at": "2023-02-26T00:00:00.000Z",
+            "expiry": "2023-02-26T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "O7P8G3H4I5J6",
             "reward": "20k credits, three refined aether, and three automatic wooden dummies",
             "server": "O7P8G3H4I5J6",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "created_at": "2023-02-25T00:00:00.000Z",
+            "expiry": "2023-02-25T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "W7X8Q8R9S0T1",
             "reward": "20k credits, three lost crystals, and three topological acceleration bands",
             "server": "W7X8Q8R9S0T1",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "created_at": "2023-02-24T00:00:00.000Z",
+            "expiry": "2023-02-24T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "3V2WG3H4I5J6",
             "reward": "20k credits, three refined aether, and three energy drinks",
             "server": "3V2WG3H4I5J6",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "created_at": "2023-02-26T00:00:00.000Z",
+            "expiry": "2023-02-26T00:00:00.000Z",
             "status": "شغال"
         },
         {
@@ -485,7 +741,7 @@
         },
         {
             "code": "AGLAEAGIFT",
-            "reward": "3 chrysis heir doliums",
+            "reward": "3 traveler's guides",
             "server": "AGLAEAGIFT",
             "created_at": "2023-02-20T00:00:00.000Z",
             "expiry": "2023-02-20T00:00:00.000Z",
@@ -604,390 +860,6 @@
             "status": "شغال"
         },
         {
-            "code": "TT33Z3K5T7V1",
-            "reward": "20k credits",
-            "server": "Expired codes: TT33Z3K5T7V1 - 20k credits, three lost crystals, and three Clockie pizzas (whole)",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "QI75N8V1J2G7",
-            "reward": "20k credits",
-            "server": "Expired codes: QI75N8V1J2G7 - 20k credits, three refined aether, and three Dreamville specials",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "YF61G7F3P4Q2",
-            "reward": "30k credits",
-            "server": "Expired codes: YF61G7F3P4Q2 - 30k credits and three traveler's guides",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "VCUB4T2V4L8N5",
-            "reward": "20k credits",
-            "server": "Expired codes: VCUB4T2V4L8N5 - 20k credits, three classic SoulGlad, and three refined aether",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "WOVPRK19JGM41",
-            "reward": "20k credits",
-            "server": "Expired codes: WOVPRK19JGM41 - 20k credits, three lost crystals, and three dreamy cones",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "HSRFUGUE1225",
-            "reward": "three traveler's guides",
-            "server": "Expired codes: HSRFUGUE1225 - three traveler's guides and two immortal's delight",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "SUNDAYCALENDAR",
-            "reward": "three traveler's guides",
-            "server": "Expired codes: SUNDAYCALENDAR - three traveler's guides and two classic soulglad",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "AS3J6MNJVCA7",
-            "reward": "50 stellar jade",
-            "server": "Expired codes: AS3J6MNJVCA7 - three traveler's guides and two classic soulglad",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "TINGYUNISBACK",
-            "reward": "two immortal's delight",
-            "server": "Expired codes: TINGYUNISBACK - two immortal's delight and 5k credits",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "HAPPYSUNDAY",
-            "reward": "5k credits",
-            "server": "Expired codes: HAPPYSUNDAY - 5k credits and two Halovian winged burgers",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "THANKSPOMPOM - three condensed aether, two lost gold fragments, three Halovian winged burgers, and 10k credits",
-            "reward": null,
-            "server": "THANKSPOMPOM",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "HSRSEASTHEDAY - 60 stellar jade",
-            "reward": null,
-            "server": "HSRSEASTHEDAY",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "VBKJP473VCS3 - 50 stellar jade and 10k credits",
-            "reward": null,
-            "server": "VBKJP473VCS3",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "HSR320250115 - 100 stellar jade and 50k credits",
-            "reward": null,
-            "server": "HSR320250115",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "HSR3AMPHOREUS - 100 stellar jade and five traveler's guides",
-            "reward": null,
-            "server": "HSR3AMPHOREUS",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "HSR3DAWEISGIFT - 100 stellar jade and five refined aether",
-            "reward": null,
-            "server": "HSR3DAWEISGIFT",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "3A23UG9FR24T - 50 stellar jade and 10k credits",
-            "reward": null,
-            "server": "3A23UG9FR24T",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "ZTMQF2R7D1X8M - 20k credits, three traveler's guides, and three immortal's delight",
-            "reward": null,
-            "server": "ZTMQF2R7D1X8M",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "STARRAILKARAOKE - three traveler's guides, three sparse aether, and three full-auto dreampaint spray",
-            "reward": null,
-            "server": "STARRAILKARAOKE",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "RAPPAISHERE - 20k credits and three dazzling ninja provisions",
-            "reward": null,
-            "server": "RAPPAISHERE",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "RAPPANINJADICT",
-            "reward": "three traveler's guides and four full-auto dreampaint sprays",
-            "server": "RAPPANINJADICT",
-            "created_at": "2023-03-15T14:30:00.000Z",
-            "expiry": "2023-03-15T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "EB3KUYQW833P",
-            "reward": "60 stellar jade and 10k credits",
-            "server": "EB3KUYQW833P",
-            "created_at": "2023-03-15T14:30:00.000Z",
-            "expiry": "2023-03-15T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "K9NLF2R1T4P6",
-            "reward": "20k credits, three traveler's guides, and three reduce bananxiety",
-            "server": "K9NLF2R1T4P6",
-            "created_at": "2023-03-15T14:30:00.000Z",
-            "expiry": "2023-03-15T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "UAJJDY9E8JJT",
-            "reward": "100 stellar jade and 50k credits",
-            "server": "UAJJDY9E8JJT",
-            "created_at": "2023-03-15T14:30:00.000Z",
-            "expiry": "2023-03-15T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "MTJ2CG9XRK2F",
-            "reward": "100 stellar jade and five traveler's guides",
-            "server": "MTJ2CG9XRK2F",
-            "created_at": "2023-03-15T14:30:00.000Z",
-            "expiry": "2023-03-15T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "DSJKDYQF82J3",
-            "reward": "100 stellar jade and five refined aether",
-            "server": "DSJKDYQF82J3",
-            "created_at": "2023-03-15T14:30:00.000Z",
-            "expiry": "2023-03-15T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "4AKKCZQF92P3",
-            "reward": "three lost crystals and two dreamlight mixed sweets",
-            "server": "4AKKCZQF92P3",
-            "created_at": "2023-03-15T14:30:00.000Z",
-            "expiry": "2023-03-15T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "HBKKDH9FR3NX",
-            "reward": "three lost crystals and two scare boxes",
-            "server": "Honkai: Star Rail",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": "2023-02-20T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "MISTERRATIO",
-            "reward": "three origami cakes and 20k credits",
-            "server": "Honkai: Star Rail",
-            "created_at": "2023-02-19T10:30:00.000Z",
-            "expiry": "2023-02-19T10:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "VNQCT6Y2L8N4K",
-            "reward": "three refined aether, three health detox pills, and 20k credits",
-            "server": "Honkai: Star Rail",
-            "created_at": "2023-02-18T14:30:00.000Z",
-            "expiry": "2023-02-18T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "LINGSHAQUIZ",
-            "reward": "three traveler's guides and two jade marrow diffusion",
-            "server": "Honkai: Star Rail",
-            "created_at": "2023-02-17T10:30:00.000Z",
-            "expiry": "2023-02-17T10:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "MGLFK6N2C8Y4V",
-            "reward": "three traveler's guides, three jade marrow diffusion, and 20k credits",
-            "server": "Honkai: Star Rail",
-            "created_at": "2023-02-16T14:30:00.000Z",
-            "expiry": "2023-02-16T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "BKWHQ9B3G7T1M",
-            "reward": "three traveler's guides, three immortal's delight, and 20k credits",
-            "server": "Honkai: Star Rail",
-            "created_at": "2023-02-15T10:30:00.000Z",
-            "expiry": "2023-02-15T10:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "HJSZQ4C8H2F6W",
-            "reward": "three lost crystals, three amber huadiao wine, and 20k credits",
-            "server": "Honkai: Star Rail",
-            "created_at": "2023-02-14T14:30:00.000Z",
-            "expiry": "2023-02-14T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "XRPTL1P7K5H8W",
-            "reward": "three traveler's guides, three five-grain jade elixir, and 20k credits",
-            "server": "Honkai: Star Rail",
-            "created_at": "2023-02-13T10:30:00.000Z",
-            "expiry": "2023-02-13T10:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "CM25RWG44W62",
-            "reward": "three traveler's guides and 30k credits",
-            "server": "Honkai: Star Rail",
-            "created_at": "2023-02-12T14:30:00.000Z",
-            "expiry": "2023-02-12T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "5T3Y6764D3Q3",
-            "reward": "50 stellar jade and 10k credits",
-            "server": "Honkai: Star Rail",
-            "created_at": "2023-02-11T10:30:00.000Z",
-            "expiry": "2023-02-11T10:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "FeixiaoFiles",
-            "reward": "two five-grain jade elixir and three lost crystals",
-            "server": "Honkai: Star Rail",
-            "created_at": "2023-02-10T14:30:00.000Z",
-            "expiry": "2023-02-10T14:30:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "HSRRAZERLA25",
-            "reward": "three bottled soda",
-            "server": "HSRRAZERLA25",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
-            "status": "شغال"
-        },
-        {
-            "code": "NOHOTFOODPLEASE",
-            "reward": "three traveler's guides",
-            "server": "NOHOTFOODPLEASE",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
-            "status": "شغال"
-        },
-        {
-            "code": "AA2G7664C2RX",
-            "reward": "50 stellar jade",
-            "server": "AA2G7664C2RX",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
-            "status": "شغال"
-        },
-        {
-            "code": "5TJE2WYM6C6T",
-            "reward": "5k credits",
-            "server": "5TJE2WYM6C6T",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
-            "status": "شغال"
-        },
-        {
-            "code": "3S3XKXZ5NU27",
-            "reward": "50 stellar jade",
-            "server": "3S3XKXZ5NU27",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
-            "status": "شغال"
-        },
-        {
-            "code": "YUNLISNACK",
-            "reward": "three traveler's guides",
-            "server": "YUNLISNACK",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
-            "status": "شغال"
-        },
-        {
-            "code": "DB3FKWZ4NUG7",
-            "reward": "100 stellar jade",
-            "server": "DB3FKWZ4NUG7",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
-            "status": "شغال"
-        },
-        {
-            "code": "NB2W2XZ46VJT",
-            "reward": "100 stellar jade",
-            "server": "NB2W2XZ46VJT",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
-            "status": "شغال"
-        },
-        {
-            "code": "2BKWKEHL6DJX",
-            "reward": "100 stellar jade",
-            "server": "2BKWKEHL6DJX",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
-            "status": "شغال"
-        },
-        {
-            "code": "HAOCHIXIANZHOU",
-            "reward": "three traveler's guides",
-            "server": "HAOCHIXIANZHOU",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
-            "status": "شغال"
-        },
-        {
             "code": "0327CARNIVAL",
             "reward": "two sour dreams soft candy",
             "server": "0327CARNIVAL",
@@ -1086,89 +958,89 @@
         {
             "code": "RSKYSP646TR3",
             "reward": "100 stellar jade",
-            "server": "Expired codes",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "server": "Expired codes: RSKYSP646TR3 - 100 stellar jade and five refined aether",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "POMPOMPOWER",
-            "reward": "5k credits",
-            "server": "Expired codes",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "reward": "2 high-tech protective gear and 5k credits",
+            "server": "Expired codes: POMPOMPOWER - two high-tech protective gear and 5k credits",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "VEGASHSR",
-            "reward": "5k credits",
-            "server": "Expired codes",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "reward": "5k credits and two sweet dreams soda",
+            "server": "Expired codes: VEGASHSR - 5k credits and two sweet dreams soda",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "0206GRANDOPEN",
-            "reward": "5k credits",
-            "server": "Expired codes",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "reward": "5k credits and two energy drinks",
+            "server": "Expired codes: 0206GRANDOPEN -5k credits and two energy drinks",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "0206PENACONY",
-            "reward": "5k credits",
-            "server": "Expired codes",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "reward": "5k credits and two steamed puffergoat milk",
+            "server": "Expired codes: 0206PENACONY - 5k credits and two steamed puffergoat milk",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "DIVEINTODREAMS",
-            "reward": "5k credits",
-            "server": "Expired codes",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "reward": "5k credits and two bottled soda",
+            "server": "Expired codes: DIVEINTODREAMS - 5k credits and two bottled soda",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "6B976L2STURF",
-            "reward": "50 stellar jade",
-            "server": "Expired codes",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "reward": "50 stellar jade and 10k credits",
+            "server": "Expired codes: 6B976L2STURF - 50 stellar jade and 10k credits",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "SB87P52BTVQ3",
-            "reward": "50 stellar jade",
-            "server": "Expired codes",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "reward": "50 stellar jade and 10k credits",
+            "server": "Expired codes: SB87P52BTVQ3 - 50 stellar jade and 10k credits",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "ZA9674JSAUPF",
-            "reward": "100 stellar jade",
-            "server": "Expired codes",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "reward": "100 stellar jade and four refined aether",
+            "server": "Expired codes: ZA9674JSAUPF - 100 stellar jade and four refined aether",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "3S9N65KTBD63",
-            "reward": "100 stellar jade",
-            "server": "Expired codes",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "reward": "100 stellar jade and five traveler's guides",
+            "server": "Expired codes: 3S9N65KTBD63 - 100 stellar jade and five traveler's guides",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         },
         {
             "code": "6T96N52TADN7",
-            "reward": "100 stellar jade",
-            "server": "Expired codes",
-            "created_at": "2023-02-20T14:30:00",
-            "expiry": "2023-02-20T14:30:00",
+            "reward": "100 stellar jade and 50k credits",
+            "server": "Expired codes: 6T96N52TADN7 - 100 stellar jade and 50k credits",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
             "status": "شغال"
         }
     ]
