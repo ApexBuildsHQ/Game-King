@@ -1,7 +1,7 @@
 {
     "game_id": "nba_2k",
     "game_name": "NBA 2K",
-    "total_codes": 12,
+    "total_codes": 14,
     "codes": [
         {
             "code": "in-game",
@@ -39,6 +39,22 @@
             "code": "NBA-2K27",
             "reward": "NBA-2K27 Working",
             "server": "Global",
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "Neuralink-Related",
+            "reward": "List News 5 Neuralink-Related Questions That We Must Ask Now ByManik Berry April 14, 2021April 14, 2021 Do You Need A Chip In Your Skull?",
+            "server": "Similar Posts",
+            "created_at": null,
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "all-virtual",
+            "reward": "List Best Of CES 2021 Announcements: COVID Inspired Innovation Is Here ByManik Berry January 12, 2021March 29, 2022 The all-virtual CES 2021 has started and we saw some of the coolest innovations on the…",
+            "server": "Similar Posts",
             "created_at": null,
             "expiry": null,
             "status": "شغال"

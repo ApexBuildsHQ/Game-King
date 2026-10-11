@@ -1,7 +1,7 @@
 {
     "game_id": "pubg_mobile",
     "game_name": "PUBG Mobile",
-    "total_codes": 67,
+    "total_codes": 51,
     "codes": [
         {
             "code": "HappyGoldenMoon",
@@ -356,138 +356,10 @@
             "status": "شغال"
         },
         {
-            "code": "Global Rise of Kingdoms",
+            "code": "Global Life Makeover",
             "reward": null,
             "server": "Global",
             "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Life Makeover",
-            "reward": null,
-            "server": "[Server: Global] | Life Makeover",
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Persona5: The Phantom X",
-            "reward": null,
-            "server": "[Server: Global] | Persona5: The Phantom X",
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "MigoLive",
-            "reward": null,
-            "server": "[Server: Global] | MigoLive",
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Huntopia",
-            "reward": null,
-            "server": "[Server: Global] | Huntopia",
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Shadowverse: Worlds Beyond",
-            "reward": null,
-            "server": "[Server: Global] | Shadowverse: Worlds Beyond",
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Revelation Mobile : Infinite Journey",
-            "reward": null,
-            "server": "[Server: Global] | Revelation Mobile : Infinite Journey",
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "King of Fighters AFK",
-            "reward": null,
-            "server": "[Server: Character ID] | King of Fighters AFK",
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "[Server: Character ID] | These codes are long strings of similar-looking letters and numbers, so copy-paste rather than typing. One wrong character wastes the attempt, and the page shows the same error for a bad code and a mistyped ID, which makes troubleshooting annoying.",
-            "reward": null,
-            "server": "[Server: Character ID] | These codes are long strings of similar-looking letters and numbers, so copy-paste rather than typing. One wrong character wastes the attempt, and the page shows the same error for a bad code and a mistyped ID, which makes troubleshooting annoying.",
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "[Server: Q5: Rewards not showing up?] | Log in with Telegram",
-            "reward": null,
-            "server": "[Server: Q5: Rewards not showing up?] | Log in with Telegram",
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "[Server: Global] | WhatsApp",
-            "reward": null,
-            "server": "[Server: Global] | WhatsApp",
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "[Server: Mail] | NEXUSUCFREE",
-            "reward": null,
-            "server": "[Server: Mail] | NEXUSUCFREE",
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "[Server: Mail] | IEZCZH53F36AURX6",
-            "reward": null,
-            "server": "[Server: Mail] | IEZCZH53F36AURX6",
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "DDDKZCFEZWT6",
-            "reward": null,
-            "server": "Exclusive PUBG Mobile Redeem Codes Today🌟(Updated Daily)",
-            "created_at": "2026-10-10",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "DDDKZCFFZU5X",
-            "reward": null,
-            "server": "Exclusive PUBG Mobile Redeem Codes Today🌟(Updated Daily)",
-            "created_at": "2026-10-10",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "DDDKZCFGZJA4",
-            "reward": null,
-            "server": "Exclusive PUBG Mobile Redeem Codes Today🌟(Updated Daily)",
-            "created_at": "2026-10-10",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "DDDKZCFHZWQ6",
-            "reward": null,
-            "server": "Exclusive PUBG Mobile Redeem Codes Today🌟(Updated Daily)",
-            "created_at": "2026-10-10",
             "expiry": null,
             "status": "شغال"
         },

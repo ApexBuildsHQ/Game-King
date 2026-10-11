@@ -2,7 +2,7 @@
     {
         "game_id": "blox_fruits",
         "game_name": "Blox Fruits",
-        "total_codes": 99
+        "total_codes": 69
     },
     {
         "game_id": "free_fire",
@@ -22,16 +22,16 @@
     {
         "game_id": "nba_2k",
         "game_name": "NBA 2K",
-        "total_codes": 12
+        "total_codes": 14
     },
     {
         "game_id": "pokemon_go",
         "game_name": "Pokémon GO",
-        "total_codes": 1
+        "total_codes": 121
     },
     {
         "game_id": "pubg_mobile",
         "game_name": "PUBG Mobile",
-        "total_codes": 67
+        "total_codes": 51
     }
 ]
