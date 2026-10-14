@@ -1,69 +1,245 @@
 {
     "game_id": "free_fire",
     "game_name": "Garena Free Fire",
-    "total_codes": 50,
+    "total_codes": 87,
     "codes": [
         {
             "code": "FFPLUFBVSLOT",
-            "reward": "Free Fire MAX Redeem Codes October 2026",
-            "server": "Garena Free Fire",
+            "reward": null,
+            "server": "Garena Free Fire Max Redeem Codes October 2026",
             "created_at": "2026-10-01T00:00:00.000Z",
             "expiry": "2026-10-31T23:59:59.000Z",
             "status": "شغال"
         },
         {
-            "code": "S5PL7M2LRV8K",
+            "code": "G5K9J2L3W4R8TH7D",
+            "reward": "Diamonds x100",
+            "server": "Free Fire codes",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "FFMC2SJLKXSB",
+            "reward": "Diamonds x50",
+            "server": "Free Fire codes",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "GHTY89VCX2LK",
+            "reward": "Diamonds x100",
+            "server": "Free Fire codes",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "BVCX45LKJHG6",
+            "reward": "Diamonds x100",
+            "server": "Free Fire codes",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "LKJH78GFDSA3",
+            "reward": "Diamonds x100",
+            "server": "Free Fire codes",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "H8YC4TN6VKQ9",
             "reward": null,
-            "server": "Garena Free Fire Max",
-            "created_at": "2026-10-01T00:00:00.000Z",
+            "server": "Today’s working redeem codes",
+            "created_at": "2023-02-20T00:00:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "FQ9W2E1R7T5Y",
+            "code": "FT4E9Y5U1I30",
             "reward": null,
-            "server": "Latest Working Free Fire Redeem Codes",
-            "created_at": "2026-10-01T00:00:00.000Z",
+            "server": "FT4E9Y5U1I30",
+            "created_at": "2023-02-20T00:00:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "S9QK2L6VP3MR",
+            "code": "FPSTO7MXNPY5",
             "reward": null,
-            "server": "Latest Working Free Fire Redeem Codes",
-            "created_at": "2026-10-01T00:00:00.000Z",
+            "server": "FPSTO7MXNPY5",
+            "created_at": "2023-02-20T00:00:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "H1L5FT4E9Y5U",
+            "code": "NPTF2FWSPXN9",
+            "reward": null,
+            "server": "NPTF2FWSPXN9",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FPSTQ7MXNPY5",
+            "reward": null,
+            "server": "FPSTQ7MXNPY5",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "6KWMFJVMQQYG",
+            "reward": null,
+            "server": "6KWMFJVMQQYG",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FWCTKX2P5NQ",
+            "reward": null,
+            "server": "FWCTKX2P5NQ",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "TX4SC2VUNPKF",
+            "reward": null,
+            "server": "TX4SC2VUNPKF",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "RHTG9VOLTDWP",
+            "reward": null,
+            "server": "RHTG9VOLTDWP",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "N7QK5L3MRP9J",
+            "reward": null,
+            "server": "N7QK5L3MRP9J",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "J2QP8M1KVL6V",
+            "reward": null,
+            "server": "J2QP8M1KVL6V",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "R4EFR2D7G5T1",
             "reward": null,
             "server": "Free Fire codes",
-            "created_at": "2026-10-01T00:00:00.000Z",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": "2023-02-20T14:30:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "FFZ7M4KPL2RV",
+            "reward": null,
+            "server": "Free Fire codes",
+            "created_at": "2023-02-20T14:30:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "FE45TG56HG5F",
+            "code": "FFM3N8KPL5VR",
             "reward": null,
             "server": "Free Fire codes",
-            "created_at": "2026-10-01T00:00:00.000Z",
+            "created_at": "2023-02-20T14:30:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "P9O1I5U3Y2T8",
+            "code": "FFL8K3MPV2RN",
             "reward": null,
             "server": "Free Fire codes",
-            "created_at": "2026-10-01T00:00:00.000Z",
+            "created_at": "2023-02-20T14:30:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "K3J9H5G1F7D2",
+            "code": "FFV2K8PLM4RN",
             "reward": null,
             "server": "Free Fire codes",
-            "created_at": "2026-10-01T00:00:00.000Z",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FFP3K9LMR5VN",
+            "reward": null,
+            "server": "Free Fire codes",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FFQ7K5PLM2NR",
+            "reward": null,
+            "server": "Free Fire codes",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FFM9P3KLR2VN",
+            "reward": null,
+            "server": "Free Fire codes",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FFR9P4KLM2VN",
+            "reward": null,
+            "server": "Free Fire codes",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FFN3K8PLR5VM",
+            "reward": null,
+            "server": "Free Fire codes",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FFL2M8PKR9VN",
+            "reward": null,
+            "server": "Free Fire codes",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FFP9K4LMR2VN",
+            "reward": null,
+            "server": "Free Fire codes",
+            "created_at": "2023-02-20T14:30:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FFM2P7KLR5VN",
+            "reward": null,
+            "server": "Free Fire codes",
+            "created_at": "2023-02-20T14:30:00.000Z",
             "expiry": null,
             "status": "شغال"
         },
@@ -71,176 +247,192 @@
             "code": "FFR3P7KLM5VN",
             "reward": null,
             "server": "Free Fire codes",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "FFL9M4PKR2VN",
             "reward": null,
             "server": "Free Fire codes",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "FFZ5M8KPL2RV",
             "reward": null,
             "server": "Free Fire codes",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "FFV8K4PLM2RN",
             "reward": null,
             "server": "Free Fire codes",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "FFFM5P9KLR2VN",
             "reward": null,
             "server": "Free Fire codes",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "FFN4K9PLR2VM",
             "reward": null,
             "server": "Free Fire codes",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "FFQ8K3PLM2NR",
             "reward": null,
             "server": "Free Fire codes",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "FFQ3K7PLM9NR",
             "reward": null,
             "server": "Free Fire codes",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "FFFM8P2KLR4VN",
             "reward": null,
             "server": "Free Fire codes",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "FFV5K3PLM8RN",
             "reward": null,
             "server": "Free Fire codes",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "FPF7K2LMR9VN",
             "reward": null,
             "server": "Free Fire codes",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "FFZ3M4KPL8RV",
             "reward": null,
             "server": "Free Fire codes",
-            "created_at": "2023-02-20T14:30:00.000Z",
-            "expiry": null,
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "FFN9K2PLR5VM",
             "reward": "In-game Reward",
             "server": "Free Fire codes",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "created_at": "2022-01-01T00:00:00.000Z",
+            "expiry": "2022-01-01T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "FF6YH3BFD7VT",
             "reward": "In-game Reward",
             "server": "Latest Working Free Fire Redeem Codes",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "created_at": "2022-07-01T00:00:00.000Z",
+            "expiry": "2022-07-01T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "BR43FMAPYEZZ",
             "reward": "In-game Reward",
             "server": "Latest Working Free Fire Redeem Codes",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "created_at": "2022-08-01T00:00:00.000Z",
+            "expiry": "2022-08-01T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "UPQ7X5NMJ64V",
             "reward": "In-game Reward",
             "server": "Latest Working Free Fire Redeem Codes",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "created_at": "2022-08-01T00:00:00.000Z",
+            "expiry": "2022-08-01T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "FFR4G3HM5YJN",
             "reward": "In-game Reward",
             "server": "Latest Working Free Fire Redeem Codes",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "created_at": "2022-08-01T00:00:00.000Z",
+            "expiry": "2022-08-01T00:00:00.000Z",
             "status": "شغال"
         },
         {
-            "code": "FR2D7G5T1Y8H",
+            "code": "FFRX4VWQXZQ9",
             "reward": "In-game Reward",
             "server": "Free Fire Codes for India",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "created_at": "2022-10-01T00:00:00.000Z",
+            "expiry": "2022-10-01T00:00:00.000Z",
             "status": "شغال"
         },
         {
-            "code": "FM6N1B8V3C4X",
+            "code": "FP901I5U3Y2T",
             "reward": "In-game Reward",
             "server": "Free Fire Codes for India",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "created_at": "2022-10-01T00:00:00.000Z",
+            "expiry": "2022-10-01T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "The latest Free Fire MAX redeem codes for October 2026 include FFM1VSWCPXN9, 4ST1ZTBZBRP9, FT4E9Y5U1I3O, QK82S2LX5Q27, FL2K6J4H8G5F, FM6N1B8V3C4X, FR2D7G5T1Y8H, FJI4GFE45TG5, and RD3TZK7WME65.",
+            "reward": "In-game Reward",
+            "server": "Latest Working Free Fire Redeem Codes",
+            "created_at": "2026-10-01T00:00:00.000Z",
+            "expiry": "2026-10-01T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "FA3S7D5F1G9H",
+            "reward": "In-game Reward",
+            "server": "Latest Working Free Fire Redeem Codes",
+            "created_at": "2022-08-01T00:00:00.000Z",
+            "expiry": "2022-08-01T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "GJEH2A3S955H",
             "reward": "In-game Reward",
             "server": "Free Fire Redeem Codes for Brazil",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "created_at": "2022-10-01T00:00:00.000Z",
+            "expiry": "2022-10-01T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "8GLBG8Z0914H",
             "reward": "In-game Reward",
             "server": "Free Fire Redeem Codes for Brazil",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "created_at": "2022-10-01T00:00:00.000Z",
+            "expiry": "2022-10-01T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "0JC5LZ5XBZ4Y",
             "reward": "In-game Reward",
             "server": "Free Fire Redeem Codes for Brazil",
-            "created_at": "2023-02-20T00:00:00.000Z",
-            "expiry": "2023-02-20T00:00:00.000Z",
+            "created_at": "2022-10-01T00:00:00.000Z",
+            "expiry": "2022-10-01T00:00:00.000Z",
             "status": "شغال"
         },
         {
@@ -348,6 +540,94 @@
             "status": "شغال"
         },
         {
+            "code": "FF2VC3DENRF5",
+            "reward": null,
+            "server": "Europe",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FF7TRD2SQA9F",
+            "reward": null,
+            "server": "Europe",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FF8HG3JK5L0P",
+            "reward": null,
+            "server": "Europe",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FF5B6YUHBVF3",
+            "reward": null,
+            "server": "Europe",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FFR3GT5YJH76",
+            "reward": null,
+            "server": "Europe",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FKK7XC8PON3M",
+            "reward": null,
+            "server": "Europe",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "FKF7XC8PON3M",
+            "reward": null,
+            "server": "Europe",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "DRAGONSTRIDE:LEGACYREBORN(Dragonheir: SILENT GODS)",
+            "reward": null,
+            "server": "Global",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "WHY CAN'T THE REDEM CODE BE USED? ",
+            "reward": null,
+            "server": "Global",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "THE SITE IS UNDER MAINTENANCE OR DELAYED: GARENA'S REDEMPTION SITE MAY OCCASIONALLY EXPERIENCE MAINTENANCE, TRAFFIC ISSUES, OR TEMPORARY DELAYS. TRY AGAIN LATER, REFRESH THE PAGE, OR USE ANOTHER BROKERAGE.",
+            "reward": null,
+            "server": "Global",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "THE FREE FIRE X NARUTO SHIPPUDEN COLLABORATION CONTINUES INTO OCTOBER, BRINGING PLAYERS BACK TO THE HIDDEN LEAF VILLAGE WITH REFRESHED BATTLE ROYALE GAMEPLAY, NINJA ACADEMY ACTIVITIES, AND LIMITED-TIME REWARDS. EVENT AVAILABILITY AND REWARD DETAILS MAY VARY BY SERVER, SO CHECK THE IN-GAME EVENT PAGE FOR YOUR REGION.",
+            "reward": null,
+            "server": "Europe",
+            "created_at": "2023-03-01T00:00:00.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
             "code": "FFM1VSWCPXN9",
             "reward": null,
             "server": "Garena Free Fire",
@@ -381,6 +661,22 @@
         },
         {
             "code": "FL2K6J4H8G5F",
+            "reward": null,
+            "server": "Garena Free Fire",
+            "created_at": "2026-10-01T00:00:00.000Z",
+            "expiry": "2026-10-01T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "FM6N1B8V3C4X",
+            "reward": null,
+            "server": "Garena Free Fire",
+            "created_at": "2026-10-01T00:00:00.000Z",
+            "expiry": "2026-10-01T00:00:00.000Z",
+            "status": "شغال"
+        },
+        {
+            "code": "FR2D7G5T1Y8H",
             "reward": null,
             "server": "Garena Free Fire",
             "created_at": "2026-10-01T00:00:00.000Z",
