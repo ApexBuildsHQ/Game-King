@@ -1,72 +1,8 @@
 {
     "game_id": "pokemon_go",
     "game_name": "Pokémon GO",
-    "total_codes": 20,
+    "total_codes": 12,
     "codes": [
-        {
-            "code": "QFWM3SRJPVRY5",
-            "reward": null,
-            "server": "Bonus Timed Research – Unown X",
-            "created_at": "2021-08-23T00:00:00Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "SYJMGFM3SWRLQ",
-            "reward": null,
-            "server": "Max Particles Giveaway - Day 4",
-            "created_at": "2021-08-23T00:00:00Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "68TTGWN79E7XE",
-            "reward": null,
-            "server": "Max Particles Giveaway - Day 4",
-            "created_at": "2021-08-23T00:00:00Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "47KP3GM76TK2F",
-            "reward": null,
-            "server": "Max Particles Giveaway - Day 3",
-            "created_at": "2021-08-23T00:00:00Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "J85D4HVHQFFYV",
-            "reward": null,
-            "server": "Max Particles Giveaway - Day 2",
-            "created_at": "2021-08-23T00:00:00Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "NG94RKDHXWMUL",
-            "reward": null,
-            "server": "World Championships Co-stream - Pikachu Varsity Jacket",
-            "created_at": "2021-08-23T00:00:00Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "V7L7NS9HRKSL4",
-            "reward": null,
-            "server": "World Championships Day 2 - Team Building Research",
-            "created_at": "2021-08-23T00:00:00Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Z3USC2JQS9LWN",
-            "reward": null,
-            "server": "2025 Worlds Tee Avatar Item",
-            "created_at": "2021-08-23T00:00:00Z",
-            "expiry": null,
-            "status": "شغال"
-        },
         {
             "code": "REN73F559HY3T",
             "reward": "null",
@@ -108,41 +44,41 @@
             "status": "شغال"
         },
         {
-            "code": "DYNAMAX Max Battle Day",
+            "code": "Dynamax Max Battle Day",
             "reward": "Dynamax Max Battle Day",
-            "server": "Pokémon GO Events and Updates in October 2026",
+            "server": "Active Pokémon GO Codes",
             "created_at": "October 24, 2026",
-            "expiry": "A Max Battle-focused day with Dynamax content and related rewards.",
+            "expiry": "October 24, 2026",
             "status": "شغال"
         },
         {
             "code": "Event",
             "reward": "Event",
-            "server": "Pokémon GO Events and Updates in October 2026",
+            "server": "Active Pokémon GO Codes",
             "created_at": "Date",
-            "expiry": "Highlights",
+            "expiry": "Date",
             "status": "شغال"
         },
         {
             "code": "Harvest Festival",
             "reward": "Harvest Festival",
-            "server": "Pokémon GO Events and Updates in October 2026",
+            "server": "Active Pokémon GO Codes",
             "created_at": "September 29 – October 5, 2026",
-            "expiry": "Early-October seasonal event continuing from late September, with themed encounters, event bonuses, and collection-focused gameplay.",
+            "expiry": "September 29 – October 5, 2026",
             "status": "شغال"
         },
         {
             "code": "Gigantamax Cinderace Max Battle Day",
             "reward": "Gigantamax Cinderace Max Battle Day",
-            "server": "Pokémon GO Events and Updates in October 2026",
+            "server": "Active Pokémon GO Codes",
             "created_at": "October 3, 2026",
-            "expiry": "A one-day Max Battle event featuring Gigantamax Cinderace.",
+            "expiry": "October 3, 2026",
             "status": "شغال"
         },
         {
             "code": "October is especially valuable for collectors and event players. Prioritize World Space Week for Astronaut Pikachu, Zorua Community Day for Candy and Shiny hunting, and Halloween 2026 Part One for spooky encounters, event research, and possible limited-time reward drops. Keep checking the in-game event calendar and the Pokémon GO Web Store for new Timed Research, promo codes, and partner rewards.",
-            "reward": "World Space Week for Astronaut Pikachu, Zorua Community Day for Candy and Shiny hunting, and Halloween 2026 Part One for spooky encounters, event research, and possible limited-time reward drops.",
-            "server": "Pokémon GO Events and Updates in October 2026",
+            "reward": "World Space Week",
+            "server": "Active Pokémon GO Codes",
             "created_at": "Not Announced",
             "expiry": "Not Announced",
             "status": "شغال"
@@ -150,17 +86,17 @@
         {
             "code": "Zorua Community Day",
             "reward": "Zorua Community Day",
-            "server": "Pokémon GO Events and Updates in October 2026",
+            "server": "Active Pokémon GO Codes",
             "created_at": "October 10, 2026",
-            "expiry": "Zorua is the featured Community Day Pokémon, with increased wild encounters and event bonuses during the Community Day window.",
+            "expiry": "October 10, 2026",
             "status": "شغال"
         },
         {
             "code": "Fall Marathon: Buddy Trek",
-            "reward": "Buddy Trek",
-            "server": "Pokémon GO Events and Updates in October 2026",
+            "reward": "Fall Marathon: Buddy Trek",
+            "server": "Active Pokémon GO Codes",
             "created_at": "October 13 – October 19, 2026",
-            "expiry": "Buddy-focused event with walking, exploration, and progression-related rewards.",
+            "expiry": "October 13 – October 19, 2026",
             "status": "شغال"
         }
     ]
