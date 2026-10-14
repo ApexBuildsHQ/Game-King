@@ -1,7 +1,7 @@
 {
     "game_id": "free_fire",
     "game_name": "Garena Free Fire",
-    "total_codes": 51,
+    "total_codes": 50,
     "codes": [
         {
             "code": "FFPLUFBVSLOT",
@@ -401,14 +401,6 @@
             "server": "Garena Free Fire",
             "created_at": "2026-10-01T00:00:00.000Z",
             "expiry": "2026-10-01T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "ShallowReactive",
-            "reward": "ShallowReactive",
-            "server": "One UI 9 For Samsung S24 And Fold 6 Series Arrives In The US: See Details",
-            "created_at": "2026-10-13T00:00:00+00:00",
-            "expiry": "2026-10-13",
             "status": "شغال"
         }
     ]

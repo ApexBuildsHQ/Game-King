@@ -1,7 +1,7 @@
 {
     "game_id": "pubg_mobile",
     "game_name": "PUBG Mobile",
-    "total_codes": 93,
+    "total_codes": 63,
     "codes": [
         {
             "code": "DCLLZEBAZ6SXDCLLZEBBZHKDDCLLZEBCZFJBDCLLZEBDZJ8TDCLLZEBEZAMBDCLLZEBFZT46DCLLZEBGZVTDDCLLZEBHZX4CDCLLZEBIZUGW",
@@ -182,165 +182,93 @@
         {
             "code": "CMCKZBZBAW",
             "reward": null,
-            "server": "PUBG Mobile Redeem Codes",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "COPY",
-            "reward": null,
-            "server": "General PUBG Mobile Redeem Codes Today🌟",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "CLPOZEZVEG",
-            "reward": null,
-            "server": "General PUBG Mobile Redeem Codes Today🌟",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "CLPOZDZ6PP",
-            "reward": null,
-            "server": "General PUBG Mobile Redeem Codes Today🌟",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "CLPOZCZTVW",
-            "reward": null,
-            "server": "General PUBG Mobile Redeem Codes Today🌟",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
-            "status": "شغال"
-        },
-        {
-            "code": "CLPOZBZ6JE",
-            "reward": null,
-            "server": "General PUBG Mobile Redeem Codes Today🌟",
+            "server": "PUBG Mobile",
             "created_at": "2021-01-01T00:00:00.000Z",
             "expiry": "2021-01-31T23:59:59.999Z",
             "status": "شغال"
         },
         {
             "code": "CLHFZFZ7VE",
-            "reward": null,
-            "server": "Global",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
+            "reward": "20 Challenge Points",
+            "server": "General PUBG Mobile Redeem Codes Today🌟",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "Arena Breakout: Infinite (PC Version)",
             "reward": null,
             "server": "Global",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "Dragonstride: Legacy Reborn(Dragonheir: Silent Gods)",
             "reward": null,
             "server": "Global",
-            "created_at": "2021-01-01T00:00:00.000Z",
-            "expiry": "2021-01-31T23:59:59.999Z",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "Wuthering Waves",
             "reward": null,
-            "server": "[Server: Global] | Wuthering Waves",
-            "created_at": null,
-            "expiry": null,
+            "server": "Global",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "Gangstar Mirage City",
             "reward": null,
-            "server": "[Server: Global] | Gangstar Mirage City",
-            "created_at": null,
-            "expiry": null,
+            "server": "Global",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "Whiteout Survival",
             "reward": null,
-            "server": "[Server: Global] | Whiteout Survival",
-            "created_at": null,
-            "expiry": null,
+            "server": "Global",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "State of Survival: Zombie War",
             "reward": null,
-            "server": "[Server: Global] | State of Survival: Zombie War",
-            "created_at": null,
-            "expiry": null,
+            "server": "Global",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "Arknights: Endfield",
             "reward": null,
-            "server": "[Server: Global] | Arknights: Endfield",
-            "created_at": null,
-            "expiry": null,
+            "server": "Global",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "Kingshot",
             "reward": null,
-            "server": "[Server: Global] | Kingshot",
-            "created_at": null,
-            "expiry": null,
+            "server": "Global",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
             "code": "Identity V Top Up",
             "reward": null,
-            "server": "[Server: Global] | Identity V Top Up",
-            "created_at": null,
-            "expiry": null,
+            "server": "Global",
+            "created_at": "2023-02-20T00:00:00.000Z",
+            "expiry": "2023-02-20T00:00:00.000Z",
             "status": "شغال"
         },
         {
-            "code": "Crystal of Atlan【only Southeast Asia】",
-            "reward": null,
-            "server": "[Server: Global] | Crystal of Atlan【only Southeast Asia】",
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Oletoken Gift Cards",
-            "reward": null,
-            "server": "[Server: Global] | Oletoken Gift Cards",
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Love and Deepspace(third-party top-up)",
-            "reward": null,
-            "server": "[Server: Global] | Love and Deepspace(third-party top-up)",
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Punishing：Gray Raven Top Up",
-            "reward": null,
-            "server": "[Server: Global] | Punishing：Gray Raven Top Up",
-            "created_at": null,
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Ragnarok Origin Global",
+            "code": "Sherlock Holmes The Awakened",
             "reward": null,
             "server": "Global",
             "created_at": "2021-07-01T00:00:00.000Z",
@@ -348,7 +276,7 @@
             "status": "شغال"
         },
         {
-            "code": "StarMaker",
+            "code": "Hearthstone",
             "reward": null,
             "server": "Global",
             "created_at": "2021-07-01T00:00:00.000Z",
@@ -356,7 +284,7 @@
             "status": "شغال"
         },
         {
-            "code": "Standoff 2",
+            "code": "MigoLive",
             "reward": null,
             "server": "Global",
             "created_at": "2021-07-01T00:00:00.000Z",
@@ -364,7 +292,7 @@
             "status": "شغال"
         },
         {
-            "code": "Yalla Ludo - Ludo&Jackaroo",
+            "code": "Life Makeover",
             "reward": null,
             "server": "Global",
             "created_at": "2021-07-01T00:00:00.000Z",
@@ -372,7 +300,7 @@
             "status": "شغال"
         },
         {
-            "code": "Doomsday: Last Survivors",
+            "code": "Persona5: The Phantom X",
             "reward": null,
             "server": "Global",
             "created_at": "2021-07-01T00:00:00.000Z",
@@ -380,7 +308,7 @@
             "status": "شغال"
         },
         {
-            "code": "Chaos Zero Nightmare Top Up",
+            "code": "Huntopia",
             "reward": null,
             "server": "Global",
             "created_at": "2021-07-01T00:00:00.000Z",
@@ -388,7 +316,7 @@
             "status": "شغال"
         },
         {
-            "code": "The Seven DeadlySins: Origin",
+            "code": "Shadowverse: Worlds Beyond",
             "reward": null,
             "server": "Global",
             "created_at": "2021-07-01T00:00:00.000Z",
@@ -396,7 +324,7 @@
             "status": "شغال"
         },
         {
-            "code": "TFT：Teamfight Tactics",
+            "code": "BLEACH:Soul Resonance(Global)",
             "reward": null,
             "server": "Global",
             "created_at": "2021-07-01T00:00:00.000Z",
@@ -404,79 +332,55 @@
             "status": "شغال"
         },
         {
-            "code": "SD Gundam G Generation ETERNAL",
-            "reward": null,
-            "server": "Global",
-            "created_at": "2021-07-01T00:00:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Sherlock Holmes The Awakened steam key",
-            "reward": null,
-            "server": "Global",
-            "created_at": "2021-07-01T00:00:00.000Z",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "DDDKZCHCZ9S3Copy",
-            "reward": null,
-            "server": "Exclusive PUBG Mobile Redeem Codes Today🌟(Updated Daily)",
-            "created_at": "2026-10-14",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "DDDKZCHCZ9S3",
-            "reward": null,
-            "server": "Exclusive PUBG Mobile Redeem Codes Today🌟(Updated Daily)",
-            "created_at": "2026-10-14",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "DDDKZCHDZQFFCopy",
-            "reward": null,
-            "server": "Exclusive PUBG Mobile Redeem Codes Today🌟(Updated Daily)",
-            "created_at": "2026-10-14",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "DDDKZCHDZQFF",
-            "reward": null,
-            "server": "Exclusive PUBG Mobile Redeem Codes Today🌟(Updated Daily)",
-            "created_at": "2026-10-14",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "DDDKZCHEZWDM",
-            "reward": null,
+            "code": "DDDZCHCZ9S3",
+            "reward": "Free Redeem Code",
             "server": "Free Redeem Code – Auto-Updated on 2026-10-14",
             "created_at": "2026-10-14",
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "DDDKZCHFZAXK",
-            "reward": null,
+            "code": "DDDZCHDZQFF",
+            "reward": "Free Redeem Code",
             "server": "Free Redeem Code – Auto-Updated on 2026-10-14",
             "created_at": "2026-10-14",
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "DDDKZCHGZTAG",
-            "reward": null,
+            "code": "DDDZCHEZWDM",
+            "reward": "Free Redeem Code",
             "server": "Free Redeem Code – Auto-Updated on 2026-10-14",
             "created_at": "2026-10-14",
             "expiry": null,
             "status": "شغال"
         },
         {
-            "code": "DDDKZCHHZU34",
+            "code": "DDDZCHFZAXK",
+            "reward": "Free Redeem Code",
+            "server": "Free Redeem Code – Auto-Updated on 2026-10-14",
+            "created_at": "2026-10-14",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "DDDZCHGZTAG",
+            "reward": "Free Redeem Code",
+            "server": "Free Redeem Code – Auto-Updated on 2026-10-14",
+            "created_at": "2026-10-14",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "DDDZCHHZU34",
+            "reward": "Free Redeem Code",
+            "server": "Free Redeem Code – Auto-Updated on 2026-10-14",
+            "created_at": "2026-10-14",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "DDDKZCHIZ5GNCopy",
             "reward": null,
             "server": "Free Redeem Code – Auto-Updated on 2026-10-14",
             "created_at": "2026-10-14",
@@ -492,7 +396,23 @@
             "status": "شغال"
         },
         {
+            "code": "DDDKZCHJZHSSCopy",
+            "reward": null,
+            "server": "Free Redeem Code – Auto-Updated on 2026-10-14",
+            "created_at": "2026-10-14",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
             "code": "DDDKZCHJZHSS",
+            "reward": null,
+            "server": "Free Redeem Code – Auto-Updated on 2026-10-14",
+            "created_at": "2026-10-14",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": "DDDKZCHKZAAWCopy",
             "reward": null,
             "server": "Free Redeem Code – Auto-Updated on 2026-10-14",
             "created_at": "2026-10-14",
@@ -564,188 +484,29 @@
             "status": "شغال"
         },
         {
-            "code": "PUBG Mobile Redeem Codes",
+            "code": "[Server: Q5: Rewards not showing up?] | Continue browsingSwitch",
+            "reward": "null",
+            "server": "[Server: Q5: Rewards not showing up?] | Continue browsingSwitch",
+            "created_at": "null",
+            "expiry": "null",
+            "status": "شغال"
+        },
+        {
+            "code": "PUBG Mobile Türkiye",
             "reward": null,
+            "server": "KurbanBayrami26",
+            "created_at": "2026-10-13T19:30:14.000Z",
+            "expiry": null,
+            "status": "شغال"
+        },
+        {
+            "code": 5,
+            "msg": 6,
+            "data": 7,
             "server": "PUBG Mobile Redeem Codes",
-            "created_at": "2026-10-14",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Regular PUBG Mobile redeem codes follow the standard redemption system and are usually claimed through the official PUBG Mobile Redemption Center. These codes are often shared during official events, livestream campaigns, or creator activities and may reward players with crates, vouchers, event items, or other in-game resources.",
-            "reward": null,
-            "server": "Regular PUBG Mobile redeem codes follow the standard redemption system and are usually claimed through the official PUBG Mobile Redemption Center. These codes are often shared during official events, livestream campaigns, or creator activities and may reward players with crates, vouchers, event items, or other in-game resources.",
-            "created_at": "2026-10-14",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "How to Use PUBG Mobile Redeem Codes in 2026",
-            "reward": null,
-            "server": "How to Use PUBG Mobile Redeem Codes in 2026",
-            "created_at": "2026-10-14",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Prerequisite: You should have completed the in-game tutorial and be able to access the main lobby menu.",
-            "reward": null,
-            "server": "Prerequisite: You should have completed the in-game tutorial and be able to access the main lobby menu.",
-            "created_at": "2026-10-14",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "PUBG Mobile Honor Series Ultimate Set: Umbral Scorpius, Dual Forms & Upgradable UZI",
-            "reward": "0",
-            "server": "Q5",
-            "created_at": "2021-10-01T00:00:00.000Z",
-            "expiry": "2021-10-01T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "PUBG Mobile Brainrot Royale Halloween Update: Ghost Ship, New Brainrots, Wand ＆ Magic Broom",
-            "reward": "0",
-            "server": "Q5",
-            "created_at": "2021-10-01T00:00:00.000Z",
-            "expiry": "2021-10-01T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "PUBG Mobile Login to BuffBuffFaster top up, better deals. Join BuffBuff now.",
-            "reward": "0",
-            "server": "Q5",
-            "created_at": "2021-10-01T00:00:00.000Z",
-            "expiry": "2021-10-01T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "PUBG Mobile InstantSecure",
-            "reward": "0",
-            "server": "Q5",
-            "created_at": "2021-10-01T00:00:00.000Z",
-            "expiry": "2021-10-01T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "PUBG Mobile Link your account. This refund will be instantly credited to your BuffBuff wallet. The wallet balance can be used directly to place a new order — no waiting required.",
-            "reward": "0",
-            "server": "Q5",
-            "created_at": "2021-10-01T00:00:00.000Z",
-            "expiry": "2021-10-01T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "PUBG Mobile Log in with GoogleLog in with TelegramLogin with Discord",
-            "reward": "0",
-            "server": "Q5",
-            "created_at": "2021-10-01T00:00:00.000Z",
-            "expiry": "2021-10-01T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "PUBG Mobile By completing your payment, you acknowledge and agree to our Privacy Policy and Terms of Use.",
-            "reward": "0",
-            "server": "Q5",
-            "created_at": "2021-10-01T00:00:00.000Z",
-            "expiry": "2021-10-01T00:00:00.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "PUBG Mobile Redeem Codes – October 2026",
-            "reward": null,
-            "server": "Global",
-            "created_at": "2026-10-01T00:00:00.000Z",
-            "expiry": "2026-10-01T23:59:59.000Z",
-            "status": "شغال"
-        },
-        {
-            "code": "DCLLZEBBZHKD",
-            "reward": null,
-            "server": "PUBG Mobile",
-            "created_at": "2026-10-14T00:00:00",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "DCLLZEBCZFJB",
-            "reward": null,
-            "server": "PUBG Mobile",
-            "created_at": "2026-10-14T00:00:00",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "DCLLZEBDZJ8T",
-            "reward": null,
-            "server": "PUBG Mobile",
-            "created_at": "2026-10-14T00:00:00",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "DCLLZEBEZAMB",
-            "reward": null,
-            "server": "PUBG Mobile",
-            "created_at": "2026-10-14T00:00:00",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "DCLLZEBFZT46",
-            "reward": null,
-            "server": "PUBG Mobile",
-            "created_at": "2026-10-14T00:00:00",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "DCLLZEBGZVTD",
-            "reward": null,
-            "server": "PUBG Mobile",
-            "created_at": "2026-10-14T00:00:00",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "DCLLZEBHZX4C",
-            "reward": null,
-            "server": "PUBG Mobile",
-            "created_at": "2026-10-14T00:00:00",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "DCLLZEBIZUGW",
-            "reward": null,
-            "server": "Global",
-            "created_at": "2026-10-14T00:00:00",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "Lucen",
-            "reward": null,
-            "server": "Global",
-            "created_at": "2026-10-14T00:00:00",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "PUBG MOBILE source review: no newly confirmed official public code found. The older strings below remain unverified; no in-game redemption test was performed.",
-            "reward": null,
-            "server": "Global",
-            "created_at": "2026-10-14T00:00:00",
-            "expiry": null,
-            "status": "شغال"
-        },
-        {
-            "code": "The table below archives previously listed PUBG Mobile code strings. Current validity and rewards were not independently confirmed on October 14, 2026, so they should not be treated as a working-code list. Standard website codes and in-game event codes may use different redemption systems.",
-            "reward": null,
-            "server": "Global",
-            "created_at": "2026-10-14T00:00:00",
-            "expiry": null,
-            "status": "شغال"
+            "created_at": "2021-01-01T00:00:00.000Z",
+            "expiry": "2021-01-01T00:00:00.000Z",
+            "status": "Shagal"
         }
     ]
 }
